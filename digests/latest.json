@@ -1,40 +1,15 @@
 {
- "date": "2026-08-02",
- "generated_at": "02 Aug 2026 19:49 WIB",
+ "date": "2026-08-03",
+ "generated_at": "03 Aug 2026 05:56 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Hutan Indonesia dalam Kepungan Ekspansi",
-     "link": "https://mongabay.co.id/podcast/2026/08/hutan-indonesia-dalam-kepungan-ekspansi/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-     "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-     "source": "The Guardian — World",
-     "published": "2026-08-02T09:00:17+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Bisakah Anda membedakan wajah manusia sungguhan dan wajah ciptaan AI?",
-     "link": "https://www.bbc.com/indonesia/articles/c2dkjed688ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-08-02T06:24:24+00:00",
+     "title": "Indonesia usul perdalam kerjasama pendidikan AI regional di ASEAN",
+     "link": "https://www.antaranews.com/berita/5676841/indonesia-usul-perdalam-kerjasama-pendidikan-ai-regional-di-asean",
+     "source": "ANTARA News",
+     "published": "2026-08-02T22:13:23+07:00",
      "keywords": [
       "AI"
      ],
@@ -46,12 +21,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Hutan Indonesia dalam Kepungan Ekspansi",
-     "link": "https://mongabay.co.id/podcast/2026/08/hutan-indonesia-dalam-kepungan-ekspansi/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Basarnas lanjutkan pencarian pemuda diduga tenggelam di Kali BKB",
+     "link": "https://www.antaranews.com/berita/5676881/basarnas-lanjutkan-pencarian-pemuda-diduga-tenggelam-di-kali-bkb",
+     "source": "ANTARA News",
+     "published": "2026-08-02T22:42:04+07:00",
      "keywords": [
-      "deforestasi"
+      "banjir"
      ],
      "also_reported_by": []
     }
