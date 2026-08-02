@@ -7,7 +7,7 @@
 
 **Pemantau media open-source: pantau kata kunci di puluhan feed RSS/Atom dan terima digest berita harian otomatis — gratis, tanpa API key, berjalan sendiri di repo GitHub-mu lewat GitHub Actions.**
 
-Layanan *media monitoring* komersial mahal; alat ini memberikan intinya secara terbuka: kamu tentukan **feed** (media mana saja) dan **topik** (kata kunci apa saja), lalu setiap pagi pukul 05.00 WIB sebuah digest Markdown + HTML muncul di folder [`digests/`](digests/) — dikelompokkan per topik, kata kunci disorot, bebas duplikat antar-hari, lengkap dengan daftar feed yang gagal diambil.
+Layanan *media monitoring* komersial mahal; alat ini memberikan intinya secara terbuka: kamu tentukan **feed** (media mana saja) dan **topik** (kata kunci apa saja), lalu setiap pagi pukul 05.00 WIB sebuah digest Markdown + HTML muncul di folder [`digests/`](digests/) — dikelompokkan per topik, kata kunci disorot, bebas duplikat antar-hari, lengkap dengan daftar feed yang gagal diambil. Versi 2 menambahkan otak: berita yang sama dari beberapa media otomatis **diklaster jadi satu** (🔥 untuk yang ramai), **tren topik** dibandingkan rata-rata 7 hari (↑ ↓ →), **rekap mingguan** bergrafik dibuat otomatis tiap Senin, dan digest bisa dikirim ke **Telegram atau email**.
 
 Cocok untuk jurnalis yang memantau isu liputan, humas yang memantau pemberitaan institusi, peneliti dan mahasiswa yang mengikuti topik tugas akhir, LSM yang mengawal isu lingkungan, atau siapa pun yang tidak mau ketinggalan berita tentang hal yang penting baginya.
 
@@ -32,6 +32,10 @@ pip install -r requirements.txt
 python run.py                      # baca config.yaml → tulis digests/
 python run.py --dry-run            # cetak digest ke layar saja
 python run.py --config saya.yaml --output keluaran --state state.json
+python run.py --check              # uji kesehatan semua feed di config
+python run.py --weekly             # buat rekap mingguan dari history.json
+python run.py --import-opml f.opml # ubah OPML (ekspor RSS reader) jadi YAML
+python run.py --export-opml f.opml # ekspor daftar feed ke OPML
 ```
 
 ## Konfigurasi
@@ -62,6 +66,20 @@ Aturan pencocokan: tidak peka kapital, mendukung **frasa** ("kecerdasan buatan")
 
 `run.py` mengambil semua feed (kegagalan per-feed hanya dicatat, tidak menghentikan proses) → menyaring artikel yang terlalu tua → membuang artikel yang sudah pernah dilaporkan (disimpan di `state.json`, otomatis di-commit oleh workflow) → mencocokkan tiap artikel dengan tiap topik → merender `digests/digest-YYYY-MM-DD.md`, `latest.md`, dan `latest.html` yang rapi dibuka di ponsel. Semuanya pustaka standar Python + PyYAML; tidak ada API key, tidak ada layanan pihak ketiga.
 
+## Fitur lanjutan (v2)
+
+**Klaster lintas media.** Berita yang sama dari beberapa outlet digabung jadi satu entri — sumber lain tercantum sebagai "diberitakan juga oleh …", kata kunci digabung, dan entri yang ramai (≥2 kata kunci atau ≥2 media) diberi tanda 🔥 serta naik ke atas. Ambang kemiripan judul diatur lewat `cluster_threshold` (Jaccard 0–1, bawaan 0.55).
+
+**Tren & rekap mingguan.** Setiap run dicatat ke `history.json`; judul topik di digest harian diberi panah ↑ ↓ → dibandingkan rata-rata 7 hari sebelumnya (aktif setelah riwayat ≥3 hari). Setiap Senin 05.30 WIB workflow **weekly** membuat `digests/mingguan-YYYY-Www.md` berisi tabel perbandingan pekan-ke-pekan, kata kunci terpanas, dan grafik batang SVG yang dirender tanpa dependensi.
+
+**Notifikasi Telegram.** Buat bot lewat [@BotFather](https://t.me/BotFather) → salin token; dapatkan chat ID-mu (mis. lewat @userinfobot). Simpan keduanya di repo → Settings → Secrets and variables → Actions sebagai `TELEGRAM_BOT_TOKEN` dan `TELEGRAM_CHAT_ID`, lalu set `notify.telegram: true` di config. Ringkasan digest terkirim tiap pagi; tanpa secret, langkah ini dilewati dengan catatan di log.
+
+**Notifikasi email.** Set secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASSWORD`, `SMTP_FROM`, lalu `notify.email.enabled: true` dan isi `to:`. Email berisi versi HTML digest lengkap.
+
+**Kesehatan feed.** Feed yang gagal ≥3 run beruntun ditandai 💀 "diduga mati" di footer digest — beda dari kegagalan sesaat (⚠), jadi kamu tahu persis URL mana yang perlu diganti.
+
+**OPML & JSON.** Pindahkan langganan dari RSS reader mana pun lewat `--import-opml` (menghasilkan potongan YAML siap tempel) atau bagikan daftar feed-mu lewat `--export-opml`. Setiap run juga menulis `digests/latest.json` terstruktur untuk diolah program lain.
+
 ## Keterbatasan (jujur)
 
 - **URL RSS media sering berpindah atau dimatikan.** Daftar bawaan di `config.yaml` adalah titik awal, bukan kebenaran abadi — feed yang gagal selalu tercantum di bagian bawah setiap digest supaya mudah kamu perbaiki.
@@ -73,10 +91,11 @@ Aturan pencocokan: tidak peka kapital, mendukung **frasa** ("kecerdasan buatan")
 
 ```bash
 pip install -r requirements.txt pytest
-pytest        # 16 tes: parser RSS/Atom, matcher, state, digest, end-to-end
+pytest        # 30 tes: parser, matcher, klaster, tren, notifikasi, OPML,
+              # state, digest, dan dua uji end-to-end offline
 ```
 
-Struktur: `monitor/feeds.py` (ambil + parse), `monitor/matcher.py` (topik & sorot), `monitor/digest.py` (state + render), `monitor/cli.py` (alur utama). Kontribusi diterima — feed baru yang terverifikasi, perbaikan parser, atau fitur (mis. kirim digest ke email/Telegram) silakan lewat pull request.
+Struktur: `monitor/feeds.py` (ambil + parse), `monitor/matcher.py` (topik & sorot), `monitor/cluster.py` (klaster lintas media), `monitor/trends.py` (riwayat, tren, rekap + SVG), `monitor/notify.py` (Telegram/email), `monitor/opml.py` (impor/ekspor), `monitor/digest.py` (state + render), `monitor/cli.py` (alur utama). Kontribusi diterima — feed baru yang terverifikasi, perbaikan parser, atau fitur (mis. kirim digest ke email/Telegram) silakan lewat pull request.
 
 ## Lisensi
 
@@ -86,4 +105,4 @@ Struktur: `monitor/feeds.py` (ambil + parse), `monitor/matcher.py` (topik & soro
 
 ## 🇬🇧 English summary
 
-**media-monitor** is an open-source, zero-API-key media monitoring tool: define your RSS/Atom feeds and keyword topics in one `config.yaml`, and GitHub Actions delivers a daily Markdown + HTML digest into `digests/` — grouped by topic, keywords highlighted, deduplicated across days, with failed feeds listed honestly in the footer. Fork → edit `config.yaml` → enable the **digest** workflow; or run locally with `python run.py`. Matching is case-insensitive, phrase-aware, and word-boundary safe (`any` / `all` / `exclude` per topic). Pure standard-library Python + PyYAML, 16 passing tests including an offline end-to-end run over fixture feeds. Default feeds/topics are Indonesian-media-oriented but everything is configurable. Limitations are stated plainly in the section above: feed URLs rot, matching is literal, and digests carry titles + summaries only, linking readers to the original sources.
+**media-monitor** is an open-source, zero-API-key media monitoring tool: define your RSS/Atom feeds and keyword topics in one `config.yaml`, and GitHub Actions delivers a daily Markdown + HTML digest into `digests/` — grouped by topic, keywords highlighted, deduplicated across days, with failed feeds listed honestly in the footer. Fork → edit `config.yaml` → enable the **digest** workflow; or run locally with `python run.py`. Matching is case-insensitive, phrase-aware, and word-boundary safe (`any` / `all` / `exclude` per topic). v2 adds cross-outlet story clustering with 🔥 hot-marking, 7-day trend arrows per topic, an automated weekly recap with a dependency-free SVG chart, optional Telegram/email notifications via GitHub Secrets, per-feed health tracking (💀 after 3 consecutive failures), OPML import/export, and a machine-readable `latest.json`. Pure standard-library Python + PyYAML, 30 passing tests including two offline end-to-end runs over fixture feeds. Default feeds/topics are Indonesian-media-oriented but everything is configurable. Limitations are stated plainly in the section above: feed URLs rot, matching is literal, and digests carry titles + summaries only, linking readers to the original sources.

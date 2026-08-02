@@ -33,3 +33,15 @@ topics:
     any: [kecerdasan buatan, AI, chip, semikonduktor, pusat data, startup]
   - name: Lingkungan & Iklim
     any: [iklim, deforestasi, banjir, emisi, energi terbarukan, sampah plastik]
+
+# Ambang kemiripan judul untuk klaster lintas media (0–1)
+cluster_threshold: 0.55
+
+# Notifikasi (opsional). Kredensial lewat GitHub Secrets:
+#   Telegram : TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+#   Email    : SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD, SMTP_FROM
+notify:
+  telegram: false
+  email:
+    enabled: false
+    to: []
