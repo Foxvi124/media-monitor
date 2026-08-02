@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Kabar Fixture</title>
+  <item>
+    <title>Smelter nikel baru diresmikan di Sulawesi</title>
+    <link>https://example.com/smelter-nikel</link>
+    <description><![CDATA[<p>Fasilitas <b>hilirisasi</b> nikel mulai beroperasi &amp; menyerap ribuan pekerja.</p>]]></description>
+    <pubDate>Sat, 01 Aug 2026 08:30:00 +0700</pubDate>
+  </item>
+  <item>
+    <title>Harga zodiak nikel hari ini</title>
+    <link>https://example.com/zodiak</link>
+    <description>Konten hiburan tentang zodiak dan nikel.</description>
+    <pubDate>Sat, 01 Aug 2026 09:00:00 +0700</pubDate>
+  </item>
+  <item>
+    <title>Resep rendang cepat untuk pemula</title>
+    <link>https://example.com/rendang</link>
+    <description>Tidak ada hubungannya dengan topik mana pun.</description>
+    <pubDate>Fri, 31 Jul 2026 20:00:00 +0700</pubDate>
+  </item>
+</channel>
+</rss>

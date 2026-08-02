@@ -1,0 +1,35 @@
+# ====== media-monitor: konfigurasi ======
+# Edit bebas: tambah/hapus feed dan topik, lalu commit.
+
+utc_offset_hours: 7      # zona waktu digest (7 = WIB)
+tz_label: WIB
+max_age_hours: 36        # abaikan artikel lebih tua dari ini (0 = tanpa batas)
+limit_per_topic: 25
+snippet_chars: 220
+
+feeds:
+  - name: ANTARA News
+    url: https://www.antaranews.com/rss/terkini.xml
+  - name: BBC News Indonesia
+    url: https://feeds.bbci.co.uk/indonesia/rss.xml
+  - name: CNN Indonesia — Nasional
+    url: https://www.cnnindonesia.com/nasional/rss
+  - name: Tempo — Nasional
+    url: https://rss.tempo.co/nasional
+  - name: detikcom
+    url: https://rss.detik.com/index.php/detikcom
+  - name: Mongabay Indonesia
+    url: https://www.mongabay.co.id/feed/
+  - name: The Conversation Indonesia
+    url: https://theconversation.com/id/articles.rss
+  - name: The Guardian — World
+    url: https://www.theguardian.com/world/rss
+
+topics:
+  - name: Pertambangan & Hilirisasi
+    any: [nikel, smelter, hilirisasi, tambang, batu bara, timah, freeport, bauksit]
+    exclude: [zodiak]
+  - name: Teknologi & AI
+    any: [kecerdasan buatan, AI, chip, semikonduktor, pusat data, startup]
+  - name: Lingkungan & Iklim
+    any: [iklim, deforestasi, banjir, emisi, energi terbarukan, sampah plastik]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fixture Atom</title>
+  <entry>
+    <title>Startup AI lokal raih pendanaan untuk pusat data</title>
+    <link rel="alternate" href="https://example.com/startup-ai"/>
+    <summary>Perusahaan kecerdasan buatan membangun pusat data hemat energi.</summary>
+    <published>2026-08-01T03:15:00Z</published>
+  </entry>
+  <entry>
+    <title>Banjir rob melanda pesisir utara</title>
+    <link href="https://example.com/banjir"/>
+    <summary>Perubahan iklim memperparah banjir rob di kota pesisir.</summary>
+    <updated>2026-08-01T04:00:00Z</updated>
+  </entry>
+</feed>

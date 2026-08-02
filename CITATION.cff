@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "media-monitor: open-source RSS keyword monitoring and daily digests"
+type: software
+authors:
+  - family-names: "Abdi"
+    given-names: "Alfonsus"
+version: 1.0.0
+date-released: "2026-08-02"
+license: MIT
+repository-code: "https://github.com/Foxvi124/media-monitor"

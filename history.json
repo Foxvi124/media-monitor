@@ -1,0 +1,20 @@
+{
+ "runs": [
+  {
+   "date": "2026-08-02",
+   "topics": {
+    "Pertambangan": 1,
+    "Teknologi": 1,
+    "Iklim": 1
+   },
+   "keywords": {
+    "nikel": 1,
+    "smelter": 1,
+    "kecerdasan buatan": 1,
+    "pusat data": 1,
+    "iklim": 1,
+    "banjir": 1
+   }
+  }
+ ]
+}
