@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" font-family="sans-serif" font-size="11">
+<rect width="720" height="260" fill="#fbfaf7"/>
+<rect x="12" y="5" width="10" height="10" fill="#0b5d8a"/>
+<text x="26" y="14">Iklim</text>
+<rect x="244" y="5" width="10" height="10" fill="#e09a2f"/>
+<text x="258" y="14">Lingkungan & Iklim</text>
+<rect x="476" y="5" width="10" height="10" fill="#3d7a4a"/>
+<text x="490" y="14">Pertambangan</text>
+<rect x="12" y="21" width="10" height="10" fill="#a04a4a"/>
+<text x="26" y="30">Pertambangan & Hilirisasi</text>
+<rect x="244" y="21" width="10" height="10" fill="#6b5b95"/>
+<text x="258" y="30">Teknologi</text>
+<rect x="476" y="21" width="10" height="10" fill="#7a7a3d"/>
+<text x="490" y="30">Teknologi & AI</text>
+<text x="84.0" y="240" text-anchor="middle">07-28</text>
+<text x="180.0" y="240" text-anchor="middle">07-29</text>
+<text x="276.0" y="240" text-anchor="middle">07-30</text>
+<text x="372.0" y="240" text-anchor="middle">07-31</text>
+<text x="468.0" y="240" text-anchor="middle">08-01</text>
+<rect x="536.2" y="201.7" width="55.7" height="24.3" fill="#0b5d8a"/>
+<rect x="536.2" y="177.4" width="55.7" height="24.3" fill="#e09a2f"/>
+<rect x="536.2" y="153.1" width="55.7" height="24.3" fill="#3d7a4a"/>
+<rect x="536.2" y="128.9" width="55.7" height="24.3" fill="#a04a4a"/>
+<rect x="536.2" y="104.6" width="55.7" height="24.3" fill="#6b5b95"/>
+<rect x="536.2" y="56.0" width="55.7" height="48.6" fill="#7a7a3d"/>
+<text x="564.0" y="240" text-anchor="middle">08-02</text>
+<text x="564.0" y="52.0" text-anchor="middle" fill="#41505d">7</text>
+<rect x="632.2" y="201.7" width="55.7" height="24.3" fill="#e09a2f"/>
+<rect x="632.2" y="177.4" width="55.7" height="24.3" fill="#7a7a3d"/>
+<text x="660.0" y="240" text-anchor="middle">08-03</text>
+<text x="660.0" y="173.4" text-anchor="middle" fill="#41505d">2</text>
+<line x1="36" y1="226" x2="708" y2="226" stroke="#22303c"/>
+</svg>
