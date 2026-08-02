@@ -5,7 +5,10 @@
    "topics": {
     "Pertambangan": 1,
     "Teknologi": 1,
-    "Iklim": 1
+    "Iklim": 1,
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 1
    },
    "keywords": {
     "nikel": 1,
@@ -13,7 +16,10 @@
     "kecerdasan buatan": 1,
     "pusat data": 1,
     "iklim": 1,
-    "banjir": 1
+    "banjir": 1,
+    "tambang": 1,
+    "AI": 2,
+    "deforestasi": 1
    }
   }
  ]

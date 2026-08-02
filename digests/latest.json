@@ -1,0 +1,103 @@
+{
+ "date": "2026-08-02",
+ "generated_at": "02 Aug 2026 19:49 WIB",
+ "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Hutan Indonesia dalam Kepungan Ekspansi",
+     "link": "https://mongabay.co.id/podcast/2026/08/hutan-indonesia-dalam-kepungan-ekspansi/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Teknologi & AI",
+   "items": [
+    {
+     "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+     "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+     "source": "The Guardian — World",
+     "published": "2026-08-02T09:00:17+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Bisakah Anda membedakan wajah manusia sungguhan dan wajah ciptaan AI?",
+     "link": "https://www.bbc.com/indonesia/articles/c2dkjed688ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-08-02T06:24:24+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Hutan Indonesia dalam Kepungan Ekspansi",
+     "link": "https://mongabay.co.id/podcast/2026/08/hutan-indonesia-dalam-kepungan-ekspansi/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "deforestasi"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  }
+ ],
+ "feeds": [
+  {
+   "name": "ANTARA News",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "BBC News Indonesia",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "CNN Indonesia — Nasional",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "name": "Tempo — Nasional",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "name": "detikcom",
+   "ok": false,
+   "error": "RemoteDisconnected: Remote end closed connection without response"
+  },
+  {
+   "name": "Mongabay Indonesia",
+   "ok": true,
+   "error": null
+  },
+  {
+   "name": "The Conversation Indonesia",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 406: Not Acceptable"
+  },
+  {
+   "name": "The Guardian — World",
+   "ok": true,
+   "error": null
+  }
+ ]
+}
