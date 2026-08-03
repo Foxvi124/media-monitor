@@ -1,32 +1,62 @@
 {
- "date": "2026-08-03",
- "generated_at": "03 Aug 2026 05:56 WIB",
+ "date": "2026-08-04",
+ "generated_at": "04 Aug 2026 06:00 WIB",
  "topics": [
   {
-   "name": "Teknologi & AI",
+   "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Indonesia usul perdalam kerjasama pendidikan AI regional di ASEAN",
-     "link": "https://www.antaranews.com/berita/5676841/indonesia-usul-perdalam-kerjasama-pendidikan-ai-regional-di-asean",
+     "title": "Bahlil ungkap strategi insentif NMC pacu mobil listrik berbasis nikel",
+     "link": "https://www.antaranews.com/berita/5678583/bahlil-ungkap-strategi-insentif-nmc-pacu-mobil-listrik-berbasis-nikel",
      "source": "ANTARA News",
-     "published": "2026-08-02T22:13:23+07:00",
+     "published": "2026-08-04T01:34:36+07:00",
      "keywords": [
-      "AI"
+      "nikel"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Nikel Raja Ampat, Greenpeace Desak Industri Otomotif Telusur Rantai Pasok",
+     "link": "https://mongabay.co.id/2026/08/02/nikel-raja-ampat-greenpeace-desak-industri-otomotif-telusur-rantai-pasok/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "nikel"
      ],
      "also_reported_by": []
     }
    ]
   },
   {
-   "name": "Lingkungan & Iklim",
+   "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Basarnas lanjutkan pencarian pemuda diduga tenggelam di Kali BKB",
-     "link": "https://www.antaranews.com/berita/5676881/basarnas-lanjutkan-pencarian-pemuda-diduga-tenggelam-di-kali-bkb",
-     "source": "ANTARA News",
-     "published": "2026-08-02T22:42:04+07:00",
+     "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
+     "link": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
+     "source": "The Guardian — World",
+     "published": "2026-08-03T18:45:20+00:00",
      "keywords": [
-      "banjir"
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "AI perluas peluang kerja sama pendidikan China-ASEAN",
+     "link": "https://www.antaranews.com/berita/5678559/ai-perluas-peluang-kerja-sama-pendidikan-china-asean",
+     "source": "ANTARA News",
+     "published": "2026-08-04T00:11:40+07:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Alibaba luncurkan model AI terbaru Qwen3.8-Max",
+     "link": "https://www.antaranews.com/berita/5678552/alibaba-luncurkan-model-ai-terbaru-qwen38-max",
+     "source": "ANTARA News",
+     "published": "2026-08-04T00:08:15+07:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
