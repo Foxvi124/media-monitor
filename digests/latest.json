@@ -1,27 +1,28 @@
 {
- "date": "2026-08-04",
- "generated_at": "04 Aug 2026 06:00 WIB",
+ "date": "2026-08-05",
+ "generated_at": "05 Aug 2026 06:03 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Bahlil ungkap strategi insentif NMC pacu mobil listrik berbasis nikel",
-     "link": "https://www.antaranews.com/berita/5678583/bahlil-ungkap-strategi-insentif-nmc-pacu-mobil-listrik-berbasis-nikel",
+     "title": "Bahlil tegaskan pemegang IUPK batu bara wajib hilirisasi",
+     "link": "https://www.antaranews.com/video/5680043/bahlil-tegaskan-pemegang-iupk-batu-bara-wajib-hilirisasi",
      "source": "ANTARA News",
-     "published": "2026-08-04T01:34:36+07:00",
+     "published": "2026-08-04T23:20:21+07:00",
      "keywords": [
-      "nikel"
+      "hilirisasi",
+      "batu bara"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Nikel Raja Ampat, Greenpeace Desak Industri Otomotif Telusur Rantai Pasok",
-     "link": "https://mongabay.co.id/2026/08/02/nikel-raja-ampat-greenpeace-desak-industri-otomotif-telusur-rantai-pasok/",
+     "title": "Gunung Maras, Oase Hijau yang Tersembunyi di Pulau Bangka",
+     "link": "https://mongabay.co.id/short-article/2026/08/gunung-maras-oase-hijau-yang-tersembunyi-di-pulau-bangka/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
-      "nikel"
+      "timah"
      ],
      "also_reported_by": []
     }
@@ -31,32 +32,47 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-     "link": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
+     "title": "House committee launches investigation into Republican lawmaker amid domestic abuse allegations – as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
      "source": "The Guardian — World",
-     "published": "2026-08-03T18:45:20+00:00",
+     "published": "2026-08-04T21:54:36+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "AI perluas peluang kerja sama pendidikan China-ASEAN",
-     "link": "https://www.antaranews.com/berita/5678559/ai-perluas-peluang-kerja-sama-pendidikan-china-asean",
-     "source": "ANTARA News",
-     "published": "2026-08-04T00:11:40+07:00",
+     "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+     "link": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+     "source": "The Guardian — World",
+     "published": "2026-08-04T20:56:59+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Alibaba luncurkan model AI terbaru Qwen3.8-Max",
-     "link": "https://www.antaranews.com/berita/5678552/alibaba-luncurkan-model-ai-terbaru-qwen38-max",
+     "title": "TrendAI bangun pusat data lokal dukung keamanan siber",
+     "link": "https://www.antaranews.com/berita/5680068/trendai-bangun-pusat-data-lokal-dukung-keamanan-siber",
      "source": "ANTARA News",
-     "published": "2026-08-04T00:08:15+07:00",
+     "published": "2026-08-04T22:37:24+07:00",
      "keywords": [
-      "AI"
+      "pusat data"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Pasca banjir 15 titik, Sumbar kerahkan alat berat pulihkan sungai",
+     "link": "https://www.antaranews.com/video/5680097/pasca-banjir-15-titik-sumbar-kerahkan-alat-berat-pulihkan-sungai",
+     "source": "ANTARA News",
+     "published": "2026-08-04T23:48:36+07:00",
+     "keywords": [
+      "banjir"
      ],
      "also_reported_by": []
     }

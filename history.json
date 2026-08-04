@@ -45,6 +45,22 @@
     "nikel": 2,
     "AI": 3
    }
+  },
+  {
+   "date": "2026-08-05",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "batu bara": 1,
+    "timah": 1,
+    "AI": 2,
+    "pusat data": 1,
+    "banjir": 1
+   }
   }
  ]
 }
