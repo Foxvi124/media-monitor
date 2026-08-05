@@ -61,6 +61,19 @@
     "pusat data": 1,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-08-06",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "freeport": 1,
+    "smelter": 1,
+    "AI": 2
+   }
   }
  ]
 }
