@@ -1,67 +1,37 @@
 {
- "date": "2026-08-07",
- "generated_at": "07 Aug 2026 08:30 WIB",
+ "date": "2026-08-08",
+ "generated_at": "08 Aug 2026 05:35 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "ESDM tegaskan jaga produksi sektor tambang agar tidak berlebih",
-     "link": "https://www.antaranews.com/berita/5683491/esdm-tegaskan-jaga-produksi-sektor-tambang-agar-tidak-berlebih",
-     "source": "ANTARA News",
-     "published": "2026-08-07T05:56:20+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Polda Babel tetapkan empat tersangka kasus 52,5 ton pasir timah ilegal",
-     "link": "https://www.antaranews.com/video/5683425/polda-babel-tetapkan-empat-tersangka-kasus-525-ton-pasir-timah-ilegal",
-     "source": "ANTARA News",
-     "published": "2026-08-07T00:30:00+07:00",
-     "keywords": [
-      "timah"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Penolakan Tambang Pasir Laut Kepri Kian Menguat",
-     "link": "https://mongabay.co.id/2026/08/06/penolakan-tambang-pasir-laut-kepri-kian-menguat/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Danish pupils will have to orally defend essays in attempt to combat AI cheating",
-     "link": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
-     "source": "The Guardian — World",
-     "published": "2026-08-06T11:58:15+00:00",
+     "title": "Jepang tetapkan pedoman hak suara, targetkan penggunaan AI tanpa izin",
+     "link": "https://www.antaranews.com/berita/5685203/jepang-tetapkan-pedoman-hak-suara-targetkan-penggunaan-ai-tanpa-izin",
+     "source": "ANTARA News",
+     "published": "2026-08-07T23:50:52+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
+    },
     {
-     "title": "Tradisi Subak Terdesak Alih Fungsi Lahan, Banjir sampai Serangan Hama",
-     "link": "https://mongabay.co.id/2026/08/07/tradisi-subak-terdesak-alih-fungsi-lahan-banjir-sampai-serangan-hama/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "AI Cinefest 2026 himpun 1.111 film buatan AI dari seluruh Indonesia",
+     "link": "https://www.antaranews.com/berita/5685177/ai-cinefest-2026-himpun-1111-film-buatan-ai-dari-seluruh-indonesia",
+     "source": "ANTARA News",
+     "published": "2026-08-07T23:36:46+07:00",
      "keywords": [
-      "banjir"
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kreativitas manusia jadi unsur penting dalam membuat film dengan AI",
+     "link": "https://www.antaranews.com/berita/5685148/kreativitas-manusia-jadi-unsur-penting-dalam-membuat-film-dengan-ai",
+     "source": "ANTARA News",
+     "published": "2026-08-07T23:04:36+07:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
