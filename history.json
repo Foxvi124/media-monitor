@@ -74,6 +74,20 @@
     "smelter": 1,
     "AI": 2
    }
+  },
+  {
+   "date": "2026-08-07",
+   "topics": {
+    "Pertambangan & Hilirisasi": 3,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "tambang": 2,
+    "timah": 1,
+    "AI": 1,
+    "banjir": 1
+   }
   }
  ]
 }

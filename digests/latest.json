@@ -1,27 +1,37 @@
 {
- "date": "2026-08-06",
- "generated_at": "06 Aug 2026 05:58 WIB",
+ "date": "2026-08-07",
+ "generated_at": "07 Aug 2026 08:30 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Ekonomi Papua Tengah terkontraksi akibat penjualan Freeport turun",
-     "link": "https://www.antaranews.com/berita/5681739/ekonomi-papua-tengah-terkontraksi-akibat-penjualan-freeport-turun",
+     "title": "ESDM tegaskan jaga produksi sektor tambang agar tidak berlebih",
+     "link": "https://www.antaranews.com/berita/5683491/esdm-tegaskan-jaga-produksi-sektor-tambang-agar-tidak-berlebih",
      "source": "ANTARA News",
-     "published": "2026-08-06T00:08:11+07:00",
+     "published": "2026-08-07T05:56:20+07:00",
      "keywords": [
-      "freeport"
+      "tambang"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
-     "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
-     "source": "The Guardian — World",
-     "published": "2026-08-05T10:40:03+00:00",
+     "title": "Polda Babel tetapkan empat tersangka kasus 52,5 ton pasir timah ilegal",
+     "link": "https://www.antaranews.com/video/5683425/polda-babel-tetapkan-empat-tersangka-kasus-525-ton-pasir-timah-ilegal",
+     "source": "ANTARA News",
+     "published": "2026-08-07T00:30:00+07:00",
      "keywords": [
-      "smelter"
+      "timah"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Penolakan Tambang Pasir Laut Kepri Kian Menguat",
+     "link": "https://mongabay.co.id/2026/08/06/penolakan-tambang-pasir-laut-kepri-kian-menguat/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -31,22 +41,27 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "News live: News Corp loses subscribers in Australia as company lashes out at AI ‘crass kleptomaniacs’ and ‘slimy sea of slop’",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+     "title": "Danish pupils will have to orally defend essays in attempt to combat AI cheating",
+     "link": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
      "source": "The Guardian — World",
-     "published": "2026-08-05T22:43:50+00:00",
+     "published": "2026-08-06T11:58:15+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    },
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
     {
-     "title": "Chris Bowen vows to override Queensland and NT to force renewables-powered AI datacentres",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/05/chris-bowen-vows-to-override-queensland-and-nt-to-force-renewables-powered-ai-datacentres",
-     "source": "The Guardian — World",
-     "published": "2026-08-05T08:09:25+00:00",
+     "title": "Tradisi Subak Terdesak Alih Fungsi Lahan, Banjir sampai Serangan Hama",
+     "link": "https://mongabay.co.id/2026/08/07/tradisi-subak-terdesak-alih-fungsi-lahan-banjir-sampai-serangan-hama/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     }
