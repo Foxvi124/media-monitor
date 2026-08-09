@@ -1,51 +1,26 @@
 {
- "date": "2026-08-09",
- "generated_at": "09 Aug 2026 05:28 WIB",
+ "date": "2026-08-10",
+ "generated_at": "10 Aug 2026 05:30 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Ekspansi Tambang Nikel Terus Hantui Raja Ampat",
-     "link": "https://mongabay.co.id/2026/08/08/ekspansi-tambang-nikel-terus-hantui-raja-ampat/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "nikel",
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-     "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-     "source": "The Guardian — World",
-     "published": "2026-08-08T17:00:41+00:00",
+     "title": "Apakah 'tombol darurat' mampu menghentikan AI yang berbalik menyerang?",
+     "link": "https://www.bbc.com/indonesia/articles/cd697w29v98o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-08-09T01:51:16+00:00",
      "keywords": [
+      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Kemkomdigi ungkap \"3C\" jadi fokus untuk sokong industri gim nasional",
-     "link": "https://www.antaranews.com/berita/5686087/kemkomdigi-ungkap-3c-jadi-fokus-untuk-sokong-industri-gim-nasional",
-     "source": "ANTARA News",
-     "published": "2026-08-08T22:43:32+07:00",
-     "keywords": [
-      "startup"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
-     "link": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+     "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
      "source": "The Guardian — World",
-     "published": "2026-08-08T12:00:45+00:00",
+     "published": "2026-08-09T22:10:51+00:00",
      "keywords": [
       "AI"
      ],
