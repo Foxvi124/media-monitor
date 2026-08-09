@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" font-family="sans-serif" font-size="11">
+<rect width="720" height="260" fill="#fbfaf7"/>
+<rect x="12" y="5" width="10" height="10" fill="#0b5d8a"/>
+<text x="26" y="14">Lingkungan & Iklim</text>
+<rect x="244" y="5" width="10" height="10" fill="#e09a2f"/>
+<text x="258" y="14">Pertambangan & Hilirisasi</text>
+<rect x="476" y="5" width="10" height="10" fill="#3d7a4a"/>
+<text x="490" y="14">Teknologi & AI</text>
+<rect x="56.2" y="164.0" width="55.7" height="62.0" fill="#e09a2f"/>
+<rect x="56.2" y="71.0" width="55.7" height="93.0" fill="#3d7a4a"/>
+<text x="84.0" y="240" text-anchor="middle">08-04</text>
+<text x="84.0" y="67.0" text-anchor="middle" fill="#41505d">5</text>
+<rect x="152.2" y="195.0" width="55.7" height="31.0" fill="#0b5d8a"/>
+<rect x="152.2" y="133.0" width="55.7" height="62.0" fill="#e09a2f"/>
+<rect x="152.2" y="40.0" width="55.7" height="93.0" fill="#3d7a4a"/>
+<text x="180.0" y="240" text-anchor="middle">08-05</text>
+<text x="180.0" y="36.0" text-anchor="middle" fill="#41505d">6</text>
+<rect x="248.2" y="164.0" width="55.7" height="62.0" fill="#e09a2f"/>
+<rect x="248.2" y="102.0" width="55.7" height="62.0" fill="#3d7a4a"/>
+<text x="276.0" y="240" text-anchor="middle">08-06</text>
+<text x="276.0" y="98.0" text-anchor="middle" fill="#41505d">4</text>
+<rect x="344.2" y="195.0" width="55.7" height="31.0" fill="#0b5d8a"/>
+<rect x="344.2" y="102.0" width="55.7" height="93.0" fill="#e09a2f"/>
+<rect x="344.2" y="71.0" width="55.7" height="31.0" fill="#3d7a4a"/>
+<text x="372.0" y="240" text-anchor="middle">08-07</text>
+<text x="372.0" y="67.0" text-anchor="middle" fill="#41505d">5</text>
+<rect x="440.2" y="133.0" width="55.7" height="93.0" fill="#3d7a4a"/>
+<text x="468.0" y="240" text-anchor="middle">08-08</text>
+<text x="468.0" y="129.0" text-anchor="middle" fill="#41505d">3</text>
+<rect x="536.2" y="195.0" width="55.7" height="31.0" fill="#e09a2f"/>
+<rect x="536.2" y="102.0" width="55.7" height="93.0" fill="#3d7a4a"/>
+<text x="564.0" y="240" text-anchor="middle">08-09</text>
+<text x="564.0" y="98.0" text-anchor="middle" fill="#41505d">4</text>
+<rect x="632.2" y="164.0" width="55.7" height="62.0" fill="#3d7a4a"/>
+<text x="660.0" y="240" text-anchor="middle">08-10</text>
+<text x="660.0" y="160.0" text-anchor="middle" fill="#41505d">2</text>
+<line x1="36" y1="226" x2="708" y2="226" stroke="#22303c"/>
+</svg>
