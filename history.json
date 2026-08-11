@@ -134,6 +134,18 @@
     "Lingkungan & Iklim": 0
    },
    "keywords": {}
+  },
+  {
+   "date": "2026-08-12",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 0,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "iklim": 1
+   }
   }
  ]
 }
