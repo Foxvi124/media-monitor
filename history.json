@@ -146,6 +146,17 @@
     "hilirisasi": 1,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-08-13",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 0,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "banjir": 1
+   }
   }
  ]
 }
