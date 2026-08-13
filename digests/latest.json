@@ -1,17 +1,27 @@
 {
- "date": "2026-08-13",
- "generated_at": "13 Aug 2026 05:40 WIB",
+ "date": "2026-08-14",
+ "generated_at": "14 Aug 2026 05:41 WIB",
  "topics": [
   {
-   "name": "Lingkungan & Iklim",
+   "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Mengapa banjir kembali terjadi di sebagian Sumatra saat wilayah lain dilanda karhutla dan kekeringan?",
-     "link": "https://www.bbc.com/indonesia/articles/c79gjw3zpnzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-08-12T01:21:59+00:00",
+     "title": "Pemanfaatan AI dinilai dukung pengadaan barang-jasa yang transparan",
+     "link": "https://www.antaranews.com/berita/5693481/pemanfaatan-ai-dinilai-dukung-pengadaan-barang-jasa-yang-transparan",
+     "source": "ANTARA News",
+     "published": "2026-08-14T04:36:29+07:00",
      "keywords": [
-      "banjir"
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Massachusetts teen accused of killing mother and brother used ChatGPT",
+     "link": "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt",
+     "source": "The Guardian — World",
+     "published": "2026-08-13T21:34:58+00:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
