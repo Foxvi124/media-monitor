@@ -181,6 +181,19 @@
     "sampah plastik": 1,
     "deforestasi": 1
    }
+  },
+  {
+   "date": "2026-08-16",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "tambang": 1,
+    "kecerdasan buatan": 1,
+    "AI": 1
+   }
   }
  ]
 }

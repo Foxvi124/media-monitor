@@ -1,42 +1,33 @@
 {
- "date": "2026-08-15",
- "generated_at": "15 Aug 2026 05:22 WIB",
+ "date": "2026-08-16",
+ "generated_at": "16 Aug 2026 05:20 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Menteri Investasi sebut respons investor Asia terhadap PFII positif",
-     "link": "https://www.antaranews.com/berita/5695452/menteri-investasi-sebut-respons-investor-asia-terhadap-pfii-positif",
-     "source": "ANTARA News",
-     "published": "2026-08-15T00:10:55+07:00",
+     "title": "Ketika Tambang Emas Ilegal di Pohuwato jadi ‘Kuburan Massal’",
+     "link": "https://mongabay.co.id/2026/08/15/ketika-tambang-emas-ilegal-di-pohuwato-jadi-kuburan-massal/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "hilirisasi"
+      "tambang"
      ],
      "also_reported_by": []
     }
    ]
   },
   {
-   "name": "Lingkungan & Iklim",
+   "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Sampah Alat Tangkap Ikan Bahayakan Ekosistem Laut Indonesia",
-     "link": "https://mongabay.co.id/2026/08/14/sampah-alat-tangkap-ikan-bahayakan-ekosistem-laut-indonesia/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Rano Karno gagas pembuatan serial AI soroti hubungan manusia dan alam",
+     "link": "https://www.antaranews.com/berita/5696617/rano-karno-gagas-pembuatan-serial-ai-soroti-hubungan-manusia-dan-alam",
+     "source": "ANTARA News",
+     "published": "2026-08-15T23:27:13+07:00",
      "keywords": [
-      "sampah plastik"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Opini: UU Anti Deforestasi Uni Eropa, Ancaman atau Peluang?",
-     "link": "https://mongabay.co.id/2026/08/13/opini-uu-anti-deforestasi-uni-eropa-ancaman-atau-peluang/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "deforestasi"
+      "kecerdasan buatan",
+      "AI"
      ],
      "also_reported_by": []
     }
