@@ -1,12 +1,28 @@
 {
- "date": "2026-08-17",
- "generated_at": "17 Aug 2026 05:20 WIB",
- "topics": [],
+ "date": "2026-08-18",
+ "generated_at": "18 Aug 2026 05:24 WIB",
+ "topics": [
+  {
+   "name": "Teknologi & AI",
+   "items": [
+    {
+     "title": "Australia politics live: federal police to investigate leaked melon memo; Labor wants nation to adopt AI ‘everywhere we can’",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
+     "source": "The Guardian — World",
+     "published": "2026-08-17T22:10:48+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  }
+ ],
  "feeds": [
   {
    "name": "ANTARA News",
-   "ok": true,
-   "error": null
+   "ok": false,
+   "error": "ParseError: unclosed token: line 668, column 6"
   },
   {
    "name": "BBC News Indonesia",
