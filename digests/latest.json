@@ -1,15 +1,37 @@
 {
- "date": "2026-08-18",
- "generated_at": "18 Aug 2026 05:24 WIB",
+ "date": "2026-08-19",
+ "generated_at": "19 Aug 2026 05:23 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Australia politics live: federal police to investigate leaked melon memo; Labor wants nation to adopt AI ‘everywhere we can’",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-     "source": "The Guardian — World",
-     "published": "2026-08-17T22:10:48+00:00",
+     "title": "Bank Sentral Korsel peringatkan perkembangan AI ancam lapangan kerja",
+     "link": "https://www.antaranews.com/berita/5700701/bank-sentral-korsel-peringatkan-perkembangan-ai-ancam-lapangan-kerja",
+     "source": "ANTARA News",
+     "published": "2026-08-19T03:34:24+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "China soroti hoaks berbasis AI terkait kecelakaan kendaraan",
+     "link": "https://www.antaranews.com/berita/5700699/china-soroti-hoaks-berbasis-ai-terkait-kecelakaan-kendaraan",
+     "source": "ANTARA News",
+     "published": "2026-08-19T02:15:46+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Potret anak panda raksasa yang lahir di Everland, Korea Selatan",
+     "link": "https://www.antaranews.com/berita/5700697/potret-anak-panda-raksasa-yang-lahir-di-everland-korea-selatan",
+     "source": "ANTARA News",
+     "published": "2026-08-19T02:13:54+07:00",
      "keywords": [
       "AI"
      ],
@@ -21,8 +43,8 @@
  "feeds": [
   {
    "name": "ANTARA News",
-   "ok": false,
-   "error": "ParseError: unclosed token: line 668, column 6"
+   "ok": true,
+   "error": null
   },
   {
    "name": "BBC News Indonesia",
