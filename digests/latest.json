@@ -1,39 +1,32 @@
 {
- "date": "2026-08-19",
- "generated_at": "19 Aug 2026 05:23 WIB",
+ "date": "2026-08-20",
+ "generated_at": "20 Aug 2026 05:24 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Bank Sentral Korsel peringatkan perkembangan AI ancam lapangan kerja",
-     "link": "https://www.antaranews.com/berita/5700701/bank-sentral-korsel-peringatkan-perkembangan-ai-ancam-lapangan-kerja",
-     "source": "ANTARA News",
-     "published": "2026-08-19T03:34:24+07:00",
+     "title": "Taxpayers to fund clear-up of illegal dumps in West Yorkshire, Surrey and Kent",
+     "link": "https://www.theguardian.com/environment/2026/aug/19/taxpayers-to-fund-clear-up-of-dumps-in-west-yorkshire-surrey-and-kent",
+     "source": "The Guardian — World",
+     "published": "2026-08-19T21:30:33+00:00",
      "keywords": [
-      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
-    },
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
     {
-     "title": "China soroti hoaks berbasis AI terkait kecelakaan kendaraan",
-     "link": "https://www.antaranews.com/berita/5700699/china-soroti-hoaks-berbasis-ai-terkait-kecelakaan-kendaraan",
-     "source": "ANTARA News",
-     "published": "2026-08-19T02:15:46+07:00",
+     "title": "Opini: Apakah Hutan Indonesia Sudah Merdeka?",
+     "link": "https://mongabay.co.id/2026/08/19/opini-apakah-hutan-indonesia-sudah-merdeka/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "kecerdasan buatan",
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Potret anak panda raksasa yang lahir di Everland, Korea Selatan",
-     "link": "https://www.antaranews.com/berita/5700697/potret-anak-panda-raksasa-yang-lahir-di-everland-korea-selatan",
-     "source": "ANTARA News",
-     "published": "2026-08-19T02:13:54+07:00",
-     "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     }
