@@ -238,6 +238,22 @@
     "AI": 1,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-08-21",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 3
+   },
+   "keywords": {
+    "nikel": 1,
+    "tambang": 2,
+    "AI": 1,
+    "sampah plastik": 1,
+    "banjir": 1,
+    "iklim": 1
+   }
   }
  ]
 }
