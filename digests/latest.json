@@ -1,7 +1,48 @@
 {
- "date": "2026-08-23",
- "generated_at": "23 Aug 2026 05:21 WIB",
- "topics": [],
+ "date": "2026-08-24",
+ "generated_at": "24 Aug 2026 05:21 WIB",
+ "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Perusahaan tambang China didorong perkuat kepatuhan regulasi di Indonesia",
+     "link": "https://www.antaranews.com/berita/5708169/perusahaan-tambang-china-didorong-perkuat-kepatuhan-regulasi-di-indonesia",
+     "source": "ANTARA News",
+     "published": "2026-08-24T00:15:16+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Karhutla dekati permukiman, BPBD Riau tambah personel dan helikopter",
+     "link": "https://www.antaranews.com/video/5708137/karhutla-dekati-permukiman-bpbd-riau-tambah-personel-dan-helikopter",
+     "source": "ANTARA News",
+     "published": "2026-08-24T00:04:13+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Pupuk Kaltim pangkas 110 ribu ton emisi CO2 lewat Ammonia Pabrik-2",
+     "link": "https://www.antaranews.com/berita/5708132/pupuk-kaltim-pangkas-110-ribu-ton-emisi-co2-lewat-ammonia-pabrik-2",
+     "source": "ANTARA News",
+     "published": "2026-08-23T23:11:01+07:00",
+     "keywords": [
+      "emisi"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  }
+ ],
  "feeds": [
   {
    "name": "ANTARA News",
