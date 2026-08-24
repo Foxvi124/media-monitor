@@ -1,27 +1,63 @@
 {
- "date": "2026-08-24",
- "generated_at": "24 Aug 2026 05:21 WIB",
+ "date": "2026-08-25",
+ "generated_at": "25 Aug 2026 05:26 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Perusahaan tambang China didorong perkuat kepatuhan regulasi di Indonesia",
-     "link": "https://www.antaranews.com/berita/5708169/perusahaan-tambang-china-didorong-perkuat-kepatuhan-regulasi-di-indonesia",
-     "source": "ANTARA News",
-     "published": "2026-08-24T00:15:16+07:00",
+     "title": "Masyarakat Adat, Waswas di Tanah Leluhur, Keadilan Senyap",
+     "link": "https://mongabay.co.id/2026/08/24/masyarakat-adat-waswas-di-tanah-leluhur-keadilan-senyap/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "nikel",
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Empat perusahaan diselidiki terkait karhutla di Kalimantan, pengamat minta 'jangan ada tebang pilih'",
+     "link": "https://www.bbc.com/indonesia/articles/c5y6yxep249o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-08-24T01:00:40+00:00",
      "keywords": [
       "tambang"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Karhutla dekati permukiman, BPBD Riau tambah personel dan helikopter",
-     "link": "https://www.antaranews.com/video/5708137/karhutla-dekati-permukiman-bpbd-riau-tambah-personel-dan-helikopter",
-     "source": "ANTARA News",
-     "published": "2026-08-24T00:04:13+07:00",
+     "title": "Ketika Warga Kembali Gugat Izin Lingkungan Tambang Seng Dairi",
+     "link": "https://mongabay.co.id/2026/08/24/ketika-warga-kembali-gugat-izin-lingkungan-tambang-seng-dairi/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
       "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Teknologi & AI",
+   "items": [
+    {
+     "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+     "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+     "source": "The Guardian — World",
+     "published": "2026-08-24T18:16:14+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+     "source": "The Guardian — World",
+     "published": "2026-08-24T14:01:35+00:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
@@ -31,12 +67,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Pupuk Kaltim pangkas 110 ribu ton emisi CO2 lewat Ammonia Pabrik-2",
-     "link": "https://www.antaranews.com/berita/5708132/pupuk-kaltim-pangkas-110-ribu-ton-emisi-co2-lewat-ammonia-pabrik-2",
-     "source": "ANTARA News",
-     "published": "2026-08-23T23:11:01+07:00",
+     "title": "Ghost Gear, Ancaman Senyap Ekosistem Laut Indonesia",
+     "link": "https://mongabay.co.id/short-article/2026/08/ghost-gear-ancaman-senyap-ekosistem-laut-indonesia/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "emisi"
+      "sampah plastik"
      ],
      "also_reported_by": []
     }
@@ -61,8 +97,8 @@
   },
   {
    "name": "Tempo — Nasional",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "error": null
   },
   {
    "name": "detikcom",

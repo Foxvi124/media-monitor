@@ -286,6 +286,20 @@
     "tambang": 2,
     "emisi": 1
    }
+  },
+  {
+   "date": "2026-08-25",
+   "topics": {
+    "Pertambangan & Hilirisasi": 3,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "nikel": 1,
+    "tambang": 3,
+    "AI": 2,
+    "sampah plastik": 1
+   }
   }
  ]
 }
