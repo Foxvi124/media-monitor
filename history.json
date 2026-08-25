@@ -300,6 +300,18 @@
     "AI": 2,
     "sampah plastik": 1
    }
+  },
+  {
+   "date": "2026-08-26",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "AI": 3,
+    "deforestasi": 1
+   }
   }
  ]
 }

@@ -1,61 +1,35 @@
 {
- "date": "2026-08-25",
- "generated_at": "25 Aug 2026 05:26 WIB",
+ "date": "2026-08-26",
+ "generated_at": "26 Aug 2026 05:27 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Masyarakat Adat, Waswas di Tanah Leluhur, Keadilan Senyap",
-     "link": "https://mongabay.co.id/2026/08/24/masyarakat-adat-waswas-di-tanah-leluhur-keadilan-senyap/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "nikel",
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Empat perusahaan diselidiki terkait karhutla di Kalimantan, pengamat minta 'jangan ada tebang pilih'",
-     "link": "https://www.bbc.com/indonesia/articles/c5y6yxep249o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-08-24T01:00:40+00:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Ketika Warga Kembali Gugat Izin Lingkungan Tambang Seng Dairi",
-     "link": "https://mongabay.co.id/2026/08/24/ketika-warga-kembali-gugat-izin-lingkungan-tambang-seng-dairi/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-     "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+     "title": "Australia news live: man charged after allegedly stabbing woman with scissors in Melbourne",
+     "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
      "source": "The Guardian — World",
-     "published": "2026-08-24T18:16:14+00:00",
+     "published": "2026-08-25T22:12:52+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+     "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
+     "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
      "source": "The Guardian — World",
-     "published": "2026-08-24T14:01:35+00:00",
+     "published": "2026-08-25T19:02:42+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
+     "link": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+     "source": "The Guardian — World",
+     "published": "2026-08-25T15:00:19+00:00",
      "keywords": [
       "AI"
      ],
@@ -67,12 +41,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Ghost Gear, Ancaman Senyap Ekosistem Laut Indonesia",
-     "link": "https://mongabay.co.id/short-article/2026/08/ghost-gear-ancaman-senyap-ekosistem-laut-indonesia/",
+     "title": "Sedih, Masa Depan Kuskus Papua Terancam Akibat Kepungan Deforestasi",
+     "link": "https://mongabay.co.id/short-article/2026/08/sedih-masa-depan-kuskus-papua-terancam-akibat-kepungan-deforestasi/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
-      "sampah plastik"
+      "deforestasi"
      ],
      "also_reported_by": []
     }
