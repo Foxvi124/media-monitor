@@ -312,6 +312,19 @@
     "AI": 3,
     "deforestasi": 1
    }
+  },
+  {
+   "date": "2026-08-27",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 2
+   },
+   "keywords": {
+    "AI": 1,
+    "banjir": 1,
+    "iklim": 1
+   }
   }
  ]
 }

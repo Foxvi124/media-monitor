@@ -1,35 +1,15 @@
 {
- "date": "2026-08-26",
- "generated_at": "26 Aug 2026 05:27 WIB",
+ "date": "2026-08-27",
+ "generated_at": "27 Aug 2026 09:57 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Australia news live: man charged after allegedly stabbing woman with scissors in Melbourne",
-     "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+     "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+     "link": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
      "source": "The Guardian — World",
-     "published": "2026-08-25T22:12:52+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
-     "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-     "source": "The Guardian — World",
-     "published": "2026-08-25T19:02:42+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
-     "link": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
-     "source": "The Guardian — World",
-     "published": "2026-08-25T15:00:19+00:00",
+     "published": "2026-08-26T23:01:25+00:00",
      "keywords": [
       "AI"
      ],
@@ -41,12 +21,22 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Sedih, Masa Depan Kuskus Papua Terancam Akibat Kepungan Deforestasi",
-     "link": "https://mongabay.co.id/short-article/2026/08/sedih-masa-depan-kuskus-papua-terancam-akibat-kepungan-deforestasi/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Korban tewas banjir bandang di perbatasan Nepal-China jadi 160 orang",
+     "link": "https://www.antaranews.com/berita/5712991/korban-tewas-banjir-bandang-di-perbatasan-nepal-china-jadi-160-orang",
+     "source": "ANTARA News",
+     "published": "2026-08-27T09:31:35+07:00",
      "keywords": [
-      "deforestasi"
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kemenperin tekankan standardisasi AMDK guna jaga iklim usaha",
+     "link": "https://www.antaranews.com/berita/5712891/kemenperin-tekankan-standardisasi-amdk-guna-jaga-iklim-usaha",
+     "source": "ANTARA News",
+     "published": "2026-08-27T08:44:20+07:00",
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
