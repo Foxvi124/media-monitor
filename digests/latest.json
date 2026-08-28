@@ -1,15 +1,50 @@
 {
- "date": "2026-08-27",
- "generated_at": "27 Aug 2026 09:57 WIB",
+ "date": "2026-08-28",
+ "generated_at": "28 Aug 2026 12:58 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Cerita Para Perempuan Penjaga Kampung",
+     "link": "https://mongabay.co.id/2026/08/27/cerita-para-perempuan-penjaga-kampung/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Ancaman Tambang Emas Ilegal di Hulu Danau Sentani",
+     "link": "https://mongabay.co.id/2026/08/27/ancaman-tambang-emas-ilegal-di-hulu-danau-sentani/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
-     "link": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
-     "source": "The Guardian — World",
-     "published": "2026-08-26T23:01:25+00:00",
+     "title": "Wamenkomdigi tekankan pentingnya tata kelola AI di sektor keuangan",
+     "link": "https://www.antaranews.com/berita/5714900/wamenkomdigi-tekankan-pentingnya-tata-kelola-ai-di-sektor-keuangan",
+     "source": "ANTARA News",
+     "published": "2026-08-28T11:34:14+07:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kemdiktisaintek minta kampus perkuat kurasi pengetahuan pada era AI",
+     "link": "https://www.antaranews.com/berita/5714879/kemdiktisaintek-minta-kampus-perkuat-kurasi-pengetahuan-pada-era-ai",
+     "source": "ANTARA News",
+     "published": "2026-08-28T10:57:05+07:00",
      "keywords": [
       "AI"
      ],
@@ -21,22 +56,52 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Korban tewas banjir bandang di perbatasan Nepal-China jadi 160 orang",
-     "link": "https://www.antaranews.com/berita/5712991/korban-tewas-banjir-bandang-di-perbatasan-nepal-china-jadi-160-orang",
-     "source": "ANTARA News",
-     "published": "2026-08-27T09:31:35+07:00",
+     "title": "Apa penyebab banjir bandang yang menewaskan ratusan orang di Nepal dan Tibet?",
+     "link": "https://www.bbc.com/indonesia/articles/cy4zgdn27qyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-08-28T05:48:11+00:00",
      "keywords": [
       "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Kemenperin tekankan standardisasi AMDK guna jaga iklim usaha",
-     "link": "https://www.antaranews.com/berita/5712891/kemenperin-tekankan-standardisasi-amdk-guna-jaga-iklim-usaha",
+     "title": "Pemkot Jaksel uji emisi motor-mobil, tekan polusi udara di Jakarta",
+     "link": "https://www.antaranews.com/berita/5714925/pemkot-jaksel-uji-emisi-motor-mobil-tekan-polusi-udara-di-jakarta",
      "source": "ANTARA News",
-     "published": "2026-08-27T08:44:20+07:00",
+     "published": "2026-08-28T12:01:37+07:00",
      "keywords": [
-      "iklim"
+      "emisi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Jumlah korban tewas banjir bandang Nepal naik jadi 389 orang",
+     "link": "https://www.antaranews.com/berita/5714921/jumlah-korban-tewas-banjir-bandang-nepal-naik-jadi-389-orang",
+     "source": "ANTARA News",
+     "published": "2026-08-28T11:56:05+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Banjir bandang Nepal hancurkan desa, pasar, 10.000 keluarga terdampak",
+     "link": "https://www.antaranews.com/berita/5714916/banjir-bandang-nepal-hancurkan-desa-pasar-10000-keluarga-terdampak",
+     "source": "ANTARA News",
+     "published": "2026-08-28T11:51:37+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "'Anggota keluarga saya tersapu banjir di depan mata saya' – Fakta-fakta banjir dan longsor di Nepal yang tewaskan ratusan orang",
+     "link": "https://www.bbc.com/indonesia/articles/c0lrw5l5l96o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-08-28T03:24:56+00:00",
+     "keywords": [
+      "banjir"
      ],
      "also_reported_by": []
     }
