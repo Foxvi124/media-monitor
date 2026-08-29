@@ -1,27 +1,32 @@
 {
- "date": "2026-08-29",
- "generated_at": "29 Aug 2026 10:32 WIB",
+ "date": "2026-08-30",
+ "generated_at": "30 Aug 2026 06:54 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Tambang Batubara NU Bisa Perburuk Nasib Masyarakat Dayak Basap dan Picu Bencana",
+     "link": "https://mongabay.co.id/2026/08/29/tambang-batubara-nu-bisa-perburuk-nasib-masyarakat-dayak-basap-dan-picu-bencana/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Kemnaker siapkan strategi 3S agar pekerja muda tidak terdisrupsi AI",
-     "link": "https://www.antaranews.com/berita/5716449/kemnaker-siapkan-strategi-3s-agar-pekerja-muda-tidak-terdisrupsi-ai",
+     "title": "Satgas Udara telah jatuhkan 3,5 juta liter air untuk tangani karhutla",
+     "link": "https://www.antaranews.com/video/5717229/satgas-udara-telah-jatuhkan-35-juta-liter-air-untuk-tangani-karhutla",
      "source": "ANTARA News",
-     "published": "2026-08-29T10:08:22+07:00",
+     "published": "2026-08-30T00:23:25+07:00",
      "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Tanda diri masuk mode bertahan hidup hingga tata kelola AI di keuangan",
-     "link": "https://www.antaranews.com/berita/5716361/tanda-diri-masuk-mode-bertahan-hidup-hingga-tata-kelola-ai-di-keuangan",
-     "source": "ANTARA News",
-     "published": "2026-08-29T07:31:03+07:00",
-     "keywords": [
-      "AI"
+      "pusat data"
      ],
      "also_reported_by": []
     }
@@ -31,20 +36,10 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "China ingatkan bencana lanjutan pasca banjir di perbatasan Nepal",
-     "link": "https://www.antaranews.com/berita/5716380/china-ingatkan-bencana-lanjutan-pasca-banjir-di-perbatasan-nepal",
+     "title": "Korban tewas banjir bandang Nepal-China capai 633, hampir 3.000 hilang",
+     "link": "https://www.antaranews.com/berita/5717252/korban-tewas-banjir-bandang-nepal-china-capai-633-hampir-3000-hilang",
      "source": "ANTARA News",
-     "published": "2026-08-29T08:02:05+07:00",
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Danau bendungan alami berisiko jebol, Xizang di China aktifkan status tanggap darurat banjir",
-     "link": "https://www.antaranews.com/berita/5716359/danau-bendungan-alami-berisiko-jebol-xizang-di-china-aktifkan-status-tanggap-darurat-banjir",
-     "source": "ANTARA News",
-     "published": "2026-08-29T07:29:07+07:00",
+     "published": "2026-08-30T01:23:14+07:00",
      "keywords": [
       "banjir"
      ],
