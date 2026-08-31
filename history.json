@@ -364,6 +364,18 @@
     "pusat data": 1,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-08-31",
+   "topics": {
+    "Pertambangan & Hilirisasi": 5,
+    "Teknologi & AI": 0,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "hilirisasi": 2,
+    "tambang": 3
+   }
   }
  ]
 }

@@ -1,47 +1,57 @@
 {
- "date": "2026-08-30",
- "generated_at": "30 Aug 2026 06:54 WIB",
+ "date": "2026-08-31",
+ "generated_at": "31 Aug 2026 07:13 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Tambang Batubara NU Bisa Perburuk Nasib Masyarakat Dayak Basap dan Picu Bencana",
-     "link": "https://mongabay.co.id/2026/08/29/tambang-batubara-nu-bisa-perburuk-nasib-masyarakat-dayak-basap-dan-picu-bencana/",
+     "title": "Gubernur Mirza Dorong Teknologi Tepat Guna Percepat Hilirisasi Komoditas Lampung",
+     "link": "https://nasional.tempo.co/read/2118556/gubernur-mirza-dorong-teknologi-tepat-guna-percepat-hilirisasi-komoditas-lampung",
+     "source": "Tempo — Nasional",
+     "published": "2026-08-30T11:28:04+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Gubernur Mirza Ajak Perempuan Lampung Jadi Penggerak Ekonomi Daerah",
+     "link": "https://nasional.tempo.co/read/2118553/gubernur-mirza-ajak-perempuan-lampung-jadi-penggerak-ekonomi-daerah",
+     "source": "Tempo — Nasional",
+     "published": "2026-08-30T11:13:59+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Mengenal Hiu Elang, Spesies Purba yang Menyerupai Dua Hewan Sekaligus",
+     "link": "https://mongabay.co.id/2026/08/30/mengenal-hiu-elang-spesies-purba-yang-menyerupai-dua-hewan-sekaligus/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
       "tambang"
      ],
      "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Teknologi & AI",
-   "items": [
+    },
     {
-     "title": "Satgas Udara telah jatuhkan 3,5 juta liter air untuk tangani karhutla",
-     "link": "https://www.antaranews.com/video/5717229/satgas-udara-telah-jatuhkan-35-juta-liter-air-untuk-tangani-karhutla",
-     "source": "ANTARA News",
-     "published": "2026-08-30T00:23:25+07:00",
+     "title": "Kebijakan Dekarbonisasi Buka Jalan Langgengkan Industri Fosil?",
+     "link": "https://mongabay.co.id/2026/08/30/kebijakan-dekarbonisasi-buka-jalan-langgengkan-industri-fosil/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "pusat data"
+      "tambang"
      ],
      "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
+    },
     {
-     "title": "Korban tewas banjir bandang Nepal-China capai 633, hampir 3.000 hilang",
-     "link": "https://www.antaranews.com/berita/5717252/korban-tewas-banjir-bandang-nepal-china-capai-633-hampir-3000-hilang",
-     "source": "ANTARA News",
-     "published": "2026-08-30T01:23:14+07:00",
+     "title": "Kawasan Konservasi Teluk Moramo, Habitat Penting Napoleon Dalam Ancaman Tambang",
+     "link": "https://mongabay.co.id/2026/08/30/kawasan-konservasi-teluk-moramo-habitat-penting-napoleon-dalam-ancaman-tambang/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "banjir"
+      "tambang"
      ],
      "also_reported_by": []
     }
