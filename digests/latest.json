@@ -1,17 +1,27 @@
 {
- "date": "2026-09-01",
- "generated_at": "01 Sep 2026 08:00 WIB",
+ "date": "2026-09-02",
+ "generated_at": "02 Sep 2026 06:49 WIB",
  "topics": [
   {
-   "name": "Pertambangan & Hilirisasi",
+   "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Petani Banyuwangi Waswas Tambang Emas Ilegal [1]",
-     "link": "https://mongabay.co.id/2026/08/31/petani-banyuwangi-waswas-tambang-emas-ilegal-1/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Brickworks Memodernisasi Arsitektur Integrasi dan Mengaktifkan Data Perusahaan Bersama Boomi",
+     "link": "https://www.antaranews.com/berita/5721696/brickworks-memodernisasi-arsitektur-integrasi-dan-mengaktifkan-data-perusahaan-bersama-boomi",
+     "source": "ANTARA News",
+     "published": "2026-09-02T06:36:41+07:00",
      "keywords": [
-      "tambang"
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "BP BUMN dukung Telkomsel perkuat bisnis berbasis AI",
+     "link": "https://www.antaranews.com/berita/5721581/bp-bumn-dukung-telkomsel-perkuat-bisnis-berbasis-ai",
+     "source": "ANTARA News",
+     "published": "2026-09-01T23:53:12+07:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
@@ -21,10 +31,10 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Kepala sekolah di Nepal evakuasi 900 murid beberapa menit sebelum banjir bandang – 'Kami selamat hanya karena selisih sekitar 10 detik'",
-     "link": "https://www.bbc.com/indonesia/articles/cd6840dxn5wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-08-31T07:10:59+00:00",
+     "title": "Alarm Lingkungan dari Berbagai Penjuru Indonesia",
+     "link": "https://mongabay.co.id/podcast/2026/09/alarm-lingkungan-dari-berbagai-penjuru-indonesia/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-01T23:36:55+00:00",
      "keywords": [
       "banjir"
      ],
