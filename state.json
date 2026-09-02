@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.bbc.com/indonesia/articles/c79gjw3zpnzo?at_medium=RSS&at_campaign=rss": "2026-08-12T22:40:41.764978+00:00",
   "https://www.antaranews.com/berita/5693481/pemanfaatan-ai-dinilai-dukung-pengadaan-barang-jasa-yang-transparan": "2026-08-13T22:41:44.289290+00:00",
   "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt": "2026-08-13T22:41:44.289290+00:00",
   "https://www.antaranews.com/berita/5695452/menteri-investasi-sebut-respons-investor-asia-terhadap-pfii-positif": "2026-08-14T22:22:36.817549+00:00",
@@ -62,16 +61,22 @@
   "https://mongabay.co.id/2026/08/31/petani-banyuwangi-waswas-tambang-emas-ilegal-1/": "2026-09-01T01:00:26.572645+00:00",
   "https://www.antaranews.com/berita/5721696/brickworks-memodernisasi-arsitektur-integrasi-dan-mengaktifkan-data-perusahaan-bersama-boomi": "2026-09-01T23:49:37.095275+00:00",
   "https://www.antaranews.com/berita/5721581/bp-bumn-dukung-telkomsel-perkuat-bisnis-berbasis-ai": "2026-09-01T23:49:37.095275+00:00",
-  "https://mongabay.co.id/podcast/2026/09/alarm-lingkungan-dari-berbagai-penjuru-indonesia/": "2026-09-01T23:49:37.095275+00:00"
+  "https://mongabay.co.id/podcast/2026/09/alarm-lingkungan-dari-berbagai-penjuru-indonesia/": "2026-09-01T23:49:37.095275+00:00",
+  "https://www.antaranews.com/berita/5723553/huawei-nova-16s-series-debut-global-dengan-kamera-200mp-fotografi-ai": "2026-09-02T23:53:09.685464+00:00",
+  "https://www.bbc.com/indonesia/articles/cy5zk5rwe2qo?at_medium=RSS&at_campaign=rss": "2026-09-02T23:53:09.685464+00:00",
+  "https://www.bbc.com/indonesia/articles/c3wj1djxw37o?at_medium=RSS&at_campaign=rss": "2026-09-02T23:53:09.685464+00:00",
+  "https://mongabay.co.id/2026/09/02/selat-drake-perairan-paling-ganas-di-dunia-dengan-rekam-jejak-iklim-140-000-tahun/": "2026-09-02T23:53:09.685464+00:00",
+  "https://mongabay.co.id/2026/09/02/tambang-emas-ilegal-marak-maklumat-forkopimda-aceh-tidak-dianggap/": "2026-09-02T23:53:09.685464+00:00",
+  "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/02/burnham-beware-bond-markets-demand-answers-budget": "2026-09-02T23:53:09.685464+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 32,
+  "CNN Indonesia — Nasional": 33,
   "Tempo — Nasional": 0,
-  "detikcom": 32,
+  "detikcom": 33,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 32,
+  "The Conversation Indonesia": 33,
   "The Guardian — World": 0
  }
 }

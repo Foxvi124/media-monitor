@@ -1,25 +1,51 @@
 {
- "date": "2026-09-02",
- "generated_at": "02 Sep 2026 06:49 WIB",
+ "date": "2026-09-03",
+ "generated_at": "03 Sep 2026 06:53 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Tambang Emas Ilegal Marak, Maklumat Forkopimda Aceh Tidak Dianggap?",
+     "link": "https://mongabay.co.id/2026/09/02/tambang-emas-ilegal-marak-maklumat-forkopimda-aceh-tidak-dianggap/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-02T04:00:22+00:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Brickworks Memodernisasi Arsitektur Integrasi dan Mengaktifkan Data Perusahaan Bersama Boomi",
-     "link": "https://www.antaranews.com/berita/5721696/brickworks-memodernisasi-arsitektur-integrasi-dan-mengaktifkan-data-perusahaan-bersama-boomi",
+     "title": "Pasien pertama di dunia yang menjalani operasi otak dengan bantuan AI",
+     "link": "https://www.bbc.com/indonesia/articles/cy5zk5rwe2qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-02T23:34:55+00:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Huawei nova 16s Series debut global dengan kamera 200MP & fotografi AI",
+     "link": "https://www.antaranews.com/berita/5723553/huawei-nova-16s-series-debut-global-dengan-kamera-200mp-fotografi-ai",
      "source": "ANTARA News",
-     "published": "2026-09-02T06:36:41+07:00",
+     "published": "2026-09-03T05:54:45+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "BP BUMN dukung Telkomsel perkuat bisnis berbasis AI",
-     "link": "https://www.antaranews.com/berita/5721581/bp-bumn-dukung-telkomsel-perkuat-bisnis-berbasis-ai",
-     "source": "ANTARA News",
-     "published": "2026-09-01T23:53:12+07:00",
+     "title": "Burnham beware, the bond markets will demand proper answers in the budget | Nils Pratley",
+     "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/02/burnham-beware-bond-markets-demand-answers-budget",
+     "source": "The Guardian — World",
+     "published": "2026-09-02T17:14:31+00:00",
      "keywords": [
       "AI"
      ],
@@ -31,10 +57,20 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Alarm Lingkungan dari Berbagai Penjuru Indonesia",
-     "link": "https://mongabay.co.id/podcast/2026/09/alarm-lingkungan-dari-berbagai-penjuru-indonesia/",
+     "title": "Selat Drake, Perairan Paling Ganas di Dunia dengan Rekam Jejak Iklim 140.000 Tahun",
+     "link": "https://mongabay.co.id/2026/09/02/selat-drake-perairan-paling-ganas-di-dunia-dengan-rekam-jejak-iklim-140-000-tahun/",
      "source": "Mongabay Indonesia",
-     "published": "2026-09-01T23:36:55+00:00",
+     "published": "2026-09-02T13:18:02+00:00",
+     "keywords": [
+      "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "'Air sungai menerjang terowongan dan mengejar saya selama 20 menit' – Kesaksian korban banjir dan longsor di Nepal",
+     "link": "https://www.bbc.com/indonesia/articles/c3wj1djxw37o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-02T05:52:51+00:00",
      "keywords": [
       "banjir"
      ],
