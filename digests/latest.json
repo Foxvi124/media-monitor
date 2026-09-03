@@ -1,30 +1,15 @@
 {
- "date": "2026-09-03",
- "generated_at": "03 Sep 2026 06:53 WIB",
+ "date": "2026-09-04",
+ "generated_at": "04 Sep 2026 06:48 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Tambang Emas Ilegal Marak, Maklumat Forkopimda Aceh Tidak Dianggap?",
-     "link": "https://mongabay.co.id/2026/09/02/tambang-emas-ilegal-marak-maklumat-forkopimda-aceh-tidak-dianggap/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-02T04:00:22+00:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Pasien pertama di dunia yang menjalani operasi otak dengan bantuan AI",
-     "link": "https://www.bbc.com/indonesia/articles/cy5zk5rwe2qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-02T23:34:55+00:00",
+     "title": "Bawaslu bekali jajaran soal AI antisipasi penyalahgunaan pada pemilu",
+     "link": "https://www.antaranews.com/berita/5725333/bawaslu-bekali-jajaran-soal-ai-antisipasi-penyalahgunaan-pada-pemilu",
+     "source": "ANTARA News",
+     "published": "2026-09-04T06:11:23+07:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -32,47 +17,32 @@
      "also_reported_by": []
     },
     {
-     "title": "Huawei nova 16s Series debut global dengan kamera 200MP & fotografi AI",
-     "link": "https://www.antaranews.com/berita/5723553/huawei-nova-16s-series-debut-global-dengan-kamera-200mp-fotografi-ai",
+     "title": "Telehealth dan AI diharapkan perluas akses layanan kesehatan",
+     "link": "https://www.antaranews.com/berita/5725288/telehealth-dan-ai-diharapkan-perluas-akses-layanan-kesehatan",
      "source": "ANTARA News",
-     "published": "2026-09-03T05:54:45+07:00",
+     "published": "2026-09-04T02:20:36+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Burnham beware, the bond markets will demand proper answers in the budget | Nils Pratley",
-     "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/02/burnham-beware-bond-markets-demand-answers-budget",
-     "source": "The Guardian — World",
-     "published": "2026-09-02T17:14:31+00:00",
+     "title": "Dirut ANTARA dorong mahasiswa UHO adaptif menghadapi era AI",
+     "link": "https://www.antaranews.com/video/5725267/dirut-antara-dorong-mahasiswa-uho-adaptif-menghadapi-era-ai",
+     "source": "ANTARA News",
+     "published": "2026-09-04T00:59:47+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
-    {
-     "title": "Selat Drake, Perairan Paling Ganas di Dunia dengan Rekam Jejak Iklim 140.000 Tahun",
-     "link": "https://mongabay.co.id/2026/09/02/selat-drake-perairan-paling-ganas-di-dunia-dengan-rekam-jejak-iklim-140-000-tahun/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-02T13:18:02+00:00",
-     "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
     },
     {
-     "title": "'Air sungai menerjang terowongan dan mengejar saya selama 20 menit' – Kesaksian korban banjir dan longsor di Nepal",
-     "link": "https://www.bbc.com/indonesia/articles/c3wj1djxw37o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-02T05:52:51+00:00",
+     "title": "Pemprov Sumbar dan Ruang Guru latih guru dan siswa soal penggunaan AI",
+     "link": "https://www.antaranews.com/berita/5725249/pemprov-sumbar-dan-ruang-guru-latih-guru-dan-siswa-soal-penggunaan-ai",
+     "source": "ANTARA News",
+     "published": "2026-09-04T00:21:20+07:00",
      "keywords": [
-      "banjir"
+      "AI"
      ],
      "also_reported_by": []
     }
