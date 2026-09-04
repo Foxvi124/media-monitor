@@ -1,15 +1,15 @@
 {
- "date": "2026-09-04",
- "generated_at": "04 Sep 2026 06:48 WIB",
+ "date": "2026-09-05",
+ "generated_at": "05 Sep 2026 06:45 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Bawaslu bekali jajaran soal AI antisipasi penyalahgunaan pada pemilu",
-     "link": "https://www.antaranews.com/berita/5725333/bawaslu-bekali-jajaran-soal-ai-antisipasi-penyalahgunaan-pada-pemilu",
+     "title": "Sejumlah platform AI sempat alami gangguan hampir bersamaan",
+     "link": "https://www.antaranews.com/berita/5726897/sejumlah-platform-ai-sempat-alami-gangguan-hampir-bersamaan",
      "source": "ANTARA News",
-     "published": "2026-09-04T06:11:23+07:00",
+     "published": "2026-09-04T23:35:09+07:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -17,32 +17,27 @@
      "also_reported_by": []
     },
     {
-     "title": "Telehealth dan AI diharapkan perluas akses layanan kesehatan",
-     "link": "https://www.antaranews.com/berita/5725288/telehealth-dan-ai-diharapkan-perluas-akses-layanan-kesehatan",
-     "source": "ANTARA News",
-     "published": "2026-09-04T02:20:36+07:00",
+     "title": "Pocock says skilled migrants should be top priority as Australia faces shortage of AI workers and tradies – as it happened",
+     "link": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
+     "source": "The Guardian — World",
+     "published": "2026-09-04T07:29:46+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    },
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
     {
-     "title": "Dirut ANTARA dorong mahasiswa UHO adaptif menghadapi era AI",
-     "link": "https://www.antaranews.com/video/5725267/dirut-antara-dorong-mahasiswa-uho-adaptif-menghadapi-era-ai",
-     "source": "ANTARA News",
-     "published": "2026-09-04T00:59:47+07:00",
+     "title": "Dua pekerja diselamatkan dari terowongan di Nepal sembilan hari setelah banjir bandang melanda – 'Lapisan demi lapisan keajaiban'",
+     "link": "https://www.bbc.com/indonesia/articles/cn075z5yly1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-04T10:09:13+00:00",
      "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Pemprov Sumbar dan Ruang Guru latih guru dan siswa soal penggunaan AI",
-     "link": "https://www.antaranews.com/berita/5725249/pemprov-sumbar-dan-ruang-guru-latih-guru-dan-siswa-soal-penggunaan-ai",
-     "source": "ANTARA News",
-     "published": "2026-09-04T00:21:20+07:00",
-     "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     }
