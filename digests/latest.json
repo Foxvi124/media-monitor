@@ -1,26 +1,40 @@
 {
- "date": "2026-09-05",
- "generated_at": "05 Sep 2026 06:45 WIB",
+ "date": "2026-09-06",
+ "generated_at": "06 Sep 2026 06:35 WIB",
  "topics": [
   {
-   "name": "Teknologi & AI",
+   "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Sejumlah platform AI sempat alami gangguan hampir bersamaan",
-     "link": "https://www.antaranews.com/berita/5726897/sejumlah-platform-ai-sempat-alami-gangguan-hampir-bersamaan",
-     "source": "ANTARA News",
-     "published": "2026-09-04T23:35:09+07:00",
+     "title": "Harga Batubara Tak Wajar, Perlindungan Hutan dan Keselamatan Lingkungan Jadi Taruhan",
+     "link": "https://mongabay.co.id/short-article/2026/09/harga-batubara-tak-wajar-perlindungan-hutan-dan-keselamatan-lingkungan-jadi-taruhan/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-05T10:00:53+00:00",
      "keywords": [
-      "kecerdasan buatan",
-      "AI"
+      "tambang"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Pocock says skilled migrants should be top priority as Australia faces shortage of AI workers and tradies – as it happened",
-     "link": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
+     "title": "Tambang Berganti Pengelola, Masyarakat Dayak Basap Tetap Khawatir dengan Bencana Lingkungan",
+     "link": "https://mongabay.co.id/short-article/2026/09/tambang-berganti-pengelola-masyarakat-dayak-basap-tetap-khawatir-dengan-bencana-lingkungan/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-05T00:30:45+00:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Teknologi & AI",
+   "items": [
+    {
+     "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
      "source": "The Guardian — World",
-     "published": "2026-09-04T07:29:46+00:00",
+     "published": "2026-09-05T20:00:46+00:00",
      "keywords": [
       "AI"
      ],
@@ -32,12 +46,13 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Dua pekerja diselamatkan dari terowongan di Nepal sembilan hari setelah banjir bandang melanda – 'Lapisan demi lapisan keajaiban'",
-     "link": "https://www.bbc.com/indonesia/articles/cn075z5yly1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-04T10:09:13+00:00",
+     "title": "Krisis Iklim Tingkatkan Kerentanan Transmisi Listrik",
+     "link": "https://mongabay.co.id/2026/09/05/krisis-iklim-tingkatkan-kerentanan-transmisi-listrik/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-05T01:32:30+00:00",
      "keywords": [
-      "banjir"
+      "iklim",
+      "energi terbarukan"
      ],
      "also_reported_by": []
     }

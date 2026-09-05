@@ -440,6 +440,20 @@
     "AI": 2,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-09-06",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "tambang": 2,
+    "AI": 1,
+    "iklim": 1,
+    "energi terbarukan": 1
+   }
   }
  ]
 }
