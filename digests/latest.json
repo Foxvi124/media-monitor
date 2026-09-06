@@ -1,40 +1,25 @@
 {
- "date": "2026-09-06",
- "generated_at": "06 Sep 2026 06:35 WIB",
+ "date": "2026-09-07",
+ "generated_at": "07 Sep 2026 06:32 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Harga Batubara Tak Wajar, Perlindungan Hutan dan Keselamatan Lingkungan Jadi Taruhan",
-     "link": "https://mongabay.co.id/short-article/2026/09/harga-batubara-tak-wajar-perlindungan-hutan-dan-keselamatan-lingkungan-jadi-taruhan/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-05T10:00:53+00:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Tambang Berganti Pengelola, Masyarakat Dayak Basap Tetap Khawatir dengan Bencana Lingkungan",
-     "link": "https://mongabay.co.id/short-article/2026/09/tambang-berganti-pengelola-masyarakat-dayak-basap-tetap-khawatir-dengan-bencana-lingkungan/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-05T00:30:45+00:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-     "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+     "title": "German startup sends first commercial rocket into space from Europe",
+     "link": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
      "source": "The Guardian — World",
-     "published": "2026-09-05T20:00:46+00:00",
+     "published": "2026-09-06T13:21:36+00:00",
+     "keywords": [
+      "startup"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Bagaimana dokter AI palsu mengeksploitasi penonton lanjut usia di YouTube dengan klaim kesehatan yang menyesatkan",
+     "link": "https://www.bbc.com/indonesia/articles/cz0z4yejm0ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-06T08:07:02+00:00",
      "keywords": [
       "AI"
      ],
@@ -46,13 +31,22 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Krisis Iklim Tingkatkan Kerentanan Transmisi Listrik",
-     "link": "https://mongabay.co.id/2026/09/05/krisis-iklim-tingkatkan-kerentanan-transmisi-listrik/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-05T01:32:30+00:00",
+     "title": "Korban tewas akibat tanah longsor di Tibet China capai 43 orang",
+     "link": "https://www.antaranews.com/berita/5728928/korban-tewas-akibat-tanah-longsor-di-tibet-china-capai-43-orang",
+     "source": "ANTARA News",
+     "published": "2026-09-06T22:56:31+07:00",
      "keywords": [
-      "iklim",
-      "energi terbarukan"
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Bagaimana Selat Drake Sepanjang 800 Km Mengatur Iklim dan Kehidupan Antartika?",
+     "link": "https://mongabay.co.id/short-article/2026/09/bagaimana-selat-drake-sepanjang-800-km-mengatur-iklim-dan-kehidupan-antartika/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-06T10:00:25+00:00",
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
