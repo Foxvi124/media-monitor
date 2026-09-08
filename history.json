@@ -481,6 +481,22 @@
     "timah": 1,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-09-09",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 3
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "tambang": 1,
+    "AI": 1,
+    "banjir": 1,
+    "energi terbarukan": 1,
+    "iklim": 1
+   }
   }
  ]
 }

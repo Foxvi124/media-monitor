@@ -1,18 +1,42 @@
 {
- "date": "2026-09-08",
- "generated_at": "08 Sep 2026 07:00 WIB",
+ "date": "2026-09-09",
+ "generated_at": "09 Sep 2026 06:52 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Ekosistem Rusak, Nelayan Desak Hentikan Tambang Timah Ilegal di Teluk Kelabat",
-     "link": "https://mongabay.co.id/short-article/2026/09/ekosistem-rusak-nelayan-desak-hentikan-tambang-timah-ilegal-di-teluk-kelabat/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-07T02:35:22+00:00",
+     "title": "BKPM longgarkan investasi SPKLU guna kejar pertumbuhan EV",
+     "link": "https://www.antaranews.com/berita/5732237/bkpm-longgarkan-investasi-spklu-guna-kejar-pertumbuhan-ev",
+     "source": "ANTARA News",
+     "published": "2026-09-09T01:29:14+07:00",
      "keywords": [
-      "tambang",
-      "timah"
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "ESDM sebut pengujian B50 telah uji tambang selama 1.000 jam",
+     "link": "https://www.antaranews.com/berita/5732229/esdm-sebut-pengujian-b50-telah-uji-tambang-selama-1000-jam",
+     "source": "ANTARA News",
+     "published": "2026-09-09T00:53:38+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Teknologi & AI",
+   "items": [
+    {
+     "title": "Mengoptimalkan Nilai Data Lake Perusahaan Utilitas: Bidgely Hadirkan AI Energi ke Enlit Asia 2026",
+     "link": "https://www.antaranews.com/berita/5732288/mengoptimalkan-nilai-data-lake-perusahaan-utilitas-bidgely-hadirkan-ai-energi-ke-enlit-asia-2026",
+     "source": "ANTARA News",
+     "published": "2026-09-09T06:24:28+07:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
@@ -22,12 +46,32 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Populer, penanganan erupsi Anak Krakatau - gempa NTT - banjir Sumatera",
-     "link": "https://www.antaranews.com/berita/5730659/populer-penanganan-erupsi-anak-krakatau-gempa-ntt-banjir-sumatera",
+     "title": "Banjir Nagoya jadi tantangan tambahan timnas basket hadapi Asian Games",
+     "link": "https://www.antaranews.com/berita/5732244/banjir-nagoya-jadi-tantangan-tambahan-timnas-basket-hadapi-asian-games",
      "source": "ANTARA News",
-     "published": "2026-09-08T06:42:10+07:00",
+     "published": "2026-09-09T04:16:35+07:00",
      "keywords": [
       "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kawasan industri harapkan kemudahan investasi energi terbarukan",
+     "link": "https://www.antaranews.com/berita/5732188/kawasan-industri-harapkan-kemudahan-investasi-energi-terbarukan",
+     "source": "ANTARA News",
+     "published": "2026-09-08T23:25:16+07:00",
+     "keywords": [
+      "energi terbarukan"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Mendorong Peran Agama di Tengah Krisis Sosial Ekologi",
+     "link": "https://mongabay.co.id/2026/09/08/mendorong-peran-agama-di-tengah-krisis-sosial-ekologi/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-08T06:21:33+00:00",
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
