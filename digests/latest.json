@@ -1,27 +1,18 @@
 {
- "date": "2026-09-07",
- "generated_at": "07 Sep 2026 06:32 WIB",
+ "date": "2026-09-08",
+ "generated_at": "08 Sep 2026 07:00 WIB",
  "topics": [
   {
-   "name": "Teknologi & AI",
+   "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "German startup sends first commercial rocket into space from Europe",
-     "link": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
-     "source": "The Guardian — World",
-     "published": "2026-09-06T13:21:36+00:00",
+     "title": "Ekosistem Rusak, Nelayan Desak Hentikan Tambang Timah Ilegal di Teluk Kelabat",
+     "link": "https://mongabay.co.id/short-article/2026/09/ekosistem-rusak-nelayan-desak-hentikan-tambang-timah-ilegal-di-teluk-kelabat/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-07T02:35:22+00:00",
      "keywords": [
-      "startup"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Bagaimana dokter AI palsu mengeksploitasi penonton lanjut usia di YouTube dengan klaim kesehatan yang menyesatkan",
-     "link": "https://www.bbc.com/indonesia/articles/cz0z4yejm0ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-06T08:07:02+00:00",
-     "keywords": [
-      "AI"
+      "tambang",
+      "timah"
      ],
      "also_reported_by": []
     }
@@ -31,22 +22,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Korban tewas akibat tanah longsor di Tibet China capai 43 orang",
-     "link": "https://www.antaranews.com/berita/5728928/korban-tewas-akibat-tanah-longsor-di-tibet-china-capai-43-orang",
+     "title": "Populer, penanganan erupsi Anak Krakatau - gempa NTT - banjir Sumatera",
+     "link": "https://www.antaranews.com/berita/5730659/populer-penanganan-erupsi-anak-krakatau-gempa-ntt-banjir-sumatera",
      "source": "ANTARA News",
-     "published": "2026-09-06T22:56:31+07:00",
+     "published": "2026-09-08T06:42:10+07:00",
      "keywords": [
       "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Bagaimana Selat Drake Sepanjang 800 Km Mengatur Iklim dan Kehidupan Antartika?",
-     "link": "https://mongabay.co.id/short-article/2026/09/bagaimana-selat-drake-sepanjang-800-km-mengatur-iklim-dan-kehidupan-antartika/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-06T10:00:25+00:00",
-     "keywords": [
-      "iklim"
      ],
      "also_reported_by": []
     }

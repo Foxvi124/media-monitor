@@ -468,6 +468,19 @@
     "banjir": 1,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-09-08",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 0,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "tambang": 1,
+    "timah": 1,
+    "banjir": 1
+   }
   }
  ]
 }
