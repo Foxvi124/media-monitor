@@ -497,6 +497,17 @@
     "energi terbarukan": 1,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-09-10",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 0,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "hilirisasi": 1
+   }
   }
  ]
 }
