@@ -523,6 +523,19 @@
     "iklim": 2,
     "emisi": 1
    }
+  },
+  {
+   "date": "2026-09-12",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "bauksit": 1,
+    "chip": 1
+   }
   }
  ]
 }
