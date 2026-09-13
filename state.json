@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5708169/perusahaan-tambang-china-didorong-perkuat-kepatuhan-regulasi-di-indonesia": "2026-08-23T22:21:00.198206+00:00",
-  "https://www.antaranews.com/video/5708137/karhutla-dekati-permukiman-bpbd-riau-tambah-personel-dan-helikopter": "2026-08-23T22:21:00.198206+00:00",
-  "https://www.antaranews.com/berita/5708132/pupuk-kaltim-pangkas-110-ribu-ton-emisi-co2-lewat-ammonia-pabrik-2": "2026-08-23T22:21:00.198206+00:00",
   "https://www.bbc.com/indonesia/articles/c5y6yxep249o?at_medium=RSS&at_campaign=rss": "2026-08-24T22:26:29.648376+00:00",
   "https://mongabay.co.id/2026/08/24/masyarakat-adat-waswas-di-tanah-leluhur-keadilan-senyap/": "2026-08-24T22:26:29.648376+00:00",
   "https://mongabay.co.id/short-article/2026/08/ghost-gear-ancaman-senyap-ekosistem-laut-indonesia/": "2026-08-24T22:26:29.648376+00:00",
@@ -88,16 +85,19 @@
   "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live": "2026-09-11T23:54:28.969694+00:00",
   "https://www.antaranews.com/video/5738336/asa-kemandirian-anak-berkebutuhan-khusus-di-lembah-arang-sawahlunto": "2026-09-12T23:47:19.845643+00:00",
   "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb": "2026-09-12T23:47:19.845643+00:00",
-  "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns": "2026-09-12T23:47:19.845643+00:00"
+  "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns": "2026-09-12T23:47:19.845643+00:00",
+  "https://www.antaranews.com/berita/5739200/hukum-dari-tersangka-karhutla-hingga-tambang-ilegal-di-bangka": "2026-09-13T23:54:07.669008+00:00",
+  "https://mongabay.co.id/2026/09/13/desak-pemerintah-jalankan-aksi-iklim-sesuai-saran-mahkamah-internasional/": "2026-09-13T23:54:07.669008+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings": "2026-09-13T23:54:07.669008+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 43,
+  "CNN Indonesia — Nasional": 44,
   "Tempo — Nasional": 0,
-  "detikcom": 43,
+  "detikcom": 44,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 43,
+  "The Conversation Indonesia": 44,
   "The Guardian — World": 0
  }
 }

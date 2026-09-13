@@ -1,17 +1,17 @@
 {
- "date": "2026-09-13",
- "generated_at": "13 Sep 2026 06:47 WIB",
+ "date": "2026-09-14",
+ "generated_at": "14 Sep 2026 06:54 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Asa kemandirian anak berkebutuhan khusus di Lembah Arang Sawahlunto",
-     "link": "https://www.antaranews.com/video/5738336/asa-kemandirian-anak-berkebutuhan-khusus-di-lembah-arang-sawahlunto",
+     "title": "Hukum, dari tersangka karhutla hingga tambang ilegal di Bangka",
+     "link": "https://www.antaranews.com/berita/5739200/hukum-dari-tersangka-karhutla-hingga-tambang-ilegal-di-bangka",
      "source": "ANTARA News",
-     "published": "2026-09-13T06:41:06+07:00",
+     "published": "2026-09-14T06:12:46+07:00",
      "keywords": [
-      "batu bara"
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -21,22 +21,28 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Australia news live: escalating Middle East conflict will see prices rise again, Chris Bowen says",
-     "link": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb",
+     "title": "US schools and police warn about viral ‘Cat in the Hat’ trend after teens’ arrests",
+     "link": "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings",
      "source": "The Guardian — World",
-     "published": "2026-09-12T23:30:09+00:00",
+     "published": "2026-09-13T19:15:57+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    },
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
     {
-     "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-     "link": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
-     "source": "The Guardian — World",
-     "published": "2026-09-12T23:00:37+00:00",
+     "title": "Desak Pemerintah Jalankan Aksi Iklim sesuai Saran Mahkamah Internasional",
+     "link": "https://mongabay.co.id/2026/09/13/desak-pemerintah-jalankan-aksi-iklim-sesuai-saran-mahkamah-internasional/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-13T06:08:02+00:00",
      "keywords": [
-      "AI"
+      "iklim",
+      "emisi"
      ],
      "also_reported_by": []
     }
