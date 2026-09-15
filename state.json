@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://mongabay.co.id/short-article/2026/08/sedih-masa-depan-kuskus-papua-terancam-akibat-kepungan-deforestasi/": "2026-08-25T22:27:25.949498+00:00",
-  "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers": "2026-08-25T22:27:25.949498+00:00",
-  "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb": "2026-08-25T22:27:25.949498+00:00",
-  "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say": "2026-08-25T22:27:25.949498+00:00",
   "https://www.antaranews.com/berita/5712991/korban-tewas-banjir-bandang-di-perbatasan-nepal-china-jadi-160-orang": "2026-08-27T02:57:54.353265+00:00",
   "https://www.antaranews.com/berita/5712891/kemenperin-tekankan-standardisasi-amdk-guna-jaga-iklim-usaha": "2026-08-27T02:57:54.353265+00:00",
   "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour": "2026-08-27T02:57:54.353265+00:00",
@@ -87,16 +83,24 @@
   "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai": "2026-09-15T00:21:05.382989+00:00",
   "https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb": "2026-09-15T00:21:05.382989+00:00",
   "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde": "2026-09-15T00:21:05.382989+00:00",
-  "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates": "2026-09-15T00:21:05.382989+00:00"
+  "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates": "2026-09-15T00:21:05.382989+00:00",
+  "https://www.antaranews.com/berita/5743060/badan-lingkungan-as-cabut-standar-utama-emisi-gas-rumah-kaca-bagi-pembangkit-listrik-berbahan-bakar-fosil": "2026-09-15T23:59:13.852672+00:00",
+  "https://www.antaranews.com/infografik/5743040/memperkuat-industri-baterai-kendaraan-listrik-indonesia": "2026-09-15T23:59:13.852672+00:00",
+  "https://www.antaranews.com/berita/5743047/al-ain-bantai-al-nassr-johor-darul-tazim-ditahan-imbang-buriram": "2026-09-15T23:59:13.852672+00:00",
+  "https://www.bbc.com/indonesia/articles/c3x2zp9lqjyqo?at_medium=RSS&at_campaign=rss": "2026-09-15T23:59:13.852672+00:00",
+  "https://mongabay.co.id/specials/2026/09/jejak-rapuh-gua-dan-karst/": "2026-09-15T23:59:13.852672+00:00",
+  "https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus": "2026-09-15T23:59:13.852672+00:00",
+  "https://www.theguardian.com/australia-news/2026/sep/16/datacentre-giant-accused-of-using-ai-while-lobbying-for-victorian-ministers-support-for-hyperscale-factory": "2026-09-15T23:59:13.852672+00:00",
+  "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support": "2026-09-15T23:59:13.852672+00:00"
  },
  "feed_health": {
-  "ANTARA News": 1,
+  "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 45,
+  "CNN Indonesia — Nasional": 46,
   "Tempo — Nasional": 0,
-  "detikcom": 45,
+  "detikcom": 46,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 45,
+  "The Conversation Indonesia": 46,
   "The Guardian — World": 0
  }
 }

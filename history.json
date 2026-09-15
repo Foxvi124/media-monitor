@@ -575,6 +575,21 @@
     "tambang": 1,
     "AI": 4
    }
+  },
+  {
+   "date": "2026-09-16",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 5,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "nikel": 1,
+    "hilirisasi": 1,
+    "tambang": 1,
+    "AI": 5,
+    "emisi": 1
+   }
   }
  ]
 }
