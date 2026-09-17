@@ -1,28 +1,19 @@
 {
- "date": "2026-09-16",
- "generated_at": "16 Sep 2026 06:59 WIB",
+ "date": "2026-09-17",
+ "generated_at": "17 Sep 2026 07:09 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Memperkuat industri baterai kendaraan listrik Indonesia",
-     "link": "https://www.antaranews.com/infografik/5743040/memperkuat-industri-baterai-kendaraan-listrik-indonesia",
-     "source": "ANTARA News",
-     "published": "2026-09-16T06:00:00+07:00",
+     "title": "Opini: “Living Economy” dan Ekstraktivisme Tambang Mineral Kritis",
+     "link": "https://mongabay.co.id/2026/09/16/opini-living-economy-dan-ekstraktivisme-tambang-mineral-kritis/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-16T02:06:09+00:00",
      "keywords": [
       "nikel",
-      "hilirisasi"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Jejak Rapuh Gua dan Karst",
-     "link": "https://mongabay.co.id/specials/2026/09/jejak-rapuh-gua-dan-karst/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-15T13:53:17+00:00",
-     "keywords": [
-      "tambang"
+      "tambang",
+      "timah"
      ],
      "also_reported_by": []
     }
@@ -32,50 +23,10 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Al Ain bantai Al Nassr, Johor Darul Ta'zim ditahan imbang Buriram",
-     "link": "https://www.antaranews.com/berita/5743047/al-ain-bantai-al-nassr-johor-darul-tazim-ditahan-imbang-buriram",
-     "source": "ANTARA News",
-     "published": "2026-09-16T05:57:06+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Labor accused of throwing creatives ‘under the bus’ with proposal to ease copyright protections for AI giants",
-     "link": "https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus",
+     "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
+     "link": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
      "source": "The Guardian — World",
-     "published": "2026-09-15T21:29:11+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
-     "link": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
-     "source": "The Guardian — World",
-     "published": "2026-09-15T16:44:12+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Datacentre giant accused of using AI while lobbying for Victorian minister’s support for hyperscale factory",
-     "link": "https://www.theguardian.com/australia-news/2026/sep/16/datacentre-giant-accused-of-using-ai-while-lobbying-for-victorian-ministers-support-for-hyperscale-factory",
-     "source": "The Guardian — World",
-     "published": "2026-09-15T15:00:54+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Mengapa AI dicemaskan akan mengancam umat manusia dan seberapa nyata kekhawatiran itu?",
-     "link": "https://www.bbc.com/indonesia/articles/c3x2zp9lqjyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-15T05:51:41+00:00",
+     "published": "2026-09-16T18:28:12+00:00",
      "keywords": [
       "AI"
      ],
@@ -87,12 +38,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Badan Lingkungan AS cabut standar utama emisi gas rumah kaca bagi pembangkit listrik berbahan bakar fosil",
-     "link": "https://www.antaranews.com/berita/5743060/badan-lingkungan-as-cabut-standar-utama-emisi-gas-rumah-kaca-bagi-pembangkit-listrik-berbahan-bakar-fosil",
+     "title": "Kementerian PU gerak cepat tangani Jembatan Aih Bobo terdampak banjir",
+     "link": "https://www.antaranews.com/berita/5744864/kementerian-pu-gerak-cepat-tangani-jembatan-aih-bobo-terdampak-banjir",
      "source": "ANTARA News",
-     "published": "2026-09-16T06:41:58+07:00",
+     "published": "2026-09-17T05:22:15+07:00",
      "keywords": [
-      "emisi"
+      "banjir"
      ],
      "also_reported_by": []
     }
