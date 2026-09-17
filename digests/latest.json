@@ -1,32 +1,15 @@
 {
- "date": "2026-09-17",
- "generated_at": "17 Sep 2026 07:09 WIB",
+ "date": "2026-09-18",
+ "generated_at": "18 Sep 2026 06:55 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Opini: “Living Economy” dan Ekstraktivisme Tambang Mineral Kritis",
-     "link": "https://mongabay.co.id/2026/09/16/opini-living-economy-dan-ekstraktivisme-tambang-mineral-kritis/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-16T02:06:09+00:00",
-     "keywords": [
-      "nikel",
-      "tambang",
-      "timah"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
-     "link": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
-     "source": "The Guardian — World",
-     "published": "2026-09-16T18:28:12+00:00",
+     "title": "OpenAI ungkap perilaku mengkhawatirkan model AI dalam pengujian",
+     "link": "https://www.antaranews.com/berita/5746576/openai-ungkap-perilaku-mengkhawatirkan-model-ai-dalam-pengujian",
+     "source": "ANTARA News",
+     "published": "2026-09-17T23:53:08+07:00",
      "keywords": [
       "AI"
      ],
@@ -38,12 +21,22 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Kementerian PU gerak cepat tangani Jembatan Aih Bobo terdampak banjir",
-     "link": "https://www.antaranews.com/berita/5744864/kementerian-pu-gerak-cepat-tangani-jembatan-aih-bobo-terdampak-banjir",
-     "source": "ANTARA News",
-     "published": "2026-09-17T05:22:15+07:00",
+     "title": "Mengapa Deforestasi Indonesia Terus Menggila?",
+     "link": "https://mongabay.co.id/2026/09/17/mengapa-deforestasi-indonesia-terus-menggila/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-17T15:30:47+00:00",
      "keywords": [
-      "banjir"
+      "deforestasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Salju terakhir Papua – Jejak penaklukan serta kisah gunung sakral dari tiga generasi orang Amungme dan Moni",
+     "link": "https://www.bbc.com/indonesia/articles/cn45724vy5xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-17T00:32:03+00:00",
+     "keywords": [
+      "emisi"
      ],
      "also_reported_by": []
     }
