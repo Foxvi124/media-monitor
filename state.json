@@ -1,14 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5714925/pemkot-jaksel-uji-emisi-motor-mobil-tekan-polusi-udara-di-jakarta": "2026-08-28T05:58:36.788657+00:00",
-  "https://www.antaranews.com/berita/5714921/jumlah-korban-tewas-banjir-bandang-nepal-naik-jadi-389-orang": "2026-08-28T05:58:36.788657+00:00",
-  "https://www.antaranews.com/berita/5714916/banjir-bandang-nepal-hancurkan-desa-pasar-10000-keluarga-terdampak": "2026-08-28T05:58:36.788657+00:00",
-  "https://www.antaranews.com/berita/5714900/wamenkomdigi-tekankan-pentingnya-tata-kelola-ai-di-sektor-keuangan": "2026-08-28T05:58:36.788657+00:00",
-  "https://www.antaranews.com/berita/5714879/kemdiktisaintek-minta-kampus-perkuat-kurasi-pengetahuan-pada-era-ai": "2026-08-28T05:58:36.788657+00:00",
-  "https://www.bbc.com/indonesia/articles/cy4zgdn27qyo?at_medium=RSS&at_campaign=rss": "2026-08-28T05:58:36.788657+00:00",
-  "https://www.bbc.com/indonesia/articles/c0lrw5l5l96o?at_medium=RSS&at_campaign=rss": "2026-08-28T05:58:36.788657+00:00",
-  "https://mongabay.co.id/2026/08/27/cerita-para-perempuan-penjaga-kampung/": "2026-08-28T05:58:36.788657+00:00",
-  "https://mongabay.co.id/2026/08/27/ancaman-tambang-emas-ilegal-di-hulu-danau-sentani/": "2026-08-28T05:58:36.788657+00:00",
   "https://www.antaranews.com/berita/5716449/kemnaker-siapkan-strategi-3s-agar-pekerja-muda-tidak-terdisrupsi-ai": "2026-08-29T03:32:11.585607+00:00",
   "https://www.antaranews.com/berita/5716380/china-ingatkan-bencana-lanjutan-pasca-banjir-di-perbatasan-nepal": "2026-08-29T03:32:11.585607+00:00",
   "https://www.antaranews.com/berita/5716361/tanda-diri-masuk-mode-bertahan-hidup-hingga-tata-kelola-ai-di-keuangan": "2026-08-29T03:32:11.585607+00:00",
@@ -94,16 +85,23 @@
   "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom": "2026-09-17T00:09:34.033404+00:00",
   "https://www.antaranews.com/berita/5746576/openai-ungkap-perilaku-mengkhawatirkan-model-ai-dalam-pengujian": "2026-09-17T23:55:53.209662+00:00",
   "https://www.bbc.com/indonesia/articles/cn45724vy5xo?at_medium=RSS&at_campaign=rss": "2026-09-17T23:55:53.209662+00:00",
-  "https://mongabay.co.id/2026/09/17/mengapa-deforestasi-indonesia-terus-menggila/": "2026-09-17T23:55:53.209662+00:00"
+  "https://mongabay.co.id/2026/09/17/mengapa-deforestasi-indonesia-terus-menggila/": "2026-09-17T23:55:53.209662+00:00",
+  "https://www.antaranews.com/berita/5748517/forum-ham-pbb-bahas-pemanfaatan-ai-untuk-kemajuan-hak-asasi-manusia": "2026-09-18T23:54:23.455808+00:00",
+  "https://www.bbc.com/indonesia/articles/cqrk38e8j5d7o?at_medium=RSS&at_campaign=rss": "2026-09-18T23:54:23.455808+00:00",
+  "https://mongabay.co.id/2026/09/18/ketika-krisis-iklim-tingkatkan-kerentanan-laut-dan-pesisir/": "2026-09-18T23:54:23.455808+00:00",
+  "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying": "2026-09-18T23:54:23.455808+00:00",
+  "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate": "2026-09-18T23:54:23.455808+00:00",
+  "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates": "2026-09-18T23:54:23.455808+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit": "2026-09-18T23:54:23.455808+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 48,
+  "CNN Indonesia — Nasional": 49,
   "Tempo — Nasional": 0,
-  "detikcom": 48,
+  "detikcom": 49,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 48,
+  "The Conversation Indonesia": 49,
   "The Guardian — World": 0
  }
 }

@@ -1,15 +1,56 @@
 {
- "date": "2026-09-18",
- "generated_at": "18 Sep 2026 06:55 WIB",
+ "date": "2026-09-19",
+ "generated_at": "19 Sep 2026 06:54 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "OpenAI ungkap perilaku mengkhawatirkan model AI dalam pengujian",
-     "link": "https://www.antaranews.com/berita/5746576/openai-ungkap-perilaku-mengkhawatirkan-model-ai-dalam-pengujian",
+     "title": "Forum HAM PBB bahas pemanfaatan AI untuk kemajuan hak asasi manusia",
+     "link": "https://www.antaranews.com/berita/5748517/forum-ham-pbb-bahas-pemanfaatan-ai-untuk-kemajuan-hak-asasi-manusia",
      "source": "ANTARA News",
-     "published": "2026-09-17T23:53:08+07:00",
+     "published": "2026-09-19T06:30:29+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+     "source": "The Guardian — World",
+     "published": "2026-09-18T23:36:51+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Tennessee woman falsely charged with bank theft in North Dakota sues for $10m in damages",
+     "link": "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit",
+     "source": "The Guardian — World",
+     "published": "2026-09-18T23:34:48+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Why Europe has been absent from the great AI safety debate",
+     "link": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+     "source": "The Guardian — World",
+     "published": "2026-09-18T18:37:36+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
+     "link": "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying",
+     "source": "The Guardian — World",
+     "published": "2026-09-18T09:05:43+00:00",
      "keywords": [
       "AI"
      ],
@@ -21,22 +62,23 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Mengapa Deforestasi Indonesia Terus Menggila?",
-     "link": "https://mongabay.co.id/2026/09/17/mengapa-deforestasi-indonesia-terus-menggila/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-17T15:30:47+00:00",
+     "title": "Nepal akan ajukan tuntutan jutaan dolar ke PBB usai banjir dan longsor 'yang dipicu perubahan iklim'",
+     "link": "https://www.bbc.com/indonesia/articles/cqrk38e8j5d7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-18T03:25:43+00:00",
      "keywords": [
-      "deforestasi"
+      "iklim",
+      "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Salju terakhir Papua – Jejak penaklukan serta kisah gunung sakral dari tiga generasi orang Amungme dan Moni",
-     "link": "https://www.bbc.com/indonesia/articles/cn45724vy5xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-17T00:32:03+00:00",
+     "title": "Ketika Krisis Iklim Tingkatkan Kerentanan di Laut dan Pesisir",
+     "link": "https://mongabay.co.id/2026/09/18/ketika-krisis-iklim-tingkatkan-kerentanan-laut-dan-pesisir/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-18T08:07:07+00:00",
      "keywords": [
-      "emisi"
+      "iklim"
      ],
      "also_reported_by": []
     }

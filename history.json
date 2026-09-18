@@ -618,6 +618,20 @@
     "deforestasi": 1,
     "emisi": 1
    }
+  },
+  {
+   "date": "2026-09-19",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 5,
+    "Lingkungan & Iklim": 2
+   },
+   "keywords": {
+    "kecerdasan buatan": 1,
+    "AI": 5,
+    "iklim": 2,
+    "banjir": 1
+   }
   }
  ]
 }
