@@ -632,6 +632,18 @@
     "iklim": 2,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-09-20",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "AI": 3,
+    "emisi": 1
+   }
   }
  ]
 }
