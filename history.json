@@ -644,6 +644,21 @@
     "AI": 3,
     "emisi": 1
    }
+  },
+  {
+   "date": "2026-09-21",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 4,
+    "Lingkungan & Iklim": 2
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "kecerdasan buatan": 1,
+    "AI": 4,
+    "emisi": 1,
+    "iklim": 1
+   }
   }
  ]
 }

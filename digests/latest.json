@@ -1,35 +1,61 @@
 {
- "date": "2026-09-20",
- "generated_at": "20 Sep 2026 06:55 WIB",
+ "date": "2026-09-21",
+ "generated_at": "21 Sep 2026 06:52 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Kementan perkuat hilirisasi peternakan seiring pencapaian swasembada",
+     "link": "https://www.antaranews.com/berita/5750329/kementan-perkuat-hilirisasi-peternakan-seiring-pencapaian-swasembada",
+     "source": "ANTARA News",
+     "published": "2026-09-20T22:58:03+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "News live: Taylor pledges ‘one of the biggest immigration cuts in Australian history’; tributes for Victorian Greens MP Tim Read",
-     "link": "https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb",
+     "title": "Produk AI jadi sorotan dalam pameran China-ASEAN di Guangxi",
+     "link": "https://www.antaranews.com/berita/5750385/produk-ai-jadi-sorotan-dalam-pameran-china-asean-di-guangxi",
+     "source": "ANTARA News",
+     "published": "2026-09-21T00:04:03+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Australia news live: Taylor says fuel price policy would be funded by tobacco excise cut; Albanese to put AI concerns to Trump",
+     "link": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
      "source": "The Guardian — World",
-     "published": "2026-09-19T23:43:46+00:00",
+     "published": "2026-09-20T23:41:56+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
-     "link": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+     "title": "Lib Dems propose big tech levy to fund £250m online crime agency",
+     "link": "https://www.theguardian.com/politics/2026/sep/20/lib-dems-use-conference-to-set-out-2bn-plan-to-cut-fuel-duty",
      "source": "The Guardian — World",
-     "published": "2026-09-19T19:57:17+00:00",
+     "published": "2026-09-20T21:30:38+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "AI semakin sulit dikendalikan – Bisakah manusia tetap memegang kendali?",
-     "link": "https://www.bbc.com/indonesia/articles/c3eqzlqeg7eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-19T06:47:44+00:00",
+     "title": "Why China is pushing back on US warnings over rapid AI development",
+     "link": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+     "source": "The Guardian — World",
+     "published": "2026-09-20T06:00:09+00:00",
      "keywords": [
       "AI"
      ],
@@ -41,12 +67,22 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Aksi pemadaman lampu 60 menit kurangi emisi karbon 74,23 ton di DKI",
-     "link": "https://www.antaranews.com/berita/5749575/aksi-pemadaman-lampu-60-menit-kurangi-emisi-karbon-7423-ton-di-dki",
-     "source": "ANTARA News",
-     "published": "2026-09-20T05:28:53+07:00",
+     "title": "Lonjakan Tajam Kebakaran Ancam Target Tekan Emisi Hutan dan Lahan",
+     "link": "https://mongabay.co.id/2026/09/20/lonjakan-tajam-kebakaran-ancam-target-tekan-emisi-hutan-dan-lahan/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-20T16:38:06+00:00",
      "keywords": [
       "emisi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Tahan Iklim, Petani Aceh Lirik Potensi Kacang Koro Pedang",
+     "link": "https://mongabay.co.id/2026/09/20/tahan-iklim-petani-aceh-lirik-potensi-kacang-koro-pedang/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-20T08:44:25+00:00",
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
