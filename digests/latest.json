@@ -1,17 +1,17 @@
 {
- "date": "2026-09-22",
- "generated_at": "22 Sep 2026 07:36 WIB",
+ "date": "2026-09-23",
+ "generated_at": "23 Sep 2026 07:02 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Jatam Kritik Kebijakan Berlabel Tranisisi Energi Justru Berisiko bagi Masyarakat",
-     "link": "https://mongabay.co.id/2026/09/20/jatam-kritik-kebijakan-berlabel-tranisisi-energi-justru-berisiko-bagi-masyarakat/",
+     "title": "PTUN Jakarta Putuskan Data Izin Nikel Raja Ampat yang Kena Cabut Terbuka bagi Publik",
+     "link": "https://mongabay.co.id/2026/09/22/ptun-jakarta-putuskan-data-izin-nikel-raja-ampat-yang-kena-cabut-terbuka-bagi-publik/",
      "source": "Mongabay Indonesia",
-     "published": "2026-09-20T23:50:08+00:00",
+     "published": "2026-09-22T16:40:15+00:00",
      "keywords": [
-      "tambang"
+      "nikel"
      ],
      "also_reported_by": []
     }
@@ -21,10 +21,20 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say",
-     "link": "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
+     "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
      "source": "The Guardian — World",
-     "published": "2026-09-21T21:30:26+00:00",
+     "published": "2026-09-22T23:54:44+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Belarus ingin perluas kerja sama Indonesia dalam perdagangan hingga AI",
+     "link": "https://www.antaranews.com/berita/5753788/belarus-ingin-perluas-kerja-sama-indonesia-dalam-perdagangan-hingga-ai",
+     "source": "ANTARA News",
+     "published": "2026-09-22T23:29:07+07:00",
      "keywords": [
       "AI"
      ],
@@ -36,30 +46,30 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Banjir bandang rusak perkantoran bupati dan rumah warga di Solok",
-     "link": "https://www.antaranews.com/berita/5752079/banjir-bandang-rusak-perkantoran-bupati-dan-rumah-warga-di-solok",
+     "title": "Tim SAR temukan korban terseret banjir bandang di Kabupaten Solok",
+     "link": "https://www.antaranews.com/video/5753767/tim-sar-temukan-korban-terseret-banjir-bandang-di-kabupaten-solok",
      "source": "ANTARA News",
-     "published": "2026-09-22T07:29:15+07:00",
+     "published": "2026-09-23T00:24:59+07:00",
      "keywords": [
       "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "SAR Padang kirim personel ke Solok bantu penanganan banjir bandang",
-     "link": "https://www.antaranews.com/berita/5752053/sar-padang-kirim-personel-ke-solok-bantu-penanganan-banjir-bandang",
+     "title": "BNPB pastikan tim bergerak cepat tangani dampak banjir bandang Solok",
+     "link": "https://www.antaranews.com/video/5753805/bnpb-pastikan-tim-bergerak-cepat-tangani-dampak-banjir-bandang-solok",
      "source": "ANTARA News",
-     "published": "2026-09-22T06:49:47+07:00",
+     "published": "2026-09-23T00:18:01+07:00",
      "keywords": [
       "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Potensi hujan lebat di Sumatra – Penyintas bencana 2025 dirundung cemas, apa mitigasi pemerintah?",
-     "link": "https://www.bbc.com/indonesia/articles/cwp93v377y5yo?at_medium=RSS&at_campaign=rss",
+     "title": "'Saya berusaha meraih tubuh adik saya' – Banjir bandang Solok tewaskan dua orang, ratusan orang terdampak",
+     "link": "https://www.bbc.com/indonesia/articles/cm62k17d97wlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News Indonesia",
-     "published": "2026-09-21T01:49:29+00:00",
+     "published": "2026-09-22T14:21:02+00:00",
      "keywords": [
       "banjir"
      ],
