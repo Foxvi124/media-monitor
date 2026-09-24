@@ -685,6 +685,20 @@
     "AI": 2,
     "banjir": 3
    }
+  },
+  {
+   "date": "2026-09-24",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 6,
+    "Lingkungan & Iklim": 4
+   },
+   "keywords": {
+    "AI": 5,
+    "chip": 1,
+    "iklim": 1,
+    "banjir": 3
+   }
   }
  ]
 }

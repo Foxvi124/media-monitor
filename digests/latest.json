@@ -1,40 +1,65 @@
 {
- "date": "2026-09-23",
- "generated_at": "23 Sep 2026 07:02 WIB",
+ "date": "2026-09-24",
+ "generated_at": "24 Sep 2026 07:15 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "PTUN Jakarta Putuskan Data Izin Nikel Raja Ampat yang Kena Cabut Terbuka bagi Publik",
-     "link": "https://mongabay.co.id/2026/09/22/ptun-jakarta-putuskan-data-izin-nikel-raja-ampat-yang-kena-cabut-terbuka-bagi-publik/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-22T16:40:15+00:00",
-     "keywords": [
-      "nikel"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live",
-     "link": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+     "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
+     "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
      "source": "The Guardian — World",
-     "published": "2026-09-22T23:54:44+00:00",
+     "published": "2026-09-23T23:47:24+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Belarus ingin perluas kerja sama Indonesia dalam perdagangan hingga AI",
-     "link": "https://www.antaranews.com/berita/5753788/belarus-ingin-perluas-kerja-sama-indonesia-dalam-perdagangan-hingga-ai",
+     "title": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+     "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
+     "source": "The Guardian — World",
+     "published": "2026-09-23T23:30:50+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+     "source": "The Guardian — World",
+     "published": "2026-09-23T23:16:12+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Huawei Kirin 9050 Pro ungguli performa chip 3nm Apple",
+     "link": "https://www.antaranews.com/berita/5755737/huawei-kirin-9050-pro-ungguli-performa-chip-3nm-apple",
      "source": "ANTARA News",
-     "published": "2026-09-22T23:29:07+07:00",
+     "published": "2026-09-24T06:13:57+07:00",
+     "keywords": [
+      "chip"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "AHY bersyukur generasi muda masih mau menulis di era AI",
+     "link": "https://www.antaranews.com/berita/5755732/ahy-bersyukur-generasi-muda-masih-mau-menulis-di-era-ai",
+     "source": "ANTARA News",
+     "published": "2026-09-24T05:57:18+07:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "The EU’s Canada offer is more mood than reality but it could hint at a future geometry for the bloc",
+     "link": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc",
+     "source": "The Guardian — World",
+     "published": "2026-09-23T14:30:51+00:00",
      "keywords": [
       "AI"
      ],
@@ -46,30 +71,40 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Tim SAR temukan korban terseret banjir bandang di Kabupaten Solok",
-     "link": "https://www.antaranews.com/video/5753767/tim-sar-temukan-korban-terseret-banjir-bandang-di-kabupaten-solok",
+     "title": "Opini: Dekolonialisasi Konservasi Benteng, Menuju Konservasi Rakyat",
+     "link": "https://mongabay.co.id/2026/09/23/opini-dekolonialisasi-konservasi-benteng-menuju-konservasi-rakyat/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-23T23:41:39+00:00",
+     "keywords": [
+      "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "BNPB siap penuhi kebutuhan penanganan banjir bandang Kabupaten Solok",
+     "link": "https://www.antaranews.com/berita/5755729/bnpb-siap-penuhi-kebutuhan-penanganan-banjir-bandang-kabupaten-solok",
      "source": "ANTARA News",
-     "published": "2026-09-23T00:24:59+07:00",
+     "published": "2026-09-24T05:48:27+07:00",
      "keywords": [
       "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "BNPB pastikan tim bergerak cepat tangani dampak banjir bandang Solok",
-     "link": "https://www.antaranews.com/video/5753805/bnpb-pastikan-tim-bergerak-cepat-tangani-dampak-banjir-bandang-solok",
+     "title": "Pelukan terakhir sang kakak di hempasan banjir bandang Solok",
+     "link": "https://www.antaranews.com/video/5755683/pelukan-terakhir-sang-kakak-di-hempasan-banjir-bandang-solok",
      "source": "ANTARA News",
-     "published": "2026-09-23T00:18:01+07:00",
+     "published": "2026-09-24T01:18:12+07:00",
      "keywords": [
       "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "'Saya berusaha meraih tubuh adik saya' – Banjir bandang Solok tewaskan dua orang, ratusan orang terdampak",
-     "link": "https://www.bbc.com/indonesia/articles/cm62k17d97wlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-22T14:21:02+00:00",
+     "title": "BWS targetkan normalisasi sungai di Solok rampung dalam dua pekan",
+     "link": "https://www.antaranews.com/video/5755589/bws-targetkan-normalisasi-sungai-di-solok-rampung-dalam-dua-pekan",
+     "source": "ANTARA News",
+     "published": "2026-09-23T23:53:18+07:00",
      "keywords": [
       "banjir"
      ],

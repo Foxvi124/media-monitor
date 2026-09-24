@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5723553/huawei-nova-16s-series-debut-global-dengan-kamera-200mp-fotografi-ai": "2026-09-02T23:53:09.685464+00:00",
-  "https://www.bbc.com/indonesia/articles/cy5zk5rwe2qo?at_medium=RSS&at_campaign=rss": "2026-09-02T23:53:09.685464+00:00",
-  "https://www.bbc.com/indonesia/articles/c3wj1djxw37o?at_medium=RSS&at_campaign=rss": "2026-09-02T23:53:09.685464+00:00",
-  "https://mongabay.co.id/2026/09/02/selat-drake-perairan-paling-ganas-di-dunia-dengan-rekam-jejak-iklim-140-000-tahun/": "2026-09-02T23:53:09.685464+00:00",
-  "https://mongabay.co.id/2026/09/02/tambang-emas-ilegal-marak-maklumat-forkopimda-aceh-tidak-dianggap/": "2026-09-02T23:53:09.685464+00:00",
-  "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/02/burnham-beware-bond-markets-demand-answers-budget": "2026-09-02T23:53:09.685464+00:00",
   "https://www.antaranews.com/berita/5725333/bawaslu-bekali-jajaran-soal-ai-antisipasi-penyalahgunaan-pada-pemilu": "2026-09-03T23:48:26.213106+00:00",
   "https://www.antaranews.com/berita/5725288/telehealth-dan-ai-diharapkan-perluas-akses-layanan-kesehatan": "2026-09-03T23:48:26.213106+00:00",
   "https://www.antaranews.com/video/5725267/dirut-antara-dorong-mahasiswa-uho-adaptif-menghadapi-era-ai": "2026-09-03T23:48:26.213106+00:00",
@@ -97,16 +91,26 @@
   "https://www.antaranews.com/berita/5753788/belarus-ingin-perluas-kerja-sama-indonesia-dalam-perdagangan-hingga-ai": "2026-09-23T00:02:54.835729+00:00",
   "https://www.bbc.com/indonesia/articles/cm62k17d97wlo?at_medium=RSS&at_campaign=rss": "2026-09-23T00:02:54.835729+00:00",
   "https://mongabay.co.id/2026/09/22/ptun-jakarta-putuskan-data-izin-nikel-raja-ampat-yang-kena-cabut-terbuka-bagi-publik/": "2026-09-23T00:02:54.835729+00:00",
-  "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates": "2026-09-23T00:02:54.835729+00:00"
+  "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates": "2026-09-23T00:02:54.835729+00:00",
+  "https://www.antaranews.com/berita/5755737/huawei-kirin-9050-pro-ungguli-performa-chip-3nm-apple": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.antaranews.com/berita/5755732/ahy-bersyukur-generasi-muda-masih-mau-menulis-di-era-ai": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.antaranews.com/berita/5755729/bnpb-siap-penuhi-kebutuhan-penanganan-banjir-bandang-kabupaten-solok": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.antaranews.com/video/5755683/pelukan-terakhir-sang-kakak-di-hempasan-banjir-bandang-solok": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.antaranews.com/video/5755589/bws-targetkan-normalisasi-sungai-di-solok-rampung-dalam-dua-pekan": "2026-09-24T00:15:42.295126+00:00",
+  "https://mongabay.co.id/2026/09/23/opini-dekolonialisasi-konservasi-benteng-menuju-konservasi-rakyat/": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc": "2026-09-24T00:15:42.295126+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 53,
+  "CNN Indonesia — Nasional": 54,
   "Tempo — Nasional": 0,
-  "detikcom": 53,
+  "detikcom": 54,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 53,
+  "The Conversation Indonesia": 54,
   "The Guardian — World": 0
  }
 }
