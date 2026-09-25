@@ -1,112 +1,98 @@
 {
- "date": "2026-09-24",
- "generated_at": "24 Sep 2026 07:15 WIB",
+ "date": "2026-09-25",
+ "generated_at": "25 Sep 2026 07:18 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
-     "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+     "title": "Trump dan Xi bertemu langsung saat AS dan China bersaing memenangi perlombaan AI – Siapa paling unggul?",
+     "link": "https://www.bbc.com/indonesia/articles/cmvgy972z27no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-24T12:37:13+00:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Australia news live: Albanese ramps up security council bid at UN; Hume says AI hack shows Australia needs more AI",
+     "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
      "source": "The Guardian — World",
-     "published": "2026-09-23T23:47:24+00:00",
+     "published": "2026-09-25T00:08:27+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
-     "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
+     "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+     "link": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
      "source": "The Guardian — World",
-     "published": "2026-09-23T23:30:50+00:00",
+     "published": "2026-09-24T23:58:11+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
-     "link": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+     "title": "Theranos founder Elizabeth Holmes reportedly to be transferred to halfway home next year",
+     "link": "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home",
      "source": "The Guardian — World",
-     "published": "2026-09-23T23:16:12+00:00",
+     "published": "2026-09-24T23:12:24+00:00",
+     "keywords": [
+      "startup"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Xi: China-AS bertanggung jawab pastikan AI bermanfaat bagi manusia",
+     "link": "https://www.antaranews.com/berita/5757647/xi-china-as-bertanggung-jawab-pastikan-ai-bermanfaat-bagi-manusia",
+     "source": "ANTARA News",
+     "published": "2026-09-25T04:33:57+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Huawei Kirin 9050 Pro ungguli performa chip 3nm Apple",
-     "link": "https://www.antaranews.com/berita/5755737/huawei-kirin-9050-pro-ungguli-performa-chip-3nm-apple",
-     "source": "ANTARA News",
-     "published": "2026-09-24T06:13:57+07:00",
-     "keywords": [
-      "chip"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "AHY bersyukur generasi muda masih mau menulis di era AI",
-     "link": "https://www.antaranews.com/berita/5755732/ahy-bersyukur-generasi-muda-masih-mau-menulis-di-era-ai",
-     "source": "ANTARA News",
-     "published": "2026-09-24T05:57:18+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "The EU’s Canada offer is more mood than reality but it could hint at a future geometry for the bloc",
-     "link": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc",
+     "title": "Met chief criticises court system after paedophile granted bail",
+     "link": "https://www.theguardian.com/uk-news/2026/sep/24/met-chief-criticises-court-system-after-paedophile-granted-bail",
      "source": "The Guardian — World",
-     "published": "2026-09-23T14:30:51+00:00",
+     "published": "2026-09-24T19:57:44+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
+    },
     {
-     "title": "Opini: Dekolonialisasi Konservasi Benteng, Menuju Konservasi Rakyat",
-     "link": "https://mongabay.co.id/2026/09/23/opini-dekolonialisasi-konservasi-benteng-menuju-konservasi-rakyat/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-23T23:41:39+00:00",
+     "title": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
+     "link": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
+     "source": "The Guardian — World",
+     "published": "2026-09-24T17:26:26+00:00",
      "keywords": [
-      "iklim"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "BNPB siap penuhi kebutuhan penanganan banjir bandang Kabupaten Solok",
-     "link": "https://www.antaranews.com/berita/5755729/bnpb-siap-penuhi-kebutuhan-penanganan-banjir-bandang-kabupaten-solok",
-     "source": "ANTARA News",
-     "published": "2026-09-24T05:48:27+07:00",
+     "title": "AI hack of Medicare exposes Australia’s vulnerabilities and experts warn ‘there is more of this to come’",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities",
+     "source": "The Guardian — World",
+     "published": "2026-09-24T15:00:21+00:00",
      "keywords": [
-      "banjir"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Pelukan terakhir sang kakak di hempasan banjir bandang Solok",
-     "link": "https://www.antaranews.com/video/5755683/pelukan-terakhir-sang-kakak-di-hempasan-banjir-bandang-solok",
-     "source": "ANTARA News",
-     "published": "2026-09-24T01:18:12+07:00",
+     "title": "Trump sambut Xi Jinping di Washington, akan diskusikan isu AI dan perdagangan",
+     "link": "https://www.bbc.com/indonesia/articles/cr86xn92eey8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-09-24T01:08:29+00:00",
      "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "BWS targetkan normalisasi sungai di Solok rampung dalam dua pekan",
-     "link": "https://www.antaranews.com/video/5755589/bws-targetkan-normalisasi-sungai-di-solok-rampung-dalam-dua-pekan",
-     "source": "ANTARA News",
-     "published": "2026-09-23T23:53:18+07:00",
-     "keywords": [
-      "banjir"
+      "AI"
      ],
      "also_reported_by": []
     }

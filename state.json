@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5725333/bawaslu-bekali-jajaran-soal-ai-antisipasi-penyalahgunaan-pada-pemilu": "2026-09-03T23:48:26.213106+00:00",
-  "https://www.antaranews.com/berita/5725288/telehealth-dan-ai-diharapkan-perluas-akses-layanan-kesehatan": "2026-09-03T23:48:26.213106+00:00",
-  "https://www.antaranews.com/video/5725267/dirut-antara-dorong-mahasiswa-uho-adaptif-menghadapi-era-ai": "2026-09-03T23:48:26.213106+00:00",
-  "https://www.antaranews.com/berita/5725249/pemprov-sumbar-dan-ruang-guru-latih-guru-dan-siswa-soal-penggunaan-ai": "2026-09-03T23:48:26.213106+00:00",
   "https://www.antaranews.com/berita/5726897/sejumlah-platform-ai-sempat-alami-gangguan-hampir-bersamaan": "2026-09-04T23:45:59.333323+00:00",
   "https://www.bbc.com/indonesia/articles/cn075z5yly1o?at_medium=RSS&at_campaign=rss": "2026-09-04T23:45:59.333323+00:00",
   "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb": "2026-09-04T23:45:59.333323+00:00",
@@ -101,16 +97,25 @@
   "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit": "2026-09-24T00:15:42.295126+00:00",
   "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman": "2026-09-24T00:15:42.295126+00:00",
   "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates": "2026-09-24T00:15:42.295126+00:00",
-  "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc": "2026-09-24T00:15:42.295126+00:00"
+  "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc": "2026-09-24T00:15:42.295126+00:00",
+  "https://www.antaranews.com/berita/5757647/xi-china-as-bertanggung-jawab-pastikan-ai-bermanfaat-bagi-manusia": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.bbc.com/indonesia/articles/cmvgy972z27no?at_medium=RSS&at_campaign=rss": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.bbc.com/indonesia/articles/cr86xn92eey8o?at_medium=RSS&at_campaign=rss": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.theguardian.com/uk-news/2026/sep/24/met-chief-criticises-court-system-after-paedophile-granted-bail": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home": "2026-09-25T00:18:09.725024+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 54,
+  "CNN Indonesia — Nasional": 55,
   "Tempo — Nasional": 0,
-  "detikcom": 54,
+  "detikcom": 55,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 54,
+  "The Conversation Indonesia": 55,
   "The Guardian — World": 0
  }
 }
