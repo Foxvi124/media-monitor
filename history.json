@@ -712,6 +712,21 @@
     "AI": 8,
     "startup": 1
    }
+  },
+  {
+   "date": "2026-09-26",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 11,
+    "Lingkungan & Iklim": 5
+   },
+   "keywords": {
+    "freeport": 1,
+    "nikel": 1,
+    "kecerdasan buatan": 1,
+    "AI": 11,
+    "banjir": 5
+   }
   }
  ]
 }

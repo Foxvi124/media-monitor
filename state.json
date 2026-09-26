@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5726897/sejumlah-platform-ai-sempat-alami-gangguan-hampir-bersamaan": "2026-09-04T23:45:59.333323+00:00",
-  "https://www.bbc.com/indonesia/articles/cn075z5yly1o?at_medium=RSS&at_campaign=rss": "2026-09-04T23:45:59.333323+00:00",
-  "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb": "2026-09-04T23:45:59.333323+00:00",
   "https://mongabay.co.id/short-article/2026/09/harga-batubara-tak-wajar-perlindungan-hutan-dan-keselamatan-lingkungan-jadi-taruhan/": "2026-09-05T23:35:05.907549+00:00",
   "https://mongabay.co.id/2026/09/05/krisis-iklim-tingkatkan-kerentanan-transmisi-listrik/": "2026-09-05T23:35:05.907549+00:00",
   "https://mongabay.co.id/short-article/2026/09/tambang-berganti-pengelola-masyarakat-dayak-basap-tetap-khawatir-dengan-bencana-lingkungan/": "2026-09-05T23:35:05.907549+00:00",
@@ -106,16 +103,34 @@
   "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities": "2026-09-25T00:18:09.725024+00:00",
   "https://www.theguardian.com/uk-news/2026/sep/24/met-chief-criticises-court-system-after-paedophile-granted-bail": "2026-09-25T00:18:09.725024+00:00",
   "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed": "2026-09-25T00:18:09.725024+00:00",
-  "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home": "2026-09-25T00:18:09.725024+00:00"
+  "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home": "2026-09-25T00:18:09.725024+00:00",
+  "https://www.antaranews.com/berita/5759295/kemarin-imam-besar-dunia-di-indonesia-hingga-penanganan-banjir-solok": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.antaranews.com/berita/5759292/politik-kemarin-banjir-solok-hingga-prajurit-tni-cegah-karhutla": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.antaranews.com/berita/5759291/bmkg-peringatkan-potensi-banjir-rob-di-wilayah-pesisir-ntb": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.antaranews.com/berita/5759289/antam-serap-9-ton-emas-freeport-perkuat-rantai-pasok": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.antaranews.com/video/5759128/jaringan-air-bersih-putus-tni-pasok-air-siap-minum-ke-solok": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.antaranews.com/video/5759199/kejagung-tetapkan-pt-cni-dan-4-orang-tersangka-korupsi-nikel-rp401-m": "2026-09-26T00:23:29.451839+00:00",
+  "https://mongabay.co.id/2026/09/25/mengapa-ledakan-alga-bisa-ganggu-ekosistem-laut-indonesia/": "2026-09-26T00:23:29.451839+00:00",
+  "https://mongabay.co.id/podcast/2026/09/ekowisata-berbasis-riset-untuk-menjaga-hutan-sungai-lesan/": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover": "2026-09-26T00:23:29.451839+00:00",
+  "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race": "2026-09-26T00:23:29.451839+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 55,
+  "CNN Indonesia — Nasional": 56,
   "Tempo — Nasional": 0,
-  "detikcom": 55,
+  "detikcom": 56,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 55,
+  "The Conversation Indonesia": 56,
   "The Guardian — World": 0
  }
 }

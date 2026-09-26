@@ -1,15 +1,40 @@
 {
- "date": "2026-09-25",
- "generated_at": "25 Sep 2026 07:18 WIB",
+ "date": "2026-09-26",
+ "generated_at": "26 Sep 2026 07:23 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "ANTAM serap 9 ton emas Freeport, perkuat rantai pasok",
+     "link": "https://www.antaranews.com/berita/5759289/antam-serap-9-ton-emas-freeport-perkuat-rantai-pasok",
+     "source": "ANTARA News",
+     "published": "2026-09-26T06:41:35+07:00",
+     "keywords": [
+      "freeport"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kejagung tetapkan PT CNI dan 4 orang tersangka korupsi nikel Rp401 M",
+     "link": "https://www.antaranews.com/video/5759199/kejagung-tetapkan-pt-cni-dan-4-orang-tersangka-korupsi-nikel-rp401-m",
+     "source": "ANTARA News",
+     "published": "2026-09-26T01:27:57+07:00",
+     "keywords": [
+      "nikel"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Trump dan Xi bertemu langsung saat AS dan China bersaing memenangi perlombaan AI – Siapa paling unggul?",
-     "link": "https://www.bbc.com/indonesia/articles/cmvgy972z27no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-24T12:37:13+00:00",
+     "title": "Mengapa Ledakan Alga Bisa Ganggu Ekosistem Laut Indonesia?",
+     "link": "https://mongabay.co.id/2026/09/25/mengapa-ledakan-alga-bisa-ganggu-ekosistem-laut-indonesia/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-25T17:20:03+00:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -17,82 +42,157 @@
      "also_reported_by": []
     },
     {
-     "title": "Australia news live: Albanese ramps up security council bid at UN; Hume says AI hack shows Australia needs more AI",
-     "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
+     "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+     "link": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
      "source": "The Guardian — World",
-     "published": "2026-09-25T00:08:27+00:00",
+     "published": "2026-09-25T22:55:19+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-     "link": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+     "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+     "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
      "source": "The Guardian — World",
-     "published": "2026-09-24T23:58:11+00:00",
+     "published": "2026-09-25T22:21:15+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Theranos founder Elizabeth Holmes reportedly to be transferred to halfway home next year",
-     "link": "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home",
+     "title": "Ex-American Idol contestant told lover he dreamed of killing wife, murder trial hears",
+     "link": "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover",
      "source": "The Guardian — World",
-     "published": "2026-09-24T23:12:24+00:00",
+     "published": "2026-09-25T22:12:50+00:00",
      "keywords": [
-      "startup"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Xi: China-AS bertanggung jawab pastikan AI bermanfaat bagi manusia",
-     "link": "https://www.antaranews.com/berita/5757647/xi-china-as-bertanggung-jawab-pastikan-ai-bermanfaat-bagi-manusia",
+     "title": "Trump and Chinese president Xi end summit without major agreement on AI",
+     "link": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+     "source": "The Guardian — World",
+     "published": "2026-09-25T22:11:52+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Novelist accused of using AI to write book removed from French prize list",
+     "link": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+     "source": "The Guardian — World",
+     "published": "2026-09-25T16:14:32+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+     "source": "The Guardian — World",
+     "published": "2026-09-25T16:01:10+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+     "link": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+     "source": "The Guardian — World",
+     "published": "2026-09-25T15:12:38+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+     "source": "The Guardian — World",
+     "published": "2026-09-25T15:09:13+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "NSW crackdown on ‘AI-doctored’ real estate listings hits mural-covered wall",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall",
+     "source": "The Guardian — World",
+     "published": "2026-09-25T15:00:10+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack",
+     "source": "The Guardian — World",
+     "published": "2026-09-25T05:57:17+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Kemarin, imam besar dunia di Indonesia hingga penanganan banjir Solok",
+     "link": "https://www.antaranews.com/berita/5759295/kemarin-imam-besar-dunia-di-indonesia-hingga-penanganan-banjir-solok",
      "source": "ANTARA News",
-     "published": "2026-09-25T04:33:57+07:00",
+     "published": "2026-09-26T06:48:07+07:00",
      "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Met chief criticises court system after paedophile granted bail",
-     "link": "https://www.theguardian.com/uk-news/2026/sep/24/met-chief-criticises-court-system-after-paedophile-granted-bail",
-     "source": "The Guardian — World",
-     "published": "2026-09-24T19:57:44+00:00",
+     "title": "Politik kemarin, Banjir Solok hingga prajurit TNI cegah Karhutla",
+     "link": "https://www.antaranews.com/berita/5759292/politik-kemarin-banjir-solok-hingga-prajurit-tni-cegah-karhutla",
+     "source": "ANTARA News",
+     "published": "2026-09-26T06:46:51+07:00",
      "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
-     "link": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
-     "source": "The Guardian — World",
-     "published": "2026-09-24T17:26:26+00:00",
+     "title": "BMKG peringatkan potensi banjir rob di wilayah pesisir NTB",
+     "link": "https://www.antaranews.com/berita/5759291/bmkg-peringatkan-potensi-banjir-rob-di-wilayah-pesisir-ntb",
+     "source": "ANTARA News",
+     "published": "2026-09-26T06:45:26+07:00",
      "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "AI hack of Medicare exposes Australia’s vulnerabilities and experts warn ‘there is more of this to come’",
-     "link": "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities",
-     "source": "The Guardian — World",
-     "published": "2026-09-24T15:00:21+00:00",
+     "title": "Jaringan air bersih putus, TNI pasok air siap minum ke Solok",
+     "link": "https://www.antaranews.com/video/5759128/jaringan-air-bersih-putus-tni-pasok-air-siap-minum-ke-solok",
+     "source": "ANTARA News",
+     "published": "2026-09-26T01:31:11+07:00",
      "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Trump sambut Xi Jinping di Washington, akan diskusikan isu AI dan perdagangan",
-     "link": "https://www.bbc.com/indonesia/articles/cr86xn92eey8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-09-24T01:08:29+00:00",
+     "title": "Ekowisata Berbasis Riset untuk Menjaga Hutan Sungai Lesan",
+     "link": "https://mongabay.co.id/podcast/2026/09/ekowisata-berbasis-riset-untuk-menjaga-hutan-sungai-lesan/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-25T04:25:22+00:00",
      "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     }
