@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://mongabay.co.id/short-article/2026/09/harga-batubara-tak-wajar-perlindungan-hutan-dan-keselamatan-lingkungan-jadi-taruhan/": "2026-09-05T23:35:05.907549+00:00",
-  "https://mongabay.co.id/2026/09/05/krisis-iklim-tingkatkan-kerentanan-transmisi-listrik/": "2026-09-05T23:35:05.907549+00:00",
-  "https://mongabay.co.id/short-article/2026/09/tambang-berganti-pengelola-masyarakat-dayak-basap-tetap-khawatir-dengan-bencana-lingkungan/": "2026-09-05T23:35:05.907549+00:00",
-  "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them": "2026-09-05T23:35:05.907549+00:00",
   "https://www.antaranews.com/berita/5728928/korban-tewas-akibat-tanah-longsor-di-tibet-china-capai-43-orang": "2026-09-06T23:32:08.267991+00:00",
   "https://www.bbc.com/indonesia/articles/cz0z4yejm0ko?at_medium=RSS&at_campaign=rss": "2026-09-06T23:32:08.267991+00:00",
   "https://mongabay.co.id/short-article/2026/09/bagaimana-selat-drake-sepanjang-800-km-mengatur-iklim-dan-kehidupan-antartika/": "2026-09-06T23:32:08.267991+00:00",
@@ -121,16 +117,18 @@
   "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates": "2026-09-26T00:23:29.451839+00:00",
   "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt": "2026-09-26T00:23:29.451839+00:00",
   "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race": "2026-09-26T00:23:29.451839+00:00"
+  "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race": "2026-09-26T00:23:29.451839+00:00",
+  "https://mongabay.co.id/2026/09/26/banjir-bandang-terjang-solok-dampak-alih-fungsi-hutan/": "2026-09-27T00:18:06.388148+00:00",
+  "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash": "2026-09-27T00:18:06.388148+00:00"
  },
  "feed_health": {
-  "ANTARA News": 0,
+  "ANTARA News": 1,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 56,
+  "CNN Indonesia — Nasional": 57,
   "Tempo — Nasional": 0,
-  "detikcom": 56,
+  "detikcom": 57,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 56,
+  "The Conversation Indonesia": 57,
   "The Guardian — World": 0
  }
 }
