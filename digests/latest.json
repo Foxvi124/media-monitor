@@ -1,15 +1,25 @@
 {
- "date": "2026-09-27",
- "generated_at": "27 Sep 2026 07:18 WIB",
+ "date": "2026-09-28",
+ "generated_at": "28 Sep 2026 07:19 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
-     "link": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+     "title": "AMSI sebut media hadapi tantangan di era AI",
+     "link": "https://www.antaranews.com/berita/5760975/amsi-sebut-media-hadapi-tantangan-di-era-ai",
+     "source": "ANTARA News",
+     "published": "2026-09-28T02:17:44+07:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia",
+     "link": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
      "source": "The Guardian — World",
-     "published": "2026-09-26T22:00:47+00:00",
+     "published": "2026-09-27T15:00:07+00:00",
      "keywords": [
       "AI"
      ],
@@ -21,12 +31,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Banjir Bandang Terjang Solok, Dampak Alih Fungsi Hutan?",
-     "link": "https://mongabay.co.id/2026/09/26/banjir-bandang-terjang-solok-dampak-alih-fungsi-hutan/",
+     "title": "Buah Terbesar yang Tumbuh di Pohon Ini Dilirik sebagai Pangan Tahan Perubahan Iklim",
+     "link": "https://mongabay.co.id/2026/09/27/buah-terbesar-yang-tumbuh-di-pohon-ini-dilirik-sebagai-pangan-tahan-perubahan-iklim/",
      "source": "Mongabay Indonesia",
-     "published": "2026-09-26T05:31:08+00:00",
+     "published": "2026-09-27T01:46:37+00:00",
      "keywords": [
-      "banjir"
+      "iklim"
      ],
      "also_reported_by": []
     }
@@ -36,8 +46,8 @@
  "feeds": [
   {
    "name": "ANTARA News",
-   "ok": false,
-   "error": "ParseError: unclosed token: line 673, column 0"
+   "ok": true,
+   "error": null
   },
   {
    "name": "BBC News Indonesia",
