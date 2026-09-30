@@ -1,67 +1,18 @@
 {
- "date": "2026-09-29",
- "generated_at": "29 Sep 2026 08:30 WIB",
+ "date": "2026-09-30",
+ "generated_at": "30 Sep 2026 08:07 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Sulsel bidik bagian keuntungan tambang lewat perda baru",
-     "link": "https://www.antaranews.com/berita/5762440/sulsel-bidik-bagian-keuntungan-tambang-lewat-perda-baru",
-     "source": "ANTARA News",
-     "published": "2026-09-29T00:30:56+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "OpenAI scraps release of new model over safety concerns in internal testing",
-     "link": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
-     "source": "The Guardian — World",
-     "published": "2026-09-28T23:02:28+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Aturan belum jangkau rekayasa AI, Bawaslu Sulsel petakan hukum",
-     "link": "https://www.antaranews.com/berita/5762424/aturan-belum-jangkau-rekayasa-ai-bawaslu-sulsel-petakan-hukum",
+     "title": "Kemnaker manfaatkan AI untuk verifikasi mitra dan peserta MagangHub",
+     "link": "https://www.antaranews.com/berita/5764135/kemnaker-manfaatkan-ai-untuk-verifikasi-mitra-dan-peserta-maganghub",
      "source": "ANTARA News",
-     "published": "2026-09-29T00:04:42+07:00",
+     "published": "2026-09-30T06:37:24+07:00",
      "keywords": [
+      "kecerdasan buatan",
       "AI"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
-    {
-     "title": "Hari ini, gelombang tinggi hingga empat meter dan banjir rob",
-     "link": "https://www.antaranews.com/berita/5762540/hari-ini-gelombang-tinggi-hingga-empat-meter-dan-banjir-rob",
-     "source": "ANTARA News",
-     "published": "2026-09-29T08:07:37+07:00",
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Cerita Masyarakat Adat Boti Jaga Hutan untuk Kehidupan",
-     "link": "https://mongabay.co.id/short-article/2026/09/cerita-masyarakat-adat-boti-jaga-hutan-untuk-kehidupan/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-09-29T00:01:22+00:00",
-     "keywords": [
-      "iklim"
      ],
      "also_reported_by": []
     }
@@ -86,8 +37,8 @@
   },
   {
    "name": "Tempo — Nasional",
-   "ok": true,
-   "error": null
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "detikcom",

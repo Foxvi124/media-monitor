@@ -765,6 +765,18 @@
     "banjir": 1,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-09-30",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "kecerdasan buatan": 1,
+    "AI": 1
+   }
   }
  ]
 }
