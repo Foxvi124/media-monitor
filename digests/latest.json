@@ -1,18 +1,97 @@
 {
- "date": "2026-09-30",
- "generated_at": "30 Sep 2026 08:07 WIB",
+ "date": "2026-10-01",
+ "generated_at": "01 Oct 2026 08:05 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Kalimantan Timur Masih Dalam Lilitan Masalah Tambang Batubara",
+     "link": "https://mongabay.co.id/2026/09/30/kalimantan-timur-masih-dalam-lilitan-masalah-tambang-batubara/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-30T12:59:44+00:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Tambang Galian C Resahkan Warga Lombok",
+     "link": "https://mongabay.co.id/2026/09/30/tambang-galian-c-resahkan-warga-lombok/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-30T07:47:25+00:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Ahli dan Pakar Kritik Arah Kebijakan Lingkungan Prabowo",
+     "link": "https://mongabay.co.id/2026/09/30/ahli-dan-pakar-kritik-arah-kebijakan-lingkungan-prabowo/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-30T02:30:18+00:00",
+     "keywords": [
+      "nikel"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Kemnaker manfaatkan AI untuk verifikasi mitra dan peserta MagangHub",
-     "link": "https://www.antaranews.com/berita/5764135/kemnaker-manfaatkan-ai-untuk-verifikasi-mitra-dan-peserta-maganghub",
+     "title": "Kemnaker: Tata kelola pastikan AI berada di koridor akuntabilitas",
+     "link": "https://www.antaranews.com/berita/5765800/kemnaker-tata-kelola-pastikan-ai-berada-di-koridor-akuntabilitas",
      "source": "ANTARA News",
-     "published": "2026-09-30T06:37:24+07:00",
+     "published": "2026-10-01T08:02:05+07:00",
      "keywords": [
-      "kecerdasan buatan",
       "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "OpenAI kenalkan Dots, asisten agen AI terbarunya yang ceria dan lincah",
+     "link": "https://www.antaranews.com/berita/5765769/openai-kenalkan-dots-asisten-agen-ai-terbarunya-yang-ceria-dan-lincah",
+     "source": "ANTARA News",
+     "published": "2026-10-01T07:29:50+07:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Gavin Newsom signs laws to protect California workers from AI threat",
+     "link": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
+     "source": "The Guardian — World",
+     "published": "2026-10-01T00:17:56+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules",
+     "link": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+     "source": "The Guardian — World",
+     "published": "2026-09-30T11:09:52+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Bagaimana Tiga Ikan Endemik Bertahan di Sungai Finke, Sungai yang Dijuluki Tertua di Dunia",
+     "link": "https://mongabay.co.id/2026/09/30/bagaimana-tiga-ikan-endemik-bertahan-di-sungai-finke-sungai-yang-dijuluki-tertua-di-dunia/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-09-30T03:20:19+00:00",
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
@@ -37,8 +116,8 @@
   },
   {
    "name": "Tempo — Nasional",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "error": null
   },
   {
    "name": "detikcom",

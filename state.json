@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5734068/akademisi-respons-hasil-survei-soal-rosan-capaian-investasi-memuaskan": "2026-09-09T23:51:03.763528+00:00",
   "https://www.antaranews.com/berita/5735784/apple-sediakan-lima-bahasa-tambahan-pada-siri-ai-mulai-oktober-2026": "2026-09-10T23:46:13.422948+00:00",
   "https://www.antaranews.com/video/5735768/bnpb-421-hektare-lahan-karhutla-di-enam-provinsi-berhasil-dipadamkan": "2026-09-10T23:46:13.422948+00:00",
   "https://www.antaranews.com/berita/5735771/penyedia-layanan-keamanan-tekankan-pentingnya-ekosistem-ai-yang-sehat": "2026-09-10T23:46:13.422948+00:00",
@@ -116,16 +115,24 @@
   "https://www.antaranews.com/berita/5762424/aturan-belum-jangkau-rekayasa-ai-bawaslu-sulsel-petakan-hukum": "2026-09-29T01:30:30.864992+00:00",
   "https://mongabay.co.id/short-article/2026/09/cerita-masyarakat-adat-boti-jaga-hutan-untuk-kehidupan/": "2026-09-29T01:30:30.864992+00:00",
   "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped": "2026-09-29T01:30:30.864992+00:00",
-  "https://www.antaranews.com/berita/5764135/kemnaker-manfaatkan-ai-untuk-verifikasi-mitra-dan-peserta-maganghub": "2026-09-30T01:07:12.947344+00:00"
+  "https://www.antaranews.com/berita/5764135/kemnaker-manfaatkan-ai-untuk-verifikasi-mitra-dan-peserta-maganghub": "2026-09-30T01:07:12.947344+00:00",
+  "https://www.antaranews.com/berita/5765800/kemnaker-tata-kelola-pastikan-ai-berada-di-koridor-akuntabilitas": "2026-10-01T01:05:29.327226+00:00",
+  "https://www.antaranews.com/berita/5765769/openai-kenalkan-dots-asisten-agen-ai-terbarunya-yang-ceria-dan-lincah": "2026-10-01T01:05:29.327226+00:00",
+  "https://mongabay.co.id/2026/09/30/kalimantan-timur-masih-dalam-lilitan-masalah-tambang-batubara/": "2026-10-01T01:05:29.327226+00:00",
+  "https://mongabay.co.id/2026/09/30/tambang-galian-c-resahkan-warga-lombok/": "2026-10-01T01:05:29.327226+00:00",
+  "https://mongabay.co.id/2026/09/30/bagaimana-tiga-ikan-endemik-bertahan-di-sungai-finke-sungai-yang-dijuluki-tertua-di-dunia/": "2026-10-01T01:05:29.327226+00:00",
+  "https://mongabay.co.id/2026/09/30/ahli-dan-pakar-kritik-arah-kebijakan-lingkungan-prabowo/": "2026-10-01T01:05:29.327226+00:00",
+  "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court": "2026-10-01T01:05:29.327226+00:00",
+  "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat": "2026-10-01T01:05:29.327226+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 60,
-  "Tempo — Nasional": 1,
-  "detikcom": 60,
+  "CNN Indonesia — Nasional": 61,
+  "Tempo — Nasional": 0,
+  "detikcom": 61,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 60,
+  "The Conversation Indonesia": 61,
   "The Guardian — World": 0
  }
 }
