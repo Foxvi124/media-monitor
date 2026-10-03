@@ -1,17 +1,17 @@
 {
- "date": "2026-10-02",
- "generated_at": "02 Oct 2026 08:18 WIB",
+ "date": "2026-10-03",
+ "generated_at": "03 Oct 2026 07:57 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "RI-AS perkuat kerja sama dari hilirisasi hingga logam tanah jarang",
-     "link": "https://www.antaranews.com/berita/5767771/ri-as-perkuat-kerja-sama-dari-hilirisasi-hingga-logam-tanah-jarang",
-     "source": "ANTARA News",
-     "published": "2026-10-02T07:48:45+07:00",
+     "title": "Cerita di Hari Tani, dari Waswas Pembangkit Panas Bumi sampai Hak Tanah Perempuan",
+     "link": "https://mongabay.co.id/2026/10/02/cerita-di-hari-tani-dari-waswas-pembangkit-panas-bumi-sampai-hak-tanah-perempuan/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "hilirisasi"
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -21,12 +21,37 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Regulator AS investigasi Anthropic dan OpenAI terkait praktik keamanan AI",
-     "link": "https://www.antaranews.com/berita/5767735/regulator-as-investigasi-anthropic-dan-openai-terkait-praktik-keamanan-ai",
-     "source": "ANTARA News",
-     "published": "2026-10-02T06:19:08+07:00",
+     "title": "OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’. Fixing it could bring a big bill for taxpayers",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
+     "source": "The Guardian — World",
+     "published": "2026-10-02T15:00:13+00:00",
      "keywords": [
       "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
+     "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+     "source": "The Guardian — World",
+     "published": "2026-10-02T05:45:23+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Kasus Kukang Tersengat Listrik, Ada Kaitan dengan Krisis Iklim?",
+     "link": "https://mongabay.co.id/2026/10/02/kasus-kukang-tersengat-listrik-ada-kaitan-dengan-krisis-iklim/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }

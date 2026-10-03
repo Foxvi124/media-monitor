@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5737297/rusal-masuk-kalimantan-menteri-esdm-ungkap-progres-hilirisasi": "2026-09-11T23:54:28.969694+00:00",
-  "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live": "2026-09-11T23:54:28.969694+00:00",
   "https://www.antaranews.com/video/5738336/asa-kemandirian-anak-berkebutuhan-khusus-di-lembah-arang-sawahlunto": "2026-09-12T23:47:19.845643+00:00",
   "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb": "2026-09-12T23:47:19.845643+00:00",
   "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns": "2026-09-12T23:47:19.845643+00:00",
@@ -113,16 +111,20 @@
   "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court": "2026-10-01T01:05:29.327226+00:00",
   "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat": "2026-10-01T01:05:29.327226+00:00",
   "https://www.antaranews.com/berita/5767771/ri-as-perkuat-kerja-sama-dari-hilirisasi-hingga-logam-tanah-jarang": "2026-10-02T01:18:54.665997+00:00",
-  "https://www.antaranews.com/berita/5767735/regulator-as-investigasi-anthropic-dan-openai-terkait-praktik-keamanan-ai": "2026-10-02T01:18:54.665997+00:00"
+  "https://www.antaranews.com/berita/5767735/regulator-as-investigasi-anthropic-dan-openai-terkait-praktik-keamanan-ai": "2026-10-02T01:18:54.665997+00:00",
+  "https://mongabay.co.id/2026/10/02/kasus-kukang-tersengat-listrik-ada-kaitan-dengan-krisis-iklim/": "2026-10-03T00:57:38.587070+00:00",
+  "https://mongabay.co.id/2026/10/02/cerita-di-hari-tani-dari-waswas-pembangkit-panas-bumi-sampai-hak-tanah-perempuan/": "2026-10-03T00:57:38.587070+00:00",
+  "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers": "2026-10-03T00:57:38.587070+00:00",
+  "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded": "2026-10-03T00:57:38.587070+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 62,
+  "CNN Indonesia — Nasional": 63,
   "Tempo — Nasional": 0,
-  "detikcom": 62,
+  "detikcom": 63,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 62,
+  "The Conversation Indonesia": 63,
   "The Guardian — World": 0
  }
 }
