@@ -816,6 +816,18 @@
     "AI": 2,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-10-04",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "tambang": 1,
+    "AI": 1
+   }
   }
  ]
 }
