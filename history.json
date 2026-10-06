@@ -839,6 +839,22 @@
    "keywords": {
     "AI": 1
    }
+  },
+  {
+   "date": "2026-10-06",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 4,
+    "Lingkungan & Iklim": 3
+   },
+   "keywords": {
+    "tambang": 1,
+    "batu bara": 1,
+    "AI": 3,
+    "pusat data": 1,
+    "banjir": 2,
+    "iklim": 1
+   }
   }
  ]
 }
