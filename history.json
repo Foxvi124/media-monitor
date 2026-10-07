@@ -855,6 +855,19 @@
     "banjir": 2,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-10-07",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 2
+   },
+   "keywords": {
+    "AI": 1,
+    "iklim": 1,
+    "deforestasi": 1
+   }
   }
  ]
 }

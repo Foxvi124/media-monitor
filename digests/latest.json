@@ -1,63 +1,17 @@
 {
- "date": "2026-10-06",
- "generated_at": "06 Oct 2026 09:04 WIB",
+ "date": "2026-10-07",
+ "generated_at": "07 Oct 2026 08:13 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Tulang Raksasa di Tambang Batu Bara India Dikira Buaya, Ternyata Ular Sepanjang 15 Meter",
-     "link": "https://mongabay.co.id/2026/10/05/tulang-raksasa-di-tambang-batu-bara-india-dikira-buaya-ternyata-ular-sepanjang-15-meter/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "tambang",
-      "batu bara"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk becoming ‘roadkill’",
-     "link": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
+     "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+     "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
      "source": "The Guardian — World",
-     "published": "2026-10-06T00:53:48+00:00",
+     "published": "2026-10-06T22:06:04+00:00",
      "keywords": [
       "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Norway plans temporary ban on smart glasses in some public places",
-     "link": "https://www.theguardian.com/world/2026/oct/05/norway-temporary-ban-smart-glasses-public-places",
-     "source": "The Guardian — World",
-     "published": "2026-10-05T16:11:31+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-     "source": "The Guardian — World",
-     "published": "2026-10-05T15:59:30+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Kisah mereka yang hidup di dekat pusat data raksasa – 'Saya tak bisa minum airnya'",
-     "link": "https://www.bbc.com/indonesia/articles/c62mv3mzj04o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-10-05T03:07:10+00:00",
-     "keywords": [
-      "pusat data"
      ],
      "also_reported_by": []
     }
@@ -67,32 +21,22 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Sudin SDA Jakut bangun tanggul mitigasi untuk antisipasi banjir rob",
-     "link": "https://www.antaranews.com/berita/5772778/sudin-sda-jakut-bangun-tanggul-mitigasi-untuk-antisipasi-banjir-rob",
-     "source": "ANTARA News",
-     "published": "2026-10-06T08:50:08+07:00",
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Hari ini, BMKG peringatkan gelombang tinggi dan banjir rob",
-     "link": "https://www.antaranews.com/berita/5772740/hari-ini-bmkg-peringatkan-gelombang-tinggi-dan-banjir-rob",
-     "source": "ANTARA News",
-     "published": "2026-10-06T07:46:36+07:00",
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Reproduksi Ikan Terganggu Akibat Meningkatnya Suhu Bumi",
-     "link": "https://mongabay.co.id/short-article/2026/10/reproduksi-ikan-terganggu-akibat-meningkatnya-suhu-bumi/",
+     "title": "Opini: Menggugat Peran Hashim di Panggung Diplomasi KTT Iklim",
+     "link": "https://mongabay.co.id/2026/10/06/opini-menggugat-peran-hashim-di-panggung-diplomasi-ktt-iklim/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
       "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Tak Ada Satu pun Jembatan di Sepanjang 6.000 Km Sungai Amazon, Satu Jembatan Diperkirakan Naikkan Deforestasi",
+     "link": "https://mongabay.co.id/2026/10/06/tak-ada-satu-pun-jembatan-di-sepanjang-6-000-km-sungai-amazon-satu-jembatan-diperkirakan-naikkan-deforestasi/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "deforestasi"
      ],
      "also_reported_by": []
     }
