@@ -868,6 +868,21 @@
     "iklim": 1,
     "deforestasi": 1
    }
+  },
+  {
+   "date": "2026-10-08",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "nikel": 1,
+    "smelter": 1,
+    "hilirisasi": 1,
+    "AI": 3,
+    "pusat data": 1
+   }
   }
  ]
 }
