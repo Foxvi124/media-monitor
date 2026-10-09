@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5746576/openai-ungkap-perilaku-mengkhawatirkan-model-ai-dalam-pengujian": "2026-09-17T23:55:53.209662+00:00",
-  "https://www.bbc.com/indonesia/articles/cn45724vy5xo?at_medium=RSS&at_campaign=rss": "2026-09-17T23:55:53.209662+00:00",
-  "https://mongabay.co.id/2026/09/17/mengapa-deforestasi-indonesia-terus-menggila/": "2026-09-17T23:55:53.209662+00:00",
   "https://www.antaranews.com/berita/5748517/forum-ham-pbb-bahas-pemanfaatan-ai-untuk-kemajuan-hak-asasi-manusia": "2026-09-18T23:54:23.455808+00:00",
   "https://www.bbc.com/indonesia/articles/cqrk38e8j5d7o?at_medium=RSS&at_campaign=rss": "2026-09-18T23:54:23.455808+00:00",
   "https://mongabay.co.id/2026/09/18/ketika-krisis-iklim-tingkatkan-kerentanan-laut-dan-pesisir/": "2026-09-18T23:54:23.455808+00:00",
@@ -112,16 +109,21 @@
   "https://www.antaranews.com/berita/5776126/pakar-nus-perlu-strategi-tepat-hadapi-dampak-ai-pada-angkatan-kerja": "2026-10-08T01:35:09.384980+00:00",
   "https://www.antaranews.com/berita/5776120/kemarin-moratorium-smelter-nikel-hingga-indonesia-tak-akan-kolaps": "2026-10-08T01:35:09.384980+00:00",
   "https://www.antaranews.com/berita/5776078/pembangunan-pusat-data-tidak-boleh-ganggu-ketersediaan-air-dan-energi": "2026-10-08T01:35:09.384980+00:00",
-  "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing": "2026-10-08T01:35:09.384980+00:00"
+  "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing": "2026-10-08T01:35:09.384980+00:00",
+  "https://www.antaranews.com/berita/5777882/politik-kemarin-proyek-hilirisasi-hingga-perpres-perlindungan-ojol": "2026-10-09T01:45:45.870178+00:00",
+  "https://www.antaranews.com/berita/5777874/potensi-hilirisasi-mineral-modal-ai-hingga-langkah-cegah-influenza-a": "2026-10-09T01:45:45.870178+00:00",
+  "https://www.bbc.com/indonesia/articles/c790ezw4jvdo?at_medium=RSS&at_campaign=rss": "2026-10-09T01:45:45.870178+00:00",
+  "https://mongabay.co.id/short-article/2026/10/dari-irigasi-hingga-sumber-air-masyarakat-lombok-soroti-dampak-buruk-tambang-galian-c/": "2026-10-09T01:45:45.870178+00:00",
+  "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia": "2026-10-09T01:45:45.870178+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 68,
+  "CNN Indonesia — Nasional": 69,
   "Tempo — Nasional": 0,
-  "detikcom": 68,
+  "detikcom": 69,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 68,
+  "The Conversation Indonesia": 69,
   "The Guardian — World": 0
  }
 }

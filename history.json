@@ -883,6 +883,20 @@
     "AI": 3,
     "pusat data": 1
    }
+  },
+  {
+   "date": "2026-10-09",
+   "topics": {
+    "Pertambangan & Hilirisasi": 3,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "hilirisasi": 2,
+    "tambang": 1,
+    "AI": 2,
+    "pusat data": 1
+   }
   }
  ]
 }

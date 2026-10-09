@@ -1,28 +1,37 @@
 {
- "date": "2026-10-08",
- "generated_at": "08 Oct 2026 08:35 WIB",
+ "date": "2026-10-09",
+ "generated_at": "09 Oct 2026 08:45 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Kemarin, moratorium smelter nikel hingga Indonesia tak akan kolaps",
-     "link": "https://www.antaranews.com/berita/5776120/kemarin-moratorium-smelter-nikel-hingga-indonesia-tak-akan-kolaps",
+     "title": "Politik kemarin, proyek hilirisasi hingga perpres perlindungan ojol",
+     "link": "https://www.antaranews.com/berita/5777882/politik-kemarin-proyek-hilirisasi-hingga-perpres-perlindungan-ojol",
      "source": "ANTARA News",
-     "published": "2026-10-08T05:19:58+07:00",
+     "published": "2026-10-09T06:28:46+07:00",
      "keywords": [
-      "nikel",
-      "smelter"
+      "hilirisasi"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Rosan: Butuh investasi Rp13.000 T capai pertumbuhan ekonomi 8 persen",
-     "link": "https://www.antaranews.com/berita/5776130/rosan-butuh-investasi-rp13000-t-capai-pertumbuhan-ekonomi-8-persen",
+     "title": "Potensi hilirisasi mineral modal AI hingga langkah cegah influenza A",
+     "link": "https://www.antaranews.com/berita/5777874/potensi-hilirisasi-mineral-modal-ai-hingga-langkah-cegah-influenza-a",
      "source": "ANTARA News",
-     "published": "2026-10-08T06:02:41+07:00",
+     "published": "2026-10-09T06:23:03+07:00",
      "keywords": [
       "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Dari Irigasi hingga Sumber Air, Masyarakat Lombok Soroti Dampak Buruk Tambang Galian C",
+     "link": "https://mongabay.co.id/short-article/2026/10/dari-irigasi-hingga-sumber-air-masyarakat-lombok-soroti-dampak-buruk-tambang-galian-c/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -32,33 +41,32 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Pembangunan pusat data tidak boleh ganggu ketersediaan air dan energi",
-     "link": "https://www.antaranews.com/berita/5776078/pembangunan-pusat-data-tidak-boleh-ganggu-ketersediaan-air-dan-energi",
+     "title": "Potensi hilirisasi mineral modal AI hingga langkah cegah influenza A",
+     "link": "https://www.antaranews.com/berita/5777874/potensi-hilirisasi-mineral-modal-ai-hingga-langkah-cegah-influenza-a",
      "source": "ANTARA News",
-     "published": "2026-10-07T23:42:40+07:00",
+     "published": "2026-10-09T06:23:03+07:00",
      "keywords": [
-      "AI",
-      "pusat data"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+     "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
      "source": "The Guardian — World",
-     "published": "2026-10-08T00:57:58+00:00",
+     "published": "2026-10-08T22:33:24+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Pakar NUS: Perlu strategi tepat hadapi dampak AI pada angkatan kerja",
-     "link": "https://www.antaranews.com/berita/5776126/pakar-nus-perlu-strategi-tepat-hadapi-dampak-ai-pada-angkatan-kerja",
-     "source": "ANTARA News",
-     "published": "2026-10-08T05:57:49+07:00",
+     "title": "Nestapa warga Batam di tengah proyek pusat data – 'Air tidak mengalir'",
+     "link": "https://www.bbc.com/indonesia/articles/c790ezw4jvdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-08T03:03:33+00:00",
      "keywords": [
-      "AI"
+      "pusat data"
      ],
      "also_reported_by": []
     }
