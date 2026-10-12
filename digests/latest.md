@@ -1,13 +1,27 @@
-# 📰 Digest Media — 2026-10-11
+# 📰 Digest Media — 2026-10-12
 
-_2 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 11 Oct 2026 07:41 WIB_
+_6 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 12 Oct 2026 08:02 WIB_
+
+## Pertambangan & Hilirisasi (1) →
+
+- **[Mentrans jajaki kerja sama hilirisasi dengan China](https://www.antaranews.com/berita/5781220/mentrans-jajaki-kerja-sama-hilirisasi-dengan-china)** — ANTARA News · 11 Oct 22:00 WIB · kata kunci: **hilirisasi**
+  > Menteri Transmigrasi Muhammad Iftitah Sulaiman Suryanagara melakukan kunjungan kerja ke China pada 12–18 ...
 
 ## Teknologi & AI (2) →
 
-- **[Detail chip dan RAM Xiaomi 18 Pro Max global terungkap via Geekbench](https://www.antaranews.com/berita/5780477/detail-chip-dan-ram-xiaomi-18-pro-max-global-terungkap-via-geekbench)** — ANTARA News · 11 Oct 07:20 WIB · kata kunci: **chip**
-  > Xiaomi memastikan bakal memboyong Xiaomi 18 Pro series ke pasar global dan kabar terbaru menunjukkan bahwa detail ...
-- **[Batam Krisis Air, Warga Demo Data Center](https://mongabay.co.id/2026/10/10/batam-krisis-air-warga-demo-data-center/)** — Mongabay Indonesia · kata kunci: **pusat data**
-  > Puluhan emak-emak warga Sambau, Nongsa, Kota Batam, Kepulauan Riau (Kepri) berunjuk rasa di depan gerbang masuk **pusat data** center kawasan Nongsa Digital Park (NDP), Senin (5/10/26). Kelangkaan air bersih yang sudah berla…
+- 🔥 **[Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis](https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/)** — Mongabay Indonesia · kata kunci: **kecerdasan buatan**, **AI**
+  > Bayangkan sebuah komputer yang mampu mengenali ribuan gambar satwa, menjawab pertanyaan dalam hitungan detik, bahkan membantu ilmuwan memprediksi perubahan iklim. Kemampuan tersebut bukan lagi sekadar cerita fiksi ilmiah…
+- **[UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts](https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety)** — The Guardian — World · 12 Oct 06:01 WIB · kata kunci: **AI**
+  > Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over **AI** dangers Companies building the most advanced **AI** systems must increase safety efforts, the UK’s **AI** minister will sa…
+
+## Lingkungan & Iklim (3) ↑
+
+- 🔥 **[Bali angkat inisiatif kawasan rendah emisi di Pekan Iklim](https://www.antaranews.com/berita/5781286/bali-angkat-inisiatif-kawasan-rendah-emisi-di-pekan-iklim)** — ANTARA News · 12 Oct 02:11 WIB · kata kunci: **iklim**, **emisi**
+  > Pemerintah Provinsi (Pemprov) Bali bersiap mengangkat inisiatif strategis terkait penetapan kawasan rendah **emisi** dalam ...
+- **[WRI pilih Bali lokasi rapat global sebab komitmen turunkan emisi](https://www.antaranews.com/berita/5781264/wri-pilih-bali-lokasi-rapat-global-sebab-komitmen-turunkan-emisi)** — ANTARA News · 12 Oct 00:11 WIB · kata kunci: **emisi**
+  > Lembaga pemikir World Resources Institute (WRI) Indonesia menetapkan Bali sebagai tuan rumah pelaksanaan rapat tahunan ...
+- **[Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis](https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/)** — Mongabay Indonesia · kata kunci: **iklim**
+  > Bayangkan sebuah komputer yang mampu mengenali ribuan gambar satwa, menjawab pertanyaan dalam hitungan detik, bahkan membantu ilmuwan memprediksi perubahan **iklim**. Kemampuan tersebut bukan lagi sekadar cerita fiksi ilmiah…
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)

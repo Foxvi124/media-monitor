@@ -1,27 +1,79 @@
 {
- "date": "2026-10-11",
- "generated_at": "11 Oct 2026 07:41 WIB",
+ "date": "2026-10-12",
+ "generated_at": "12 Oct 2026 08:02 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Mentrans jajaki kerja sama hilirisasi dengan China",
+     "link": "https://www.antaranews.com/berita/5781220/mentrans-jajaki-kerja-sama-hilirisasi-dengan-china",
+     "source": "ANTARA News",
+     "published": "2026-10-11T22:00:59+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Detail chip dan RAM Xiaomi 18 Pro Max global terungkap via Geekbench",
-     "link": "https://www.antaranews.com/berita/5780477/detail-chip-dan-ram-xiaomi-18-pro-max-global-terungkap-via-geekbench",
-     "source": "ANTARA News",
-     "published": "2026-10-11T07:20:14+07:00",
+     "title": "Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis",
+     "link": "https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "chip"
+      "kecerdasan buatan",
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Batam Krisis Air, Warga Demo Data Center",
-     "link": "https://mongabay.co.id/2026/10/10/batam-krisis-air-warga-demo-data-center/",
+     "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+     "link": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+     "source": "The Guardian — World",
+     "published": "2026-10-11T23:01:39+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Bali angkat inisiatif kawasan rendah emisi di Pekan Iklim",
+     "link": "https://www.antaranews.com/berita/5781286/bali-angkat-inisiatif-kawasan-rendah-emisi-di-pekan-iklim",
+     "source": "ANTARA News",
+     "published": "2026-10-12T02:11:28+07:00",
+     "keywords": [
+      "iklim",
+      "emisi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "WRI pilih Bali lokasi rapat global sebab komitmen turunkan emisi",
+     "link": "https://www.antaranews.com/berita/5781264/wri-pilih-bali-lokasi-rapat-global-sebab-komitmen-turunkan-emisi",
+     "source": "ANTARA News",
+     "published": "2026-10-12T00:11:35+07:00",
+     "keywords": [
+      "emisi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis",
+     "link": "https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
-      "pusat data"
+      "iklim"
      ],
      "also_reported_by": []
     }
