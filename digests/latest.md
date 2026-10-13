@@ -1,27 +1,24 @@
-# 📰 Digest Media — 2026-10-12
+# 📰 Digest Media — 2026-10-13
 
-_6 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 12 Oct 2026 08:02 WIB_
+_6 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 13 Oct 2026 09:51 WIB_
 
 ## Pertambangan & Hilirisasi (1) →
 
-- **[Mentrans jajaki kerja sama hilirisasi dengan China](https://www.antaranews.com/berita/5781220/mentrans-jajaki-kerja-sama-hilirisasi-dengan-china)** — ANTARA News · 11 Oct 22:00 WIB · kata kunci: **hilirisasi**
-  > Menteri Transmigrasi Muhammad Iftitah Sulaiman Suryanagara melakukan kunjungan kerja ke China pada 12–18 ...
+- **[Ilusi Dekarbonisasi Industri Semen](https://mongabay.co.id/2026/10/12/ilusi-dekarbonisasi-industri-semen/)** — Mongabay Indonesia · kata kunci: **tambang**
+  > Truk-truk itu hilir mudik melewati jalanan berdebu di Lereng Pegunungan Kendeng, Kecamatan Gunem, Kabupaten Rembang, Jawa Tengah (Jateng), pertengahan Juli. Bak truk yang penuh muatan batu gamping, bahan baku utama semen…
 
-## Teknologi & AI (2) →
+## Teknologi & AI (5) ↑
 
-- 🔥 **[Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis](https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/)** — Mongabay Indonesia · kata kunci: **kecerdasan buatan**, **AI**
-  > Bayangkan sebuah komputer yang mampu mengenali ribuan gambar satwa, menjawab pertanyaan dalam hitungan detik, bahkan membantu ilmuwan memprediksi perubahan iklim. Kemampuan tersebut bukan lagi sekadar cerita fiksi ilmiah…
-- **[UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts](https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety)** — The Guardian — World · 12 Oct 06:01 WIB · kata kunci: **AI**
-  > Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over **AI** dangers Companies building the most advanced **AI** systems must increase safety efforts, the UK’s **AI** minister will sa…
-
-## Lingkungan & Iklim (3) ↑
-
-- 🔥 **[Bali angkat inisiatif kawasan rendah emisi di Pekan Iklim](https://www.antaranews.com/berita/5781286/bali-angkat-inisiatif-kawasan-rendah-emisi-di-pekan-iklim)** — ANTARA News · 12 Oct 02:11 WIB · kata kunci: **iklim**, **emisi**
-  > Pemerintah Provinsi (Pemprov) Bali bersiap mengangkat inisiatif strategis terkait penetapan kawasan rendah **emisi** dalam ...
-- **[WRI pilih Bali lokasi rapat global sebab komitmen turunkan emisi](https://www.antaranews.com/berita/5781264/wri-pilih-bali-lokasi-rapat-global-sebab-komitmen-turunkan-emisi)** — ANTARA News · 12 Oct 00:11 WIB · kata kunci: **emisi**
-  > Lembaga pemikir World Resources Institute (WRI) Indonesia menetapkan Bali sebagai tuan rumah pelaksanaan rapat tahunan ...
-- **[Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis](https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/)** — Mongabay Indonesia · kata kunci: **iklim**
-  > Bayangkan sebuah komputer yang mampu mengenali ribuan gambar satwa, menjawab pertanyaan dalam hitungan detik, bahkan membantu ilmuwan memprediksi perubahan **iklim**. Kemampuan tersebut bukan lagi sekadar cerita fiksi ilmiah…
+- 🔥 **[Sejak 2023, hampir 200.000 orang di AS kehilangan pekerjaan akibat AI](https://www.antaranews.com/berita/5782994/sejak-2023-hampir-200000-orang-di-as-kehilangan-pekerjaan-akibat-ai)** — ANTARA News · 13 Oct 09:29 WIB · kata kunci: **kecerdasan buatan**, **AI**
+  > **Kecerdasan buatan** (**AI**) telah menyebabkan hampir 200.000 orang di Amerika Serikat (AS) kehilangan pekerjaan sejak 2023, ...
+- **[Australian politics live: Shoebridge calls AI committee a ‘farce’ after letter ‘vetted’ by PM’s staffer; fire ants in Sydney’s inner west](https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb)** — The Guardian — World · 13 Oct 09:34 WIB · kata kunci: **AI**
+  > Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer depar…
+- **[Meta luncurkan model AI kelas atas pertama Muse Wonder](https://www.antaranews.com/berita/5782986/meta-luncurkan-model-ai-kelas-atas-pertama-muse-wonder)** — ANTARA News · 13 Oct 09:12 WIB · kata kunci: **AI**
+  > Meta merilis dua model kecerdasan artifisial (**AI**) terbaru, Muse Wonder dan Muse Wonder Full, sebagai model **AI** kelas ...
+- **[Tren foto 1980-an di ChatGPT viral – Apakah data pribadi pengguna diambil?](https://www.bbc.com/indonesia/articles/cq5ynvgmg7gno?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 12 Oct 14:01 WIB · kata kunci: **AI**
+  > Jutaan orang di seluruh dunia telah menggunakan ChatGPT dan berbagai alat berbasis **AI** lainnya untuk mengubah foto selfie mereka menjadi gaya retro ala masa lampau—namun para ahli memperingatkan pengguna mungkin membagika…
+- **[Kemampuan siswa Indonesia di bawah rata-rata global - 'AI bikin anak malas berpikir'](https://www.bbc.com/indonesia/articles/c3dxw2rznqrjo?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 12 Oct 10:34 WIB · kata kunci: **AI**
+  > Hasil PISA 2025 menunjukkan kemampuan membaca, matematika, dan sains anak Indonesia masih di bawah kompetensi minimum. Sedangkan, penggunaan **AI** di kalangan para siswa Indonesia makin masif.
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)

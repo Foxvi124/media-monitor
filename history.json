@@ -935,6 +935,19 @@
     "iklim": 2,
     "emisi": 2
    }
+  },
+  {
+   "date": "2026-10-13",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 5,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "tambang": 1,
+    "kecerdasan buatan": 1,
+    "AI": 5
+   }
   }
  ]
 }

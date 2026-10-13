@@ -1,17 +1,17 @@
 {
- "date": "2026-10-12",
- "generated_at": "12 Oct 2026 08:02 WIB",
+ "date": "2026-10-13",
+ "generated_at": "13 Oct 2026 09:51 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Mentrans jajaki kerja sama hilirisasi dengan China",
-     "link": "https://www.antaranews.com/berita/5781220/mentrans-jajaki-kerja-sama-hilirisasi-dengan-china",
-     "source": "ANTARA News",
-     "published": "2026-10-11T22:00:59+07:00",
+     "title": "Ilusi Dekarbonisasi Industri Semen",
+     "link": "https://mongabay.co.id/2026/10/12/ilusi-dekarbonisasi-industri-semen/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "hilirisasi"
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -21,10 +21,10 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis",
-     "link": "https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Sejak 2023, hampir 200.000 orang di AS kehilangan pekerjaan akibat AI",
+     "link": "https://www.antaranews.com/berita/5782994/sejak-2023-hampir-200000-orang-di-as-kehilangan-pekerjaan-akibat-ai",
+     "source": "ANTARA News",
+     "published": "2026-10-13T09:29:48+07:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -32,48 +32,42 @@
      "also_reported_by": []
     },
     {
-     "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
-     "link": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+     "title": "Australian politics live: Shoebridge calls AI committee a ‘farce’ after letter ‘vetted’ by PM’s staffer; fire ants in Sydney’s inner west",
+     "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
      "source": "The Guardian — World",
-     "published": "2026-10-11T23:01:39+00:00",
+     "published": "2026-10-13T02:34:41+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
+    },
     {
-     "title": "Bali angkat inisiatif kawasan rendah emisi di Pekan Iklim",
-     "link": "https://www.antaranews.com/berita/5781286/bali-angkat-inisiatif-kawasan-rendah-emisi-di-pekan-iklim",
+     "title": "Meta luncurkan model AI kelas atas pertama Muse Wonder",
+     "link": "https://www.antaranews.com/berita/5782986/meta-luncurkan-model-ai-kelas-atas-pertama-muse-wonder",
      "source": "ANTARA News",
-     "published": "2026-10-12T02:11:28+07:00",
+     "published": "2026-10-13T09:12:48+07:00",
      "keywords": [
-      "iklim",
-      "emisi"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "WRI pilih Bali lokasi rapat global sebab komitmen turunkan emisi",
-     "link": "https://www.antaranews.com/berita/5781264/wri-pilih-bali-lokasi-rapat-global-sebab-komitmen-turunkan-emisi",
-     "source": "ANTARA News",
-     "published": "2026-10-12T00:11:35+07:00",
+     "title": "Tren foto 1980-an di ChatGPT viral – Apakah data pribadi pengguna diambil?",
+     "link": "https://www.bbc.com/indonesia/articles/cq5ynvgmg7gno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-12T07:01:38+00:00",
      "keywords": [
-      "emisi"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Lewat Film, Pelajar 70 Kota di Indonesia Diajak Memahami AI Secara Kritis",
-     "link": "https://mongabay.co.id/short-article/2026/10/lewat-film-pelajar-70-kota-di-indonesia-diajak-memahami-ai-secara-kritis/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Kemampuan siswa Indonesia di bawah rata-rata global - 'AI bikin anak malas berpikir'",
+     "link": "https://www.bbc.com/indonesia/articles/c3dxw2rznqrjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-12T03:34:18+00:00",
      "keywords": [
-      "iklim"
+      "AI"
      ],
      "also_reported_by": []
     }
