@@ -948,6 +948,19 @@
     "kecerdasan buatan": 1,
     "AI": 5
    }
+  },
+  {
+   "date": "2026-10-14",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 3
+   },
+   "keywords": {
+    "AI": 3,
+    "banjir": 2,
+    "iklim": 1
+   }
   }
  ]
 }
