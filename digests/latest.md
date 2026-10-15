@@ -1,24 +1,25 @@
-# 📰 Digest Media — 2026-10-14
+# 📰 Digest Media — 2026-10-15
 
-_6 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 14 Oct 2026 07:54 WIB_
+_5 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 15 Oct 2026 07:18 WIB_
 
-## Teknologi & AI (3) ↑
+## Pertambangan & Hilirisasi (1) →
 
-- **[Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut](https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing)** — The Guardian — World · 14 Oct 02:22 WIB · kata kunci: **AI**
-  > Katie Zacharia’s maiden briefing was excruciating – at least her predecessor had delivered her propaganda hot Well, that was weird. Katie Zacharia , the new White House press secretary, made her debut on the podium on Tu…
-- **[Far-right and Iran add to mix of terror threats UK faces – not to mention AI](https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update)** — The Guardian — World · 14 Oct 00:58 WIB · kata kunci: **AI**
-  > Annual update from MI5 chief highlighted a complex cocktail that could have real-life consequences for Britain MI5’s annual threat update covers so much ground it is easy to feel anxious. The terror threat has become mor…
-- **[IMF warns global economy ‘could soon test the limits of resilience’](https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026)** — The Guardian — World · 13 Oct 09:00 WIB · kata kunci: **AI**
-  > World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026 Threat of **AI** share crash puts world financial stability at risk, says IMF The global ec…
+- 🔥 **[Nestapa Perempuan Pesisir Baliara Terdampak Tambang Nikel](https://mongabay.co.id/2026/10/14/nestapa-perempuan-pesisir-baliara-terdampak-tambang-nikel/)** — Mongabay Indonesia · kata kunci: **nikel**, **tambang**
+  > “Foto mi baru kirimkan di nasional sana, supaya kita orang miskin ini dilihat juga sama Prabowo (Presiden Prabowo Subianto),” kata Mpila, emosional saat lensa kamera menyorotnya malam itu. Perempuan nelayan tradisional S…
 
-## Lingkungan & Iklim (3) ↑
+## Teknologi & AI (3) →
 
-- **[Wali Kota Makassar kenalkan RISE atasi banjir di forum internasional](https://www.antaranews.com/berita/5784817/wali-kota-makassar-kenalkan-rise-atasi-banjir-di-forum-internasional)** — ANTARA News · 14 Oct 07:53 WIB · kata kunci: **banjir**
-  > Wali Kota Makassar Munafri Arifuddin mengenalkan Revitalising Informal Settlements and Their ...
-- **[Mangrove di Lampung Kembali Mati, Gambut Jambi Terus Terbakar. Masih Bisakah Alam Pulih?](https://mongabay.co.id/2026/10/13/mangrove-di-lampung-kembali-mati-gambut-jambi-terus-terbakar-masih-bisakah-alam-pulih/)** — Mongabay Indonesia · kata kunci: **banjir**
-  > Di pesisir Lampung Timur, hutan mangrove yang sempat tumbuh kembali secara alami kini mengalami kematian massal. Padahal, mangrove tersebut pernah menjadi harapan bagi pemulihan kawasan pesisir yang rusak akibat pembukaa…
-- **[Malaria di Indonesia Sentuh Angka Tertinggi dalam Sejarah, Pengaruh Krisis Iklim?](https://mongabay.co.id/short-article/2026/10/malaria-di-indonesia-sentuh-angka-tertinggi-dalam-sejarah-pengaruh-krisis-iklim/)** — Mongabay Indonesia · kata kunci: **iklim**
-  > Pada dua tahun terakhir, kasus malaria di Indonesia melonjak 69%. Berdasarkan data Kementerian Kesehatan (Kemenkes) 2023-2025, angkanya melonjak dari 418.546 menjadi 706.297 kasus. Angka tersebut menyentuh rekor tertingg…
+- **[Boomi dan Jade Global Jalin Kemitraan untuk Hadirkan Agen AI Terkelola ke dalam Operasi Manufaktur](https://www.antaranews.com/berita/5787217/boomi-dan-jade-global-jalin-kemitraan-untuk-hadirkan-agen-ai-terkelola-ke-dalam-operasi-manufaktur)** — ANTARA News · 15 Oct 07:01 WIB · kata kunci: **AI**
+  > - Boomi, perusahaan aktiviasi data untuk **AI**, dan Jade Global, sebuah perusahaan Mitra Implementasi dan Layanan ...
+- **[OpenAI’s London staff receive average of £2.3m per person annually](https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person)** — The Guardian — World · 15 Oct 02:15 WIB · kata kunci: **AI**
+  > Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last year OpenAI’s London staff each received £2,318,181 on average last year, as the ChatGPT-make…
+- **[Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story](https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story)** — The Guardian — World · 15 Oct 02:01 WIB · kata kunci: **AI**
+  > Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using **AI** to write a prize-winning short stor…
+
+## Lingkungan & Iklim (1) →
+
+- 🔥 **[Koalisi Bali Emisi Nol Bersih gali inovasi lokal buat solusi iklim](https://www.antaranews.com/berita/5787101/koalisi-bali-emisi-nol-bersih-gali-inovasi-lokal-buat-solusi-iklim)** — ANTARA News · 14 Oct 23:42 WIB · kata kunci: **iklim**, **emisi**
+  > Koalisi Bali **Emisi** Nol Bersih menggelar ajang penggalangan solusi **iklim** tingkat akar rumput di Pekan **Iklim** Bali 2026 ...
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)

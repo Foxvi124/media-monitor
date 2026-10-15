@@ -1,35 +1,51 @@
 {
- "date": "2026-10-14",
- "generated_at": "14 Oct 2026 07:54 WIB",
+ "date": "2026-10-15",
+ "generated_at": "15 Oct 2026 07:18 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Nestapa Perempuan Pesisir Baliara Terdampak Tambang Nikel",
+     "link": "https://mongabay.co.id/2026/10/14/nestapa-perempuan-pesisir-baliara-terdampak-tambang-nikel/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "nikel",
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut",
-     "link": "https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing",
-     "source": "The Guardian — World",
-     "published": "2026-10-13T19:22:02+00:00",
+     "title": "Boomi dan Jade Global Jalin Kemitraan untuk Hadirkan Agen AI Terkelola ke dalam Operasi Manufaktur",
+     "link": "https://www.antaranews.com/berita/5787217/boomi-dan-jade-global-jalin-kemitraan-untuk-hadirkan-agen-ai-terkelola-ke-dalam-operasi-manufaktur",
+     "source": "ANTARA News",
+     "published": "2026-10-15T07:01:37+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
+     "title": "OpenAI’s London staff receive average of £2.3m per person annually",
+     "link": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
      "source": "The Guardian — World",
-     "published": "2026-10-13T17:58:40+00:00",
+     "published": "2026-10-14T19:15:14+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "IMF warns global economy ‘could soon test the limits of resilience’",
-     "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+     "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+     "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
      "source": "The Guardian — World",
-     "published": "2026-10-13T02:00:11+00:00",
+     "published": "2026-10-14T19:01:29+00:00",
      "keywords": [
       "AI"
      ],
@@ -41,32 +57,13 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Wali Kota Makassar kenalkan RISE atasi banjir di forum internasional",
-     "link": "https://www.antaranews.com/berita/5784817/wali-kota-makassar-kenalkan-rise-atasi-banjir-di-forum-internasional",
+     "title": "Koalisi Bali Emisi Nol Bersih gali inovasi lokal buat solusi iklim",
+     "link": "https://www.antaranews.com/berita/5787101/koalisi-bali-emisi-nol-bersih-gali-inovasi-lokal-buat-solusi-iklim",
      "source": "ANTARA News",
-     "published": "2026-10-14T07:53:02+07:00",
+     "published": "2026-10-14T23:42:13+07:00",
      "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Mangrove di Lampung Kembali Mati, Gambut Jambi Terus Terbakar. Masih Bisakah Alam Pulih?",
-     "link": "https://mongabay.co.id/2026/10/13/mangrove-di-lampung-kembali-mati-gambut-jambi-terus-terbakar-masih-bisakah-alam-pulih/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Malaria di Indonesia Sentuh Angka Tertinggi dalam Sejarah, Pengaruh Krisis Iklim?",
-     "link": "https://mongabay.co.id/short-article/2026/10/malaria-di-indonesia-sentuh-angka-tertinggi-dalam-sejarah-pengaruh-krisis-iklim/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "iklim"
+      "iklim",
+      "emisi"
      ],
      "also_reported_by": []
     }
