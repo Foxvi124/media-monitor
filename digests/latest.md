@@ -1,25 +1,29 @@
-# 📰 Digest Media — 2026-10-15
+# 📰 Digest Media — 2026-10-16
 
-_5 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 15 Oct 2026 07:18 WIB_
+_7 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 16 Oct 2026 07:06 WIB_
 
-## Pertambangan & Hilirisasi (1) →
+## Pertambangan & Hilirisasi (2) ↑
 
-- 🔥 **[Nestapa Perempuan Pesisir Baliara Terdampak Tambang Nikel](https://mongabay.co.id/2026/10/14/nestapa-perempuan-pesisir-baliara-terdampak-tambang-nikel/)** — Mongabay Indonesia · kata kunci: **nikel**, **tambang**
-  > “Foto mi baru kirimkan di nasional sana, supaya kita orang miskin ini dilihat juga sama Prabowo (Presiden Prabowo Subianto),” kata Mpila, emosional saat lensa kamera menyorotnya malam itu. Perempuan nelayan tradisional S…
+- **[Bahlil sebut subsidi LPG sekitar Rp100 triliun akibat lonjakan ICP](https://www.antaranews.com/berita/5790213/bahlil-sebut-subsidi-lpg-sekitar-rp100-triliun-akibat-lonjakan-icp)** — ANTARA News · 16 Oct 04:59 WIB · kata kunci: **hilirisasi**
+  > Menteri Koordinator Bidang **Hilirisasi** dan Transisi Energi Bahlil Lahadalia mengatakan total subsidi untuk liquefied ...
+- **[Izin Tambang Seluas 155 Ribu Hektar Membentang di Aceh](https://mongabay.co.id/2026/10/15/izin-tambang-seluas-155-ribu-hektar-membentang-di-aceh/)** — Mongabay Indonesia · kata kunci: **tambang**
+  > Sebanyak 85 izin usaha pertambangan (IUP) mineral logam dan batubara membentang di Provinsi Aceh. Izin tersebut tersebar di 12 kabupaten/kota dengan total luas 155.307,50 hektar. Dari jumlah tersebut, sebagian besar bers…
 
 ## Teknologi & AI (3) →
 
-- **[Boomi dan Jade Global Jalin Kemitraan untuk Hadirkan Agen AI Terkelola ke dalam Operasi Manufaktur](https://www.antaranews.com/berita/5787217/boomi-dan-jade-global-jalin-kemitraan-untuk-hadirkan-agen-ai-terkelola-ke-dalam-operasi-manufaktur)** — ANTARA News · 15 Oct 07:01 WIB · kata kunci: **AI**
-  > - Boomi, perusahaan aktiviasi data untuk **AI**, dan Jade Global, sebuah perusahaan Mitra Implementasi dan Layanan ...
-- **[OpenAI’s London staff receive average of £2.3m per person annually](https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person)** — The Guardian — World · 15 Oct 02:15 WIB · kata kunci: **AI**
-  > Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last year OpenAI’s London staff each received £2,318,181 on average last year, as the ChatGPT-make…
-- **[Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story](https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story)** — The Guardian — World · 15 Oct 02:01 WIB · kata kunci: **AI**
-  > Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using **AI** to write a prize-winning short stor…
+- 🔥 **[Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)** — The Guardian — World · 15 Oct 21:33 WIB · kata kunci: **AI**, **chip**
+  > **Chip** makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is coming…
+- **[AI yang Bertanggung Jawab Untuk Anak-anak: IEEE Hadirkan Formula Keselamatan Terpercaya Untuk Membantu Melindungi Anak Di Dunia Maya](https://www.antaranews.com/berita/5790269/ai-yang-bertanggung-jawab-untuk-anak-anak-ieee-hadirkan-formula-keselamatan-terpercaya-untuk-membantu-melindungi-anak-di-dunia-maya)** — ANTARA News · 16 Oct 06:49 WIB · kata kunci: **AI**
+  > - IEEE Standards Association adalah organisasi global yang mengembangkan standar berbasis permufakatan dan bagian dari ...
+- **[Kemenekraf dorong perluasan jejaring bisnis enam startup jasa TIK](https://www.antaranews.com/berita/5790245/kemenekraf-dorong-perluasan-jejaring-bisnis-enam-startup-jasa-tik)** — ANTARA News · 16 Oct 06:30 WIB · kata kunci: **startup**
+  > Kementerian Ekonomi Kreatif (Kemenekraf) mendorong perluasan akses pasar dan jaringan bisnis enam ...
 
-## Lingkungan & Iklim (1) →
+## Lingkungan & Iklim (2) ↑
 
-- 🔥 **[Koalisi Bali Emisi Nol Bersih gali inovasi lokal buat solusi iklim](https://www.antaranews.com/berita/5787101/koalisi-bali-emisi-nol-bersih-gali-inovasi-lokal-buat-solusi-iklim)** — ANTARA News · 14 Oct 23:42 WIB · kata kunci: **iklim**, **emisi**
-  > Koalisi Bali **Emisi** Nol Bersih menggelar ajang penggalangan solusi **iklim** tingkat akar rumput di Pekan **Iklim** Bali 2026 ...
+- **[BMKG peringatkan potensi banjir rob di pesisir Jakarta](https://www.antaranews.com/berita/5790185/bmkg-peringatkan-potensi-banjir-rob-di-pesisir-jakarta)** — ANTARA News · 16 Oct 02:55 WIB · kata kunci: **banjir**
+  > Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memperingatkan potensi **banjir** pesisir atau rob di sejumlah ...
+- **[Satgas PRR Bikin Sumur Bor untuk Warga Terdampak Banjir Aceh Utara](https://nasional.tempo.co/read/2121699/satgas-prr-bikin-sumur-bor-untuk-warga-terdampak-banjir-aceh-utara)** — Tempo — Nasional · 15 Oct 22:01 WIB · kata kunci: **banjir**
+  > Berdasarkan laporan harian Satgas PRR per 12 Oktober 2026, sebanyak 1.198 sumur bor telah selesai dibangun di Provinsi Aceh, Sumatera Utara, dan Sumatera Barat. Sebanyak 639 sumur bor lainnya masih dalam proses pengerjaa…
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)

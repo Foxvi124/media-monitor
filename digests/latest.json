@@ -1,17 +1,26 @@
 {
- "date": "2026-10-15",
- "generated_at": "15 Oct 2026 07:18 WIB",
+ "date": "2026-10-16",
+ "generated_at": "16 Oct 2026 07:06 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Nestapa Perempuan Pesisir Baliara Terdampak Tambang Nikel",
-     "link": "https://mongabay.co.id/2026/10/14/nestapa-perempuan-pesisir-baliara-terdampak-tambang-nikel/",
+     "title": "Bahlil sebut subsidi LPG sekitar Rp100 triliun akibat lonjakan ICP",
+     "link": "https://www.antaranews.com/berita/5790213/bahlil-sebut-subsidi-lpg-sekitar-rp100-triliun-akibat-lonjakan-icp",
+     "source": "ANTARA News",
+     "published": "2026-10-16T04:59:48+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Izin Tambang Seluas 155 Ribu Hektar Membentang di Aceh",
+     "link": "https://mongabay.co.id/2026/10/15/izin-tambang-seluas-155-ribu-hektar-membentang-di-aceh/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
-      "nikel",
       "tambang"
      ],
      "also_reported_by": []
@@ -22,32 +31,33 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Boomi dan Jade Global Jalin Kemitraan untuk Hadirkan Agen AI Terkelola ke dalam Operasi Manufaktur",
-     "link": "https://www.antaranews.com/berita/5787217/boomi-dan-jade-global-jalin-kemitraan-untuk-hadirkan-agen-ai-terkelola-ke-dalam-operasi-manufaktur",
+     "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+     "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+     "source": "The Guardian — World",
+     "published": "2026-10-15T14:33:12+00:00",
+     "keywords": [
+      "AI",
+      "chip"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "AI yang Bertanggung Jawab Untuk Anak-anak: IEEE Hadirkan Formula Keselamatan Terpercaya Untuk Membantu Melindungi Anak Di Dunia Maya",
+     "link": "https://www.antaranews.com/berita/5790269/ai-yang-bertanggung-jawab-untuk-anak-anak-ieee-hadirkan-formula-keselamatan-terpercaya-untuk-membantu-melindungi-anak-di-dunia-maya",
      "source": "ANTARA News",
-     "published": "2026-10-15T07:01:37+07:00",
+     "published": "2026-10-16T06:49:46+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "OpenAI’s London staff receive average of £2.3m per person annually",
-     "link": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
-     "source": "The Guardian — World",
-     "published": "2026-10-14T19:15:14+00:00",
+     "title": "Kemenekraf dorong perluasan jejaring bisnis enam startup jasa TIK",
+     "link": "https://www.antaranews.com/berita/5790245/kemenekraf-dorong-perluasan-jejaring-bisnis-enam-startup-jasa-tik",
+     "source": "ANTARA News",
+     "published": "2026-10-16T06:30:14+07:00",
      "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
-     "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-     "source": "The Guardian — World",
-     "published": "2026-10-14T19:01:29+00:00",
-     "keywords": [
-      "AI"
+      "startup"
      ],
      "also_reported_by": []
     }
@@ -57,13 +67,22 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Koalisi Bali Emisi Nol Bersih gali inovasi lokal buat solusi iklim",
-     "link": "https://www.antaranews.com/berita/5787101/koalisi-bali-emisi-nol-bersih-gali-inovasi-lokal-buat-solusi-iklim",
+     "title": "BMKG peringatkan potensi banjir rob di pesisir Jakarta",
+     "link": "https://www.antaranews.com/berita/5790185/bmkg-peringatkan-potensi-banjir-rob-di-pesisir-jakarta",
      "source": "ANTARA News",
-     "published": "2026-10-14T23:42:13+07:00",
+     "published": "2026-10-16T02:55:35+07:00",
      "keywords": [
-      "iklim",
-      "emisi"
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Satgas PRR Bikin Sumur Bor untuk Warga Terdampak Banjir Aceh Utara",
+     "link": "https://nasional.tempo.co/read/2121699/satgas-prr-bikin-sumur-bor-untuk-warga-terdampak-banjir-aceh-utara",
+     "source": "Tempo — Nasional",
+     "published": "2026-10-15T22:01:24+07:00",
+     "keywords": [
+      "banjir"
      ],
      "also_reported_by": []
     }

@@ -976,6 +976,22 @@
     "iklim": 1,
     "emisi": 1
    }
+  },
+  {
+   "date": "2026-10-16",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 2
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "tambang": 1,
+    "AI": 2,
+    "chip": 1,
+    "startup": 1,
+    "banjir": 2
+   }
   }
  ]
 }
