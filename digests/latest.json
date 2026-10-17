@@ -1,23 +1,23 @@
 {
- "date": "2026-10-16",
- "generated_at": "16 Oct 2026 07:06 WIB",
+ "date": "2026-10-17",
+ "generated_at": "17 Oct 2026 07:10 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Bahlil sebut subsidi LPG sekitar Rp100 triliun akibat lonjakan ICP",
-     "link": "https://www.antaranews.com/berita/5790213/bahlil-sebut-subsidi-lpg-sekitar-rp100-triliun-akibat-lonjakan-icp",
+     "title": "KPK: Bupati Klaten terima Rp245 juta dari pengusaha tambang galian c",
+     "link": "https://www.antaranews.com/berita/5792697/kpk-bupati-klaten-terima-rp245-juta-dari-pengusaha-tambang-galian-c",
      "source": "ANTARA News",
-     "published": "2026-10-16T04:59:48+07:00",
+     "published": "2026-10-17T07:05:04+07:00",
      "keywords": [
-      "hilirisasi"
+      "tambang"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Izin Tambang Seluas 155 Ribu Hektar Membentang di Aceh",
-     "link": "https://mongabay.co.id/2026/10/15/izin-tambang-seluas-155-ribu-hektar-membentang-di-aceh/",
+     "title": "Empat Penambang Emas Tewas Terimbun Longsor di Sumbar",
+     "link": "https://mongabay.co.id/2026/10/16/empat-penambang-emas-tewas-tertimbun-longsor-di-sumbar/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
@@ -28,59 +28,13 @@
    ]
   },
   {
-   "name": "Teknologi & AI",
-   "items": [
-    {
-     "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-     "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-     "source": "The Guardian — World",
-     "published": "2026-10-15T14:33:12+00:00",
-     "keywords": [
-      "AI",
-      "chip"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "AI yang Bertanggung Jawab Untuk Anak-anak: IEEE Hadirkan Formula Keselamatan Terpercaya Untuk Membantu Melindungi Anak Di Dunia Maya",
-     "link": "https://www.antaranews.com/berita/5790269/ai-yang-bertanggung-jawab-untuk-anak-anak-ieee-hadirkan-formula-keselamatan-terpercaya-untuk-membantu-melindungi-anak-di-dunia-maya",
-     "source": "ANTARA News",
-     "published": "2026-10-16T06:49:46+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Kemenekraf dorong perluasan jejaring bisnis enam startup jasa TIK",
-     "link": "https://www.antaranews.com/berita/5790245/kemenekraf-dorong-perluasan-jejaring-bisnis-enam-startup-jasa-tik",
-     "source": "ANTARA News",
-     "published": "2026-10-16T06:30:14+07:00",
-     "keywords": [
-      "startup"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
-  {
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "BMKG peringatkan potensi banjir rob di pesisir Jakarta",
-     "link": "https://www.antaranews.com/berita/5790185/bmkg-peringatkan-potensi-banjir-rob-di-pesisir-jakarta",
-     "source": "ANTARA News",
-     "published": "2026-10-16T02:55:35+07:00",
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Satgas PRR Bikin Sumur Bor untuk Warga Terdampak Banjir Aceh Utara",
-     "link": "https://nasional.tempo.co/read/2121699/satgas-prr-bikin-sumur-bor-untuk-warga-terdampak-banjir-aceh-utara",
-     "source": "Tempo — Nasional",
-     "published": "2026-10-15T22:01:24+07:00",
+     "title": "Adik eks Kepala BNPB diduga gunakan dana bencana untuk beli saham – 'Dana itu untuk menangani banjir Sumatra, gempa NTT dan karhutla'",
+     "link": "https://www.bbc.com/indonesia/articles/cq4g18kg433zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-16T11:18:19+00:00",
      "keywords": [
       "banjir"
      ],
