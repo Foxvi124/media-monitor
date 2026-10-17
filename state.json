@@ -1,23 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5759295/kemarin-imam-besar-dunia-di-indonesia-hingga-penanganan-banjir-solok": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.antaranews.com/berita/5759292/politik-kemarin-banjir-solok-hingga-prajurit-tni-cegah-karhutla": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.antaranews.com/berita/5759291/bmkg-peringatkan-potensi-banjir-rob-di-wilayah-pesisir-ntb": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.antaranews.com/berita/5759289/antam-serap-9-ton-emas-freeport-perkuat-rantai-pasok": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.antaranews.com/video/5759128/jaringan-air-bersih-putus-tni-pasok-air-siap-minum-ke-solok": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.antaranews.com/video/5759199/kejagung-tetapkan-pt-cni-dan-4-orang-tersangka-korupsi-nikel-rp401-m": "2026-09-26T00:23:29.451839+00:00",
-  "https://mongabay.co.id/2026/09/25/mengapa-ledakan-alga-bisa-ganggu-ekosistem-laut-indonesia/": "2026-09-26T00:23:29.451839+00:00",
-  "https://mongabay.co.id/podcast/2026/09/ekowisata-berbasis-riset-untuk-menjaga-hutan-sungai-lesan/": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover": "2026-09-26T00:23:29.451839+00:00",
-  "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race": "2026-09-26T00:23:29.451839+00:00",
   "https://mongabay.co.id/2026/09/26/banjir-bandang-terjang-solok-dampak-alih-fungsi-hutan/": "2026-09-27T00:18:06.388148+00:00",
   "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash": "2026-09-27T00:18:06.388148+00:00",
   "https://www.antaranews.com/berita/5760975/amsi-sebut-media-hadapi-tantangan-di-era-ai": "2026-09-28T00:19:22.579559+00:00",
@@ -101,16 +83,18 @@
   "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt": "2026-10-16T00:06:15.335175+00:00",
   "https://www.antaranews.com/berita/5792697/kpk-bupati-klaten-terima-rp245-juta-dari-pengusaha-tambang-galian-c": "2026-10-17T00:10:10.336015+00:00",
   "https://www.bbc.com/indonesia/articles/cq4g18kg433zo?at_medium=RSS&at_campaign=rss": "2026-10-17T00:10:10.336015+00:00",
-  "https://mongabay.co.id/2026/10/16/empat-penambang-emas-tewas-tertimbun-longsor-di-sumbar/": "2026-10-17T00:10:10.336015+00:00"
+  "https://mongabay.co.id/2026/10/16/empat-penambang-emas-tewas-tertimbun-longsor-di-sumbar/": "2026-10-17T00:10:10.336015+00:00",
+  "https://www.antaranews.com/berita/5794077/sidang-unesco-indonesia-dorong-perlindungan-anak-di-era-ai": "2026-10-17T23:47:12.650469+00:00",
+  "https://mongabay.co.id/short-article/2026/10/izin-tambang-aceh-meluas-hingga-155-ribu-hektar-manfaat-bagi-warga-dipertanyakan/": "2026-10-17T23:47:12.650469+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 77,
+  "CNN Indonesia — Nasional": 78,
   "Tempo — Nasional": 0,
-  "detikcom": 77,
+  "detikcom": 78,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 77,
+  "The Conversation Indonesia": 78,
   "The Guardian — World": 0
  }
 }
