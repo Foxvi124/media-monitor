@@ -1,33 +1,32 @@
 {
- "date": "2026-10-18",
- "generated_at": "18 Oct 2026 06:47 WIB",
+ "date": "2026-10-19",
+ "generated_at": "19 Oct 2026 06:56 WIB",
  "topics": [
   {
-   "name": "Pertambangan & Hilirisasi",
+   "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Izin Tambang Aceh Meluas hingga 155 Ribu Hektar, Manfaat bagi Warga Dipertanyakan",
-     "link": "https://mongabay.co.id/short-article/2026/10/izin-tambang-aceh-meluas-hingga-155-ribu-hektar-manfaat-bagi-warga-dipertanyakan/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Jual kamera milik perusahaan, pria di Kalideres ditangkap polisi",
+     "link": "https://www.antaranews.com/berita/5795389/jual-kamera-milik-perusahaan-pria-di-kalideres-ditangkap-polisi",
+     "source": "ANTARA News",
+     "published": "2026-10-18T22:05:35+07:00",
      "keywords": [
-      "tambang"
+      "AI"
      ],
      "also_reported_by": []
     }
    ]
   },
   {
-   "name": "Teknologi & AI",
+   "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Sidang UNESCO: Indonesia dorong perlindungan anak di era AI",
-     "link": "https://www.antaranews.com/berita/5794077/sidang-unesco-indonesia-dorong-perlindungan-anak-di-era-ai",
-     "source": "ANTARA News",
-     "published": "2026-10-18T00:05:05+07:00",
+     "title": "Keadilan Terabaikan, Gugat Arah Hukum di KTT Hukum Rakyat",
+     "link": "https://mongabay.co.id/2026/10/18/keadilan-terabaikan-gugat-arah-hukum-di-ktt-hukum-rakyat/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "kecerdasan buatan",
-      "AI"
+      "iklim"
      ],
      "also_reported_by": []
     }
