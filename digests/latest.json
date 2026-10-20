@@ -1,32 +1,64 @@
 {
- "date": "2026-10-19",
- "generated_at": "19 Oct 2026 06:56 WIB",
+ "date": "2026-10-20",
+ "generated_at": "20 Oct 2026 07:55 WIB",
  "topics": [
   {
-   "name": "Teknologi & AI",
+   "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Jual kamera milik perusahaan, pria di Kalideres ditangkap polisi",
-     "link": "https://www.antaranews.com/berita/5795389/jual-kamera-milik-perusahaan-pria-di-kalideres-ditangkap-polisi",
+     "title": "Prabowo pacu investasi berkualitas lewat hilirisasi dan perizinan",
+     "link": "https://www.antaranews.com/berita/5798077/prabowo-pacu-investasi-berkualitas-lewat-hilirisasi-dan-perizinan",
      "source": "ANTARA News",
-     "published": "2026-10-18T22:05:35+07:00",
+     "published": "2026-10-20T05:17:49+07:00",
      "keywords": [
-      "AI"
+      "hilirisasi"
      ],
      "also_reported_by": []
     }
    ]
   },
   {
-   "name": "Lingkungan & Iklim",
+   "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Keadilan Terabaikan, Gugat Arah Hukum di KTT Hukum Rakyat",
-     "link": "https://mongabay.co.id/2026/10/18/keadilan-terabaikan-gugat-arah-hukum-di-ktt-hukum-rakyat/",
+     "title": "BDO: Keamanan data jadi tantangan adopsi AI bagi perusahaan",
+     "link": "https://www.antaranews.com/berita/5797973/bdo-keamanan-data-jadi-tantangan-adopsi-ai-bagi-perusahaan",
+     "source": "ANTARA News",
+     "published": "2026-10-20T00:26:57+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Waswas Megaproyek Data Center AI Jatiluhur Ganggu Pasokan Air",
+     "link": "https://mongabay.co.id/2026/10/19/waswas-megaproyek-data-center-ai-jatiluhur-ganggu-pasokan-air/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
-      "iklim"
+      "AI",
+      "pusat data"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+     "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+     "source": "The Guardian — World",
+     "published": "2026-10-19T22:30:08+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+     "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+     "source": "The Guardian — World",
+     "published": "2026-10-19T09:27:04+00:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
