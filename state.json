@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5762540/hari-ini-gelombang-tinggi-hingga-empat-meter-dan-banjir-rob": "2026-09-29T01:30:30.864992+00:00",
-  "https://www.antaranews.com/berita/5762440/sulsel-bidik-bagian-keuntungan-tambang-lewat-perda-baru": "2026-09-29T01:30:30.864992+00:00",
-  "https://www.antaranews.com/berita/5762424/aturan-belum-jangkau-rekayasa-ai-bawaslu-sulsel-petakan-hukum": "2026-09-29T01:30:30.864992+00:00",
-  "https://mongabay.co.id/short-article/2026/09/cerita-masyarakat-adat-boti-jaga-hutan-untuk-kehidupan/": "2026-09-29T01:30:30.864992+00:00",
-  "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped": "2026-09-29T01:30:30.864992+00:00",
   "https://www.antaranews.com/berita/5764135/kemnaker-manfaatkan-ai-untuk-verifikasi-mitra-dan-peserta-maganghub": "2026-09-30T01:07:12.947344+00:00",
   "https://www.antaranews.com/berita/5765800/kemnaker-tata-kelola-pastikan-ai-berada-di-koridor-akuntabilitas": "2026-10-01T01:05:29.327226+00:00",
   "https://www.antaranews.com/berita/5765769/openai-kenalkan-dots-asisten-agen-ai-terbarunya-yang-ceria-dan-lincah": "2026-10-01T01:05:29.327226+00:00",
@@ -87,16 +82,19 @@
   "https://www.antaranews.com/berita/5797973/bdo-keamanan-data-jadi-tantangan-adopsi-ai-bagi-perusahaan": "2026-10-20T00:55:16.847596+00:00",
   "https://mongabay.co.id/2026/10/19/waswas-megaproyek-data-center-ai-jatiluhur-ganggu-pasokan-air/": "2026-10-20T00:55:16.847596+00:00",
   "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports": "2026-10-20T00:55:16.847596+00:00",
-  "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie": "2026-10-20T00:55:16.847596+00:00"
+  "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie": "2026-10-20T00:55:16.847596+00:00",
+  "https://www.antaranews.com/video/5800761/den-ekspor-hilirisasi-diproyeksikan-capai-50-miliar-dolar-as-di-2026": "2026-10-21T00:23:39.279543+00:00",
+  "https://www.antaranews.com/berita/5800705/laporan-lebih-dari-13-juta-warga-australia-gunakan-ai-dalam-kehidupan-sehari-hari": "2026-10-21T00:23:39.279543+00:00",
+  "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss": "2026-10-21T00:23:39.279543+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 80,
+  "CNN Indonesia — Nasional": 81,
   "Tempo — Nasional": 0,
-  "detikcom": 80,
+  "detikcom": 81,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 80,
+  "The Conversation Indonesia": 81,
   "The Guardian — World": 0
  }
 }

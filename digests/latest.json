@@ -1,15 +1,15 @@
 {
- "date": "2026-10-20",
- "generated_at": "20 Oct 2026 07:55 WIB",
+ "date": "2026-10-21",
+ "generated_at": "21 Oct 2026 07:23 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Prabowo pacu investasi berkualitas lewat hilirisasi dan perizinan",
-     "link": "https://www.antaranews.com/berita/5798077/prabowo-pacu-investasi-berkualitas-lewat-hilirisasi-dan-perizinan",
+     "title": "DEN: Ekspor hilirisasi diproyeksikan capai 50 miliar dolar AS di 2026",
+     "link": "https://www.antaranews.com/video/5800761/den-ekspor-hilirisasi-diproyeksikan-capai-50-miliar-dolar-as-di-2026",
      "source": "ANTARA News",
-     "published": "2026-10-20T05:17:49+07:00",
+     "published": "2026-10-21T01:05:46+07:00",
      "keywords": [
       "hilirisasi"
      ],
@@ -21,44 +21,27 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "BDO: Keamanan data jadi tantangan adopsi AI bagi perusahaan",
-     "link": "https://www.antaranews.com/berita/5797973/bdo-keamanan-data-jadi-tantangan-adopsi-ai-bagi-perusahaan",
+     "title": "Laporan: Lebih dari 13 juta warga Australia gunakan AI dalam kehidupan sehari-hari",
+     "link": "https://www.antaranews.com/berita/5800705/laporan-lebih-dari-13-juta-warga-australia-gunakan-ai-dalam-kehidupan-sehari-hari",
      "source": "ANTARA News",
-     "published": "2026-10-20T00:26:57+07:00",
-     "keywords": [
-      "kecerdasan buatan",
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Waswas Megaproyek Data Center AI Jatiluhur Ganggu Pasokan Air",
-     "link": "https://mongabay.co.id/2026/10/19/waswas-megaproyek-data-center-ai-jatiluhur-ganggu-pasokan-air/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "AI",
-      "pusat data"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
-     "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-     "source": "The Guardian — World",
-     "published": "2026-10-19T22:30:08+00:00",
+     "published": "2026-10-21T00:02:29+07:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    },
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
     {
-     "title": "China’s economy grows faster than forecast after AI boom boosts exports",
-     "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-     "source": "The Guardian — World",
-     "published": "2026-10-19T09:27:04+00:00",
+     "title": "'Kami bicara atas nama masyarakat' – Ribuan mahasiswa di berbagai kota demo karhutla",
+     "link": "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-20T09:14:50+00:00",
      "keywords": [
-      "AI"
+      "banjir"
      ],
      "also_reported_by": []
     }

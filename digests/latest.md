@@ -1,22 +1,21 @@
-# 📰 Digest Media — 2026-10-20
+# 📰 Digest Media — 2026-10-21
 
-_5 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 20 Oct 2026 07:55 WIB_
+_3 berita cocok · 187 artikel dipindai dari 5 feed · dibuat 21 Oct 2026 07:23 WIB_
 
 ## Pertambangan & Hilirisasi (1) →
 
-- **[Prabowo pacu investasi berkualitas lewat hilirisasi dan perizinan](https://www.antaranews.com/berita/5798077/prabowo-pacu-investasi-berkualitas-lewat-hilirisasi-dan-perizinan)** — ANTARA News · 20 Oct 05:17 WIB · kata kunci: **hilirisasi**
-  > Pemerintah memacu peningkatan realisasi investasi berkualitas melalui penguatan **hilirisasi** industri dan percepatan ...
+- **[DEN: Ekspor hilirisasi diproyeksikan capai 50 miliar dolar AS di 2026](https://www.antaranews.com/video/5800761/den-ekspor-hilirisasi-diproyeksikan-capai-50-miliar-dolar-as-di-2026)** — ANTARA News · 21 Oct 01:05 WIB · kata kunci: **hilirisasi**
+  > ANTARA - Dewan Ekonomi Nasional (DEN) melaporkan perkembangan **hilirisasi** kepada Presiden Prabowo Subianto di ...
 
-## Teknologi & AI (4) ↑
+## Teknologi & AI (1) ↓
 
-- 🔥 **[BDO: Keamanan data jadi tantangan adopsi AI bagi perusahaan](https://www.antaranews.com/berita/5797973/bdo-keamanan-data-jadi-tantangan-adopsi-ai-bagi-perusahaan)** — ANTARA News · 20 Oct 00:26 WIB · kata kunci: **kecerdasan buatan**, **AI**
-  > Perusahaan BDO di Indonesia menyoroti tantangan krusial dalam pemanfaatan **kecerdasan buatan** atau artificial ...
-- 🔥 **[Waswas Megaproyek Data Center AI Jatiluhur Ganggu Pasokan Air](https://mongabay.co.id/2026/10/19/waswas-megaproyek-data-center-ai-jatiluhur-ganggu-pasokan-air/)** — Mongabay Indonesia · kata kunci: **AI**, **pusat data**
-  > Pembangunan proyek **pusat data** akal imitasi atau (**AI**) Campus 2 CGK4 milik BDx Data Center di Jatiluhur, Purwakarta, Jawa Barat, menjadi sorotan. Walau berhenti sementara seminggu setelah peresmiannya 22 September, berbaga…
-- **[New AI tool can predict cancer survival by a single patient selfie, study suggests](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie)** — The Guardian — World · 20 Oct 05:30 WIB · kata kunci: **AI**
-  > System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival…
-- **[China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)** — The Guardian — World · 19 Oct 16:27 WIB · kata kunci: **AI**
-  > Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much…
+- **[Laporan: Lebih dari 13 juta warga Australia gunakan AI dalam kehidupan sehari-hari](https://www.antaranews.com/berita/5800705/laporan-lebih-dari-13-juta-warga-australia-gunakan-ai-dalam-kehidupan-sehari-hari)** — ANTARA News · 21 Oct 00:02 WIB · kata kunci: **AI**
+  > Lebih dari 13 juta warga Australia menggunakan perangkat **AI** dalam kehidupan sehari-hari mereka, menurut sebuah laporan ...
+
+## Lingkungan & Iklim (1) →
+
+- **['Kami bicara atas nama masyarakat' – Ribuan mahasiswa di berbagai kota demo karhutla](https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 20 Oct 16:14 WIB · kata kunci: **banjir**
+  > Dari setidaknya lima tuntutan, mahasiswa menuntut agar Presiden Prabowo menetapkan kebakaran hutan dan lahan (karhutla) serta bencana **banjir** sebagai bencana nasional. Apa tuntutan lainnya?
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)
