@@ -1,30 +1,15 @@
 {
- "date": "2026-10-21",
- "generated_at": "21 Oct 2026 07:23 WIB",
+ "date": "2026-10-22",
+ "generated_at": "22 Oct 2026 07:27 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "DEN: Ekspor hilirisasi diproyeksikan capai 50 miliar dolar AS di 2026",
-     "link": "https://www.antaranews.com/video/5800761/den-ekspor-hilirisasi-diproyeksikan-capai-50-miliar-dolar-as-di-2026",
-     "source": "ANTARA News",
-     "published": "2026-10-21T01:05:46+07:00",
-     "keywords": [
-      "hilirisasi"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Laporan: Lebih dari 13 juta warga Australia gunakan AI dalam kehidupan sehari-hari",
-     "link": "https://www.antaranews.com/berita/5800705/laporan-lebih-dari-13-juta-warga-australia-gunakan-ai-dalam-kehidupan-sehari-hari",
-     "source": "ANTARA News",
-     "published": "2026-10-21T00:02:29+07:00",
+     "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+     "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+     "source": "The Guardian — World",
+     "published": "2026-10-21T23:03:16+00:00",
      "keywords": [
       "AI"
      ],
@@ -36,12 +21,22 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "'Kami bicara atas nama masyarakat' – Ribuan mahasiswa di berbagai kota demo karhutla",
-     "link": "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-10-20T09:14:50+00:00",
+     "title": "Dua Tahun Prabowo-Gibran, Bagaimana Nasib Rakyat dan Lingkungan?",
+     "link": "https://mongabay.co.id/2026/10/21/dua-tahun-prabowo-gibran-bagaimana-nasib-rakyat-dan-lingkungan/",
+     "source": "Mongabay Indonesia",
+     "published": null,
      "keywords": [
-      "banjir"
+      "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Nasib Nelayan Kecil, Penyedia Pangan tetapi Minim Perlindungan",
+     "link": "https://mongabay.co.id/2026/10/21/nasib-nelayan-kecil-penyedia-pangan-tetapi-minim-perlindungan/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
@@ -51,8 +46,8 @@
  "feeds": [
   {
    "name": "ANTARA News",
-   "ok": true,
-   "error": null
+   "ok": false,
+   "error": "ParseError: unclosed token: line 656, column 6"
   },
   {
    "name": "BBC News Indonesia",

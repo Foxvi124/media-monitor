@@ -1,6 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5764135/kemnaker-manfaatkan-ai-untuk-verifikasi-mitra-dan-peserta-maganghub": "2026-09-30T01:07:12.947344+00:00",
   "https://www.antaranews.com/berita/5765800/kemnaker-tata-kelola-pastikan-ai-berada-di-koridor-akuntabilitas": "2026-10-01T01:05:29.327226+00:00",
   "https://www.antaranews.com/berita/5765769/openai-kenalkan-dots-asisten-agen-ai-terbarunya-yang-ceria-dan-lincah": "2026-10-01T01:05:29.327226+00:00",
   "https://mongabay.co.id/2026/09/30/kalimantan-timur-masih-dalam-lilitan-masalah-tambang-batubara/": "2026-10-01T01:05:29.327226+00:00",
@@ -85,16 +84,19 @@
   "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie": "2026-10-20T00:55:16.847596+00:00",
   "https://www.antaranews.com/video/5800761/den-ekspor-hilirisasi-diproyeksikan-capai-50-miliar-dolar-as-di-2026": "2026-10-21T00:23:39.279543+00:00",
   "https://www.antaranews.com/berita/5800705/laporan-lebih-dari-13-juta-warga-australia-gunakan-ai-dalam-kehidupan-sehari-hari": "2026-10-21T00:23:39.279543+00:00",
-  "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss": "2026-10-21T00:23:39.279543+00:00"
+  "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss": "2026-10-21T00:23:39.279543+00:00",
+  "https://mongabay.co.id/2026/10/21/dua-tahun-prabowo-gibran-bagaimana-nasib-rakyat-dan-lingkungan/": "2026-10-22T00:27:09.812943+00:00",
+  "https://mongabay.co.id/2026/10/21/nasib-nelayan-kecil-penyedia-pangan-tetapi-minim-perlindungan/": "2026-10-22T00:27:09.812943+00:00",
+  "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex": "2026-10-22T00:27:09.812943+00:00"
  },
  "feed_health": {
-  "ANTARA News": 0,
+  "ANTARA News": 1,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 81,
+  "CNN Indonesia — Nasional": 82,
   "Tempo — Nasional": 0,
-  "detikcom": 81,
+  "detikcom": 82,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 81,
+  "The Conversation Indonesia": 82,
   "The Guardian — World": 0
  }
 }
