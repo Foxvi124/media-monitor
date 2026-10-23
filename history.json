@@ -1068,6 +1068,22 @@
     "AI": 1,
     "iklim": 2
    }
+  },
+  {
+   "date": "2026-10-23",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 2
+   },
+   "keywords": {
+    "AI": 3,
+    "chip": 1,
+    "kecerdasan buatan": 1,
+    "deforestasi": 1,
+    "emisi": 1,
+    "iklim": 1
+   }
   }
  ]
 }

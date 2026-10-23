@@ -1,15 +1,37 @@
 {
- "date": "2026-10-22",
- "generated_at": "22 Oct 2026 07:27 WIB",
+ "date": "2026-10-23",
+ "generated_at": "23 Oct 2026 07:25 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-     "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+     "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+     "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
      "source": "The Guardian — World",
-     "published": "2026-10-21T23:03:16+00:00",
+     "published": "2026-10-22T21:50:13+00:00",
+     "keywords": [
+      "AI",
+      "chip"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Apa itu PHP dan mengapa banyak situs di berbagai negara ditutup sementara?",
+     "link": "https://www.bbc.com/indonesia/articles/cv1j38kwx4ewo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-22T10:35:23+00:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+     "link": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+     "source": "The Guardian — World",
+     "published": "2026-10-22T21:30:50+00:00",
      "keywords": [
       "AI"
      ],
@@ -21,18 +43,19 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Dua Tahun Prabowo-Gibran, Bagaimana Nasib Rakyat dan Lingkungan?",
-     "link": "https://mongabay.co.id/2026/10/21/dua-tahun-prabowo-gibran-bagaimana-nasib-rakyat-dan-lingkungan/",
+     "title": "Menyelisik Dana Karbon Kalimantan Timur",
+     "link": "https://mongabay.co.id/2026/10/22/menyelisik-dana-karbon-kalimantan-timur/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
-      "iklim"
+      "deforestasi",
+      "emisi"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Nasib Nelayan Kecil, Penyedia Pangan tetapi Minim Perlindungan",
-     "link": "https://mongabay.co.id/2026/10/21/nasib-nelayan-kecil-penyedia-pangan-tetapi-minim-perlindungan/",
+     "title": "Indonesia Kejar Pembiayaan Keanekaragaman Hayati di COP17? Koalisi Ingatkan Benahi Tata Kelola",
+     "link": "https://mongabay.co.id/2026/10/23/indonesia-kejar-pembiayaan-keanekaragaman-hayati-di-cop17-koalisi-ingatkan-benahi-tata-kelola/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
@@ -46,8 +69,8 @@
  "feeds": [
   {
    "name": "ANTARA News",
-   "ok": false,
-   "error": "ParseError: unclosed token: line 656, column 6"
+   "ok": true,
+   "error": null
   },
   {
    "name": "BBC News Indonesia",

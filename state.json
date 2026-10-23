@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5765800/kemnaker-tata-kelola-pastikan-ai-berada-di-koridor-akuntabilitas": "2026-10-01T01:05:29.327226+00:00",
-  "https://www.antaranews.com/berita/5765769/openai-kenalkan-dots-asisten-agen-ai-terbarunya-yang-ceria-dan-lincah": "2026-10-01T01:05:29.327226+00:00",
-  "https://mongabay.co.id/2026/09/30/kalimantan-timur-masih-dalam-lilitan-masalah-tambang-batubara/": "2026-10-01T01:05:29.327226+00:00",
-  "https://mongabay.co.id/2026/09/30/tambang-galian-c-resahkan-warga-lombok/": "2026-10-01T01:05:29.327226+00:00",
-  "https://mongabay.co.id/2026/09/30/bagaimana-tiga-ikan-endemik-bertahan-di-sungai-finke-sungai-yang-dijuluki-tertua-di-dunia/": "2026-10-01T01:05:29.327226+00:00",
-  "https://mongabay.co.id/2026/09/30/ahli-dan-pakar-kritik-arah-kebijakan-lingkungan-prabowo/": "2026-10-01T01:05:29.327226+00:00",
-  "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court": "2026-10-01T01:05:29.327226+00:00",
-  "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat": "2026-10-01T01:05:29.327226+00:00",
   "https://www.antaranews.com/berita/5767771/ri-as-perkuat-kerja-sama-dari-hilirisasi-hingga-logam-tanah-jarang": "2026-10-02T01:18:54.665997+00:00",
   "https://www.antaranews.com/berita/5767735/regulator-as-investigasi-anthropic-dan-openai-terkait-praktik-keamanan-ai": "2026-10-02T01:18:54.665997+00:00",
   "https://mongabay.co.id/2026/10/02/kasus-kukang-tersengat-listrik-ada-kaitan-dengan-krisis-iklim/": "2026-10-03T00:57:38.587070+00:00",
@@ -87,16 +79,21 @@
   "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss": "2026-10-21T00:23:39.279543+00:00",
   "https://mongabay.co.id/2026/10/21/dua-tahun-prabowo-gibran-bagaimana-nasib-rakyat-dan-lingkungan/": "2026-10-22T00:27:09.812943+00:00",
   "https://mongabay.co.id/2026/10/21/nasib-nelayan-kecil-penyedia-pangan-tetapi-minim-perlindungan/": "2026-10-22T00:27:09.812943+00:00",
-  "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex": "2026-10-22T00:27:09.812943+00:00"
+  "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex": "2026-10-22T00:27:09.812943+00:00",
+  "https://www.bbc.com/indonesia/articles/cv1j38kwx4ewo?at_medium=RSS&at_campaign=rss": "2026-10-23T00:25:05.470480+00:00",
+  "https://mongabay.co.id/2026/10/23/indonesia-kejar-pembiayaan-keanekaragaman-hayati-di-cop17-koalisi-ingatkan-benahi-tata-kelola/": "2026-10-23T00:25:05.470480+00:00",
+  "https://mongabay.co.id/2026/10/22/menyelisik-dana-karbon-kalimantan-timur/": "2026-10-23T00:25:05.470480+00:00",
+  "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat": "2026-10-23T00:25:05.470480+00:00",
+  "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil": "2026-10-23T00:25:05.470480+00:00"
  },
  "feed_health": {
-  "ANTARA News": 1,
+  "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 82,
+  "CNN Indonesia — Nasional": 83,
   "Tempo — Nasional": 0,
-  "detikcom": 82,
+  "detikcom": 83,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 82,
+  "The Conversation Indonesia": 83,
   "The Guardian — World": 0
  }
 }
