@@ -1,22 +1,20 @@
-# 📰 Digest Media — 2026-10-23
+# 📰 Digest Media — 2026-10-24
 
-_5 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 23 Oct 2026 07:25 WIB_
+_4 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 24 Oct 2026 07:18 WIB_
 
-## Teknologi & AI (3) ↑
+## Pertambangan & Hilirisasi (2) ↑
 
-- 🔥 **[Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump](https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil)** — The Guardian — World · 23 Oct 04:50 WIB · kata kunci: **AI**, **chip**
-  > Datacenter and **chip** costs fueled sharp decrease in **AI** sector although non-**AI** stocks still had a strong showing The latest shudder for stocks in the **AI** industry pulled markets lower worldwide on Thursday, while oil prices…
-- 🔥 **[Apa itu PHP dan mengapa banyak situs di berbagai negara ditutup sementara?](https://www.bbc.com/indonesia/articles/cv1j38kwx4ewo?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 22 Oct 17:35 WIB · kata kunci: **kecerdasan buatan**, **AI**
-  > **Kecerdasan buatan** (**AI**) mengungkap kelemahan pemrograman yang telah lama tersembunyi, bernama PHP (Hypertext Preprocessor). Apa itu PHP dan mengapa temuan ini memicu respons keamanan siber global yang jarang terjadi?
-- **[Burnham to reveal plans for AI unit to tackle wildfires after scorching summer](https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat)** — The Guardian — World · 23 Oct 04:30 WIB · kata kunci: **AI**
-  > PM will also announce funding for specialised protective gear and the deployment of military aircraft The UK government is to create an **AI** Cobra unit to spot wildfires after this year’s record-breaking summer saw devasta…
+- **[Menko Bahlil bidik PNBP ESDM capai Rp165 T lewat optimalisasi energi](https://www.antaranews.com/berita/5808659/menko-bahlil-bidik-pnbp-esdm-capai-rp165-t-lewat-optimalisasi-energi)** — ANTARA News · 24 Oct 01:47 WIB · kata kunci: **hilirisasi**
+  > Menteri Koordinator Bidang **Hilirisasi** dan Transisi Energi Bahlil Lahadalia membidik penerimaan negara bukan pajak ...
+- **[Menko Bahlil perintahkan ESDM berpihak pada kepentingan rakyat](https://www.antaranews.com/berita/5808647/menko-bahlil-perintahkan-esdm-berpihak-pada-kepentingan-rakyat)** — ANTARA News · 24 Oct 01:21 WIB · kata kunci: **hilirisasi**
+  > Menteri Koordinator (Menko) Bidang **Hilirisasi** dan Transisi Energi Bahlil Lahadalia memerintahkan kepada insan ...
 
-## Lingkungan & Iklim (2) ↑
+## Teknologi & AI (2) →
 
-- 🔥 **[Menyelisik Dana Karbon Kalimantan Timur](https://mongabay.co.id/2026/10/22/menyelisik-dana-karbon-kalimantan-timur/)** — Mongabay Indonesia · kata kunci: **deforestasi**, **emisi**
-  > Kampung-kampung di Kabupaten Mahakam Ulu, Kalimantan Timur, hampir semua menerima dana proyek pengurangan **emisi** karbon dari **deforestasi** dan degradasi lahan. Kampung Liu Mulang, Kecamatan Long Pahagai, salah satunya. Hend…
-- **[Indonesia Kejar Pembiayaan Keanekaragaman Hayati di COP17? Koalisi Ingatkan Benahi Tata Kelola](https://mongabay.co.id/2026/10/23/indonesia-kejar-pembiayaan-keanekaragaman-hayati-di-cop17-koalisi-ingatkan-benahi-tata-kelola/)** — Mongabay Indonesia · kata kunci: **iklim**
-  > Pemerintah Indonesia berupaya mendapatkan sumber pembiayaan keanekaragaman hayati di ajang pertemuan para pihak di Konvensi Keanekaragaman Hayati Perserikatan Bangsa-Bangsa (COP-CBD) 17 di Armenia. Bahkan, di dalam neger…
+- **[Blue Planet III features cloudier footage to prove authenticity amid AI boom](https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom)** — The Guardian — World · 24 Oct 06:01 WIB · kata kunci: **AI**
+  > BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not **AI**-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footag…
+- **[Opposition deepfake video sparks outrage in Spain ahead of election](https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election)** — The Guardian — World · 23 Oct 23:35 WIB · kata kunci: **AI**
+  > Video shows **AI** likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has…
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)

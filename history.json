@@ -1084,6 +1084,18 @@
     "emisi": 1,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-10-24",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "hilirisasi": 2,
+    "AI": 2
+   }
   }
  ]
 }
