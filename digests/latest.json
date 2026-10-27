@@ -1,62 +1,27 @@
 {
- "date": "2026-10-26",
- "generated_at": "26 Oct 2026 06:51 WIB",
+ "date": "2026-10-27",
+ "generated_at": "27 Oct 2026 08:12 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Pemegang hak cipta lagu Elvis Presley gugat perusahaan AI Anthropic",
-     "link": "https://www.antaranews.com/berita/5811219/pemegang-hak-cipta-lagu-elvis-presley-gugat-perusahaan-ai-anthropic",
-     "source": "ANTARA News",
-     "published": "2026-10-26T06:37:07+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+     "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+     "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
      "source": "The Guardian — World",
-     "published": "2026-10-25T14:00:06+00:00",
+     "published": "2026-10-27T00:01:02+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
-    {
-     "title": "Di Balik Spanduk Bundaran HI, Ada Pesan Desakan Atasi Krisis Iklim dan Mahalnya Biaya Hidup",
-     "link": "https://mongabay.co.id/short-article/2026/10/di-balik-spanduk-bundaran-hi-ada-pesan-desakan-atasi-krisis-iklim-dan-mahalnya-biaya-hidup/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
     },
     {
-     "title": "Sebelum Dinosaurus Menguasai, Hujan Ekstrem Pernah Mengguyur Planet Bumi Selama Satu Juta Tahun",
-     "link": "https://mongabay.co.id/2026/10/25/sebelum-dinosaurus-menguasai-hujan-ekstrem-pernah-mengguyur-planet-bumi-selama-satu-juta-tahun/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+     "link": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+     "source": "The Guardian — World",
+     "published": "2026-10-26T19:21:36+00:00",
      "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Bambu yang Menjaga Air dan Menopang Kehidupan Masyarakat Bali",
-     "link": "https://mongabay.co.id/short-article/2026/10/bambu-yang-menjaga-air-dan-menopang-kehidupan-masyarakat-bali/",
-     "source": "Mongabay Indonesia",
-     "published": null,
-     "keywords": [
-      "banjir"
+      "AI"
      ],
      "also_reported_by": []
     }
