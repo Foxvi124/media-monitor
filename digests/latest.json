@@ -1,37 +1,43 @@
 {
- "date": "2026-10-28",
- "generated_at": "28 Oct 2026 07:59 WIB",
+ "date": "2026-10-29",
+ "generated_at": "29 Oct 2026 08:34 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Tambang emas 'terbesar kedua' di Papua diambil alih negara lalu diserahkan ke PT Antam – 'Alam terus-terusan dikeruk, warga dapat apa?'",
+     "link": "https://www.bbc.com/indonesia/articles/cm4g1x7718p9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-29T01:06:29+00:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Syahrini siap konser usai hiatus hingga Singapura luncurkan AI sendiri",
-     "link": "https://www.antaranews.com/berita/5816051/syahrini-siap-konser-usai-hiatus-hingga-singapura-luncurkan-ai-sendiri",
+     "title": "Hakim Saldi khawatir AI melemahkan keahlian generasi muda",
+     "link": "https://www.antaranews.com/berita/5818207/hakim-saldi-khawatir-ai-melemahkan-keahlian-generasi-muda",
      "source": "ANTARA News",
-     "published": "2026-10-28T06:45:23+07:00",
+     "published": "2026-10-29T00:32:25+07:00",
      "keywords": [
+      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-     "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-     "source": "The Guardian — World",
-     "published": "2026-10-27T22:30:45+00:00",
+     "title": "Mengapa penolakan terhadap pusat data makin masif?",
+     "link": "https://www.bbc.com/indonesia/articles/cm4g1vg67pp6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-10-28T02:53:28+00:00",
      "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-     "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-     "source": "The Guardian — World",
-     "published": "2026-10-27T04:42:50+00:00",
-     "keywords": [
-      "AI"
+      "pusat data"
      ],
      "also_reported_by": []
     }
@@ -41,8 +47,8 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Dua Tahun Prabowo, Nasib Hutan dan Masyarakat Makin Memprihatinkan?",
-     "link": "https://mongabay.co.id/2026/10/27/dua-tahun-prabowo-nasib-hutan-dan-masyarakat-makin-memprihatinkan/",
+     "title": "Dana Karbon Tak Hentikan Deforestasi Kalimantan Timur",
+     "link": "https://mongabay.co.id/2026/10/28/dana-karbon-tak-hentikan-deforestasi-kalimantan-timur/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [

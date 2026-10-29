@@ -1143,6 +1143,21 @@
     "AI": 3,
     "deforestasi": 1
    }
+  },
+  {
+   "date": "2026-10-29",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "tambang": 1,
+    "kecerdasan buatan": 1,
+    "AI": 1,
+    "pusat data": 1,
+    "deforestasi": 1
+   }
   }
  ]
 }

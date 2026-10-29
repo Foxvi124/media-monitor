@@ -1,20 +1,23 @@
-# 📰 Digest Media — 2026-10-28
+# 📰 Digest Media — 2026-10-29
 
-_4 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 28 Oct 2026 07:59 WIB_
+_4 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 29 Oct 2026 08:34 WIB_
 
-## Teknologi & AI (3) ↑
+## Pertambangan & Hilirisasi (1) ↑
 
-- **[Syahrini siap konser usai hiatus hingga Singapura luncurkan AI sendiri](https://www.antaranews.com/berita/5816051/syahrini-siap-konser-usai-hiatus-hingga-singapura-luncurkan-ai-sendiri)** — ANTARA News · 28 Oct 06:45 WIB · kata kunci: **AI**
-  > Kanal gaya hidup, hiburan, teknologi, dan otomotif ANTARA pada Selasa (27/10) antara lain menyajikan warta soal ...
-- **[AI bots flooded 2023 UK government consultation on disposable vapes ban](https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban)** — The Guardian — World · 28 Oct 05:30 WIB · kata kunci: **AI**
-  > Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds **AI** bots flooded a government consultation with tens of thousands of fake responses in a failed a…
-- **[Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)** — The Guardian — World · 27 Oct 11:42 WIB · kata kunci: **AI**
-  > Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s **AI** boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing…
+- **[Tambang emas 'terbesar kedua' di Papua diambil alih negara lalu diserahkan ke PT Antam – 'Alam terus-terusan dikeruk, warga dapat apa?'](https://www.bbc.com/indonesia/articles/cm4g1x7718p9o?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 29 Oct 08:06 WIB · kata kunci: **tambang**
+  > Selama puluhan tahun penambangan emas telah berlangsung di Papua Tengah, tapi masyarakat asli Papua di daerah itu tergolong yang paling miskin di Indonesia.
+
+## Teknologi & AI (2) →
+
+- 🔥 **[Hakim Saldi khawatir AI melemahkan keahlian generasi muda](https://www.antaranews.com/berita/5818207/hakim-saldi-khawatir-ai-melemahkan-keahlian-generasi-muda)** — ANTARA News · 29 Oct 00:32 WIB · kata kunci: **kecerdasan buatan**, **AI**
+  > Wakil Ketua Mahkamah Konstitusi (MK) Saldi Isra mengungkapkan kekhawatirnya terhadap penggunaan **kecerdasan buatan** (**AI**) ...
+- **[Mengapa penolakan terhadap pusat data makin masif?](https://www.bbc.com/indonesia/articles/cm4g1vg67pp6o?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 28 Oct 09:53 WIB · kata kunci: **pusat data**
+  > Pembangunan **pusat data** bisa dijumpai di seluruh dunia. Dengan tujuan menopang segala yang berkaitan dengan teknologi, **pusat data** adalah elemen krusial. Namun, penolakan satu per satu bermunculan.
 
 ## Lingkungan & Iklim (1) →
 
-- **[Dua Tahun Prabowo, Nasib Hutan dan Masyarakat Makin Memprihatinkan?](https://mongabay.co.id/2026/10/27/dua-tahun-prabowo-nasib-hutan-dan-masyarakat-makin-memprihatinkan/)** — Mongabay Indonesia · kata kunci: **deforestasi**
-  > Kebakaran hutan dan lahan (karhutla) dengan kabut asap yang menggila dalam tiga bulan belakangan hanya segelintir dari masalah kehutanan yang tidak terselesaikan. Bahkan, dalam dua tahun masa kepemimpinan Presiden Prabow…
+- **[Dana Karbon Tak Hentikan Deforestasi Kalimantan Timur](https://mongabay.co.id/2026/10/28/dana-karbon-tak-hentikan-deforestasi-kalimantan-timur/)** — Mongabay Indonesia · kata kunci: **deforestasi**
+  > Duit karbon mengalir di Kalimantan Timur, tetapi tak mampu melindungi hutan provinsi itu. **Deforestasi** dan degradasi hutan terus terjadi di tengah guyuran uang Forest Carbon Partnership Facility–Carbon Fund (FCPF-CF). Dat…
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)
