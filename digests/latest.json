@@ -1,43 +1,27 @@
 {
- "date": "2026-10-29",
- "generated_at": "29 Oct 2026 08:34 WIB",
+ "date": "2026-10-30",
+ "generated_at": "30 Oct 2026 08:36 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Tambang emas 'terbesar kedua' di Papua diambil alih negara lalu diserahkan ke PT Antam – 'Alam terus-terusan dikeruk, warga dapat apa?'",
-     "link": "https://www.bbc.com/indonesia/articles/cm4g1x7718p9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-10-29T01:06:29+00:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Hakim Saldi khawatir AI melemahkan keahlian generasi muda",
-     "link": "https://www.antaranews.com/berita/5818207/hakim-saldi-khawatir-ai-melemahkan-keahlian-generasi-muda",
-     "source": "ANTARA News",
-     "published": "2026-10-29T00:32:25+07:00",
+     "title": "More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result",
+     "link": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+     "source": "The Guardian — World",
+     "published": "2026-10-29T23:00:37+00:00",
      "keywords": [
-      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Mengapa penolakan terhadap pusat data makin masif?",
-     "link": "https://www.bbc.com/indonesia/articles/cm4g1vg67pp6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-10-28T02:53:28+00:00",
+     "title": "SK hynix bukukan rekor pendapatan dan laba operasional pada Q3 2026",
+     "link": "https://www.antaranews.com/berita/5820615/sk-hynix-bukukan-rekor-pendapatan-dan-laba-operasional-pada-q3-2026",
+     "source": "ANTARA News",
+     "published": "2026-10-30T00:01:09+07:00",
      "keywords": [
-      "pusat data"
+      "chip"
      ],
      "also_reported_by": []
     }
@@ -47,12 +31,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Dana Karbon Tak Hentikan Deforestasi Kalimantan Timur",
-     "link": "https://mongabay.co.id/2026/10/28/dana-karbon-tak-hentikan-deforestasi-kalimantan-timur/",
+     "title": "Warga Kota Padang Trauma Ketika Banjir Bandang Datang Berulang",
+     "link": "https://mongabay.co.id/2026/10/29/warga-kota-padang-trauma-ketika-banjir-bandang-datang-berulang/",
      "source": "Mongabay Indonesia",
      "published": null,
      "keywords": [
-      "deforestasi"
+      "banjir"
      ],
      "also_reported_by": []
     }

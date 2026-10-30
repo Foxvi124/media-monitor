@@ -1158,6 +1158,19 @@
     "pusat data": 1,
     "deforestasi": 1
    }
+  },
+  {
+   "date": "2026-10-30",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "AI": 1,
+    "chip": 1,
+    "banjir": 1
+   }
   }
  ]
 }
