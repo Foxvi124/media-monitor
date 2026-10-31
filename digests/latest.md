@@ -1,18 +1,13 @@
-# 📰 Digest Media — 2026-10-30
+# 📰 Digest Media — 2026-10-31
 
-_3 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 30 Oct 2026 08:36 WIB_
+_2 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 31 Oct 2026 08:26 WIB_
 
 ## Teknologi & AI (2) →
 
-- **[More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result](https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees)** — The Guardian — World · 30 Oct 06:00 WIB · kata kunci: **AI**
-  > Research finds 55% of lawyers are using **AI** in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our breaking news email , free app or daily news podcast More than half of Vict…
-- **[SK hynix bukukan rekor pendapatan dan laba operasional pada Q3 2026](https://www.antaranews.com/berita/5820615/sk-hynix-bukukan-rekor-pendapatan-dan-laba-operasional-pada-q3-2026)** — ANTARA News · 30 Oct 00:01 WIB · kata kunci: **chip**
-  > Raksasa **chip** dan memori Korea Selatan, SK hynix, memecahkan rekor pendapatan dan laba operasional pada kuartal ketiga ...
-
-## Lingkungan & Iklim (1) →
-
-- **[Warga Kota Padang Trauma Ketika Banjir Bandang Datang Berulang](https://mongabay.co.id/2026/10/29/warga-kota-padang-trauma-ketika-banjir-bandang-datang-berulang/)** — Mongabay Indonesia · kata kunci: **banjir**
-  > “Trauma kemarin belum hilang, sudah datang pula yang baru (**banjir** bandang)”, ucap Yuli Wetri, warga Kampung Apa, Kelurahan Koto Panjang Ikua Koto, Koto Tangah, Padang, Minggu (11/10/26). Siang itu, dia sibuk membersihkan…
+- **[Menkomdigi nilai anak muda berperan tentukan arah pemanfaatan AI](https://www.antaranews.com/berita/5823043/menkomdigi-nilai-anak-muda-berperan-tentukan-arah-pemanfaatan-ai)** — ANTARA News · 31 Oct 07:18 WIB · kata kunci: **AI**
+  > Menteri Komunikasi dan Digital Meutya Hafid menilai anak muda memiliki peran dalam menentukan arah pengembangan dan ...
+- **[Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case](https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case)** — The Guardian — World · 30 Oct 21:00 WIB · kata kunci: **AI**
+  > Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to a…
 
 ---
 ⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)
