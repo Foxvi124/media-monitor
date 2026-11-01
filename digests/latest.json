@@ -1,27 +1,43 @@
 {
- "date": "2026-10-31",
- "generated_at": "31 Oct 2026 08:26 WIB",
+ "date": "2026-11-01",
+ "generated_at": "01 Nov 2026 07:44 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Menkomdigi nilai anak muda berperan tentukan arah pemanfaatan AI",
-     "link": "https://www.antaranews.com/berita/5823043/menkomdigi-nilai-anak-muda-berperan-tentukan-arah-pemanfaatan-ai",
+     "title": "Peneliti dari enam negara bahas pemanfaatan AI di Bogor",
+     "link": "https://www.antaranews.com/video/5824199/peneliti-dari-enam-negara-bahas-pemanfaatan-ai-di-bogor",
      "source": "ANTARA News",
-     "published": "2026-10-31T07:18:17+07:00",
+     "published": "2026-11-01T03:00:00+07:00",
      "keywords": [
+      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
-     "link": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+     "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
      "source": "The Guardian — World",
-     "published": "2026-10-30T14:00:18+00:00",
+     "published": "2026-10-31T19:00:52+00:00",
      "keywords": [
       "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Masyarakat Sipil Asia Pasifik Sebut Kebakaran Hutan sebagai Ekosida",
+     "link": "https://mongabay.co.id/2026/10/31/masyarakat-sipil-asia-pasifik-sebut-kebakaran-hutan-sebagai-ekosida/",
+     "source": "Mongabay Indonesia",
+     "published": null,
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
