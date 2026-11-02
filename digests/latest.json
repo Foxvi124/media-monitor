@@ -1,15 +1,30 @@
 {
- "date": "2026-11-01",
- "generated_at": "01 Nov 2026 07:44 WIB",
+ "date": "2026-11-02",
+ "generated_at": "02 Nov 2026 08:18 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Laba bersih Samindo Resources melonjak 53 persen per kuartal III 2026",
+     "link": "https://www.antaranews.com/berita/5825499/laba-bersih-samindo-resources-melonjak-53-persen-per-kuartal-iii-2026",
+     "source": "ANTARA News",
+     "published": "2026-11-02T07:29:08+07:00",
+     "keywords": [
+      "batu bara"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Peneliti dari enam negara bahas pemanfaatan AI di Bogor",
-     "link": "https://www.antaranews.com/video/5824199/peneliti-dari-enam-negara-bahas-pemanfaatan-ai-di-bogor",
-     "source": "ANTARA News",
-     "published": "2026-11-01T03:00:00+07:00",
+     "title": "Para pekerja di India dapat uang tambahan untuk melatih kecerdasan buatan, tapi apakah AI akan menggantikan mereka?",
+     "link": "https://www.bbc.com/indonesia/articles/cxly4g45lg47o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-11-01T01:43:12+00:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -17,10 +32,30 @@
      "also_reported_by": []
     },
     {
-     "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+     "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+     "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
      "source": "The Guardian — World",
-     "published": "2026-10-31T19:00:52+00:00",
+     "published": "2026-11-01T18:37:42+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
+     "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
+     "source": "The Guardian — World",
+     "published": "2026-11-01T14:00:13+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+     "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+     "source": "The Guardian — World",
+     "published": "2026-11-01T12:00:12+00:00",
      "keywords": [
       "AI"
      ],
@@ -32,12 +67,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Masyarakat Sipil Asia Pasifik Sebut Kebakaran Hutan sebagai Ekosida",
-     "link": "https://mongabay.co.id/2026/10/31/masyarakat-sipil-asia-pasifik-sebut-kebakaran-hutan-sebagai-ekosida/",
-     "source": "Mongabay Indonesia",
-     "published": null,
+     "title": "Kemarin, sekat bakar lindungi orangutan hingga banjir di Aceh Besar",
+     "link": "https://www.antaranews.com/berita/5825463/kemarin-sekat-bakar-lindungi-orangutan-hingga-banjir-di-aceh-besar",
+     "source": "ANTARA News",
+     "published": "2026-11-02T05:45:34+07:00",
      "keywords": [
-      "iklim"
+      "banjir"
      ],
      "also_reported_by": []
     }
