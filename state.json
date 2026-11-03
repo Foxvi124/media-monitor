@@ -1,11 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5782994/sejak-2023-hampir-200000-orang-di-as-kehilangan-pekerjaan-akibat-ai": "2026-10-13T02:51:17.262059+00:00",
-  "https://www.antaranews.com/berita/5782986/meta-luncurkan-model-ai-kelas-atas-pertama-muse-wonder": "2026-10-13T02:51:17.262059+00:00",
-  "https://www.bbc.com/indonesia/articles/c3dxw2rznqrjo?at_medium=RSS&at_campaign=rss": "2026-10-13T02:51:17.262059+00:00",
-  "https://www.bbc.com/indonesia/articles/cq5ynvgmg7gno?at_medium=RSS&at_campaign=rss": "2026-10-13T02:51:17.262059+00:00",
-  "https://mongabay.co.id/2026/10/12/ilusi-dekarbonisasi-industri-semen/": "2026-10-13T02:51:17.262059+00:00",
-  "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb": "2026-10-13T02:51:17.262059+00:00",
   "https://www.antaranews.com/berita/5784817/wali-kota-makassar-kenalkan-rise-atasi-banjir-di-forum-internasional": "2026-10-14T00:54:34.173270+00:00",
   "https://mongabay.co.id/2026/10/13/mangrove-di-lampung-kembali-mati-gambut-jambi-terus-terbakar-masih-bisakah-alam-pulih/": "2026-10-14T00:54:34.173270+00:00",
   "https://mongabay.co.id/short-article/2026/10/malaria-di-indonesia-sentuh-angka-tertinggi-dalam-sejarah-pengaruh-krisis-iklim/": "2026-10-14T00:54:34.173270+00:00",
@@ -80,16 +74,21 @@
   "https://www.bbc.com/indonesia/articles/cxly4g45lg47o?at_medium=RSS&at_campaign=rss": "2026-11-02T01:18:00.978818+00:00",
   "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi": "2026-11-02T01:18:00.978818+00:00",
   "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb": "2026-11-02T01:18:00.978818+00:00",
-  "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre": "2026-11-02T01:18:00.978818+00:00"
+  "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre": "2026-11-02T01:18:00.978818+00:00",
+  "https://www.antaranews.com/berita/5828107/ptba-berkomitmen-lindungi-kawasan-heritage-reaktivasi-tambang-ombilin": "2026-11-03T03:19:13.806371+00:00",
+  "https://www.antaranews.com/berita/5828015/penguin-solutions-perkenalkan-smart-modular-mrdimm-dengan-bandwidth-tinggi-untuk-pusat-data-ai-generasi-terbaru": "2026-11-03T03:19:13.806371+00:00",
+  "https://www.antaranews.com/berita/5827975/indonesia-swiss-perkuat-kerja-sama-bidang-sovereign-ai": "2026-11-03T03:19:13.806371+00:00",
+  "https://mongabay.co.id/short-article/2026/11/belum-pulih-dari-bencana-warga-padang-kembali-diterjang-banjir/": "2026-11-03T03:19:13.806371+00:00",
+  "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure": "2026-11-03T03:19:13.806371+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
-  "CNN Indonesia — Nasional": 93,
+  "CNN Indonesia — Nasional": 0,
   "Tempo — Nasional": 0,
-  "detikcom": 93,
+  "detikcom": 94,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 93,
+  "The Conversation Indonesia": 94,
   "The Guardian — World": 0
  }
 }

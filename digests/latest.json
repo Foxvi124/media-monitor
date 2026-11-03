@@ -1,17 +1,17 @@
 {
- "date": "2026-11-02",
- "generated_at": "02 Nov 2026 08:18 WIB",
+ "date": "2026-11-03",
+ "generated_at": "03 Nov 2026 10:19 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Laba bersih Samindo Resources melonjak 53 persen per kuartal III 2026",
-     "link": "https://www.antaranews.com/berita/5825499/laba-bersih-samindo-resources-melonjak-53-persen-per-kuartal-iii-2026",
+     "title": "PTBA berkomitmen lindungi kawasan heritage reaktivasi tambang Ombilin",
+     "link": "https://www.antaranews.com/berita/5828107/ptba-berkomitmen-lindungi-kawasan-heritage-reaktivasi-tambang-ombilin",
      "source": "ANTARA News",
-     "published": "2026-11-02T07:29:08+07:00",
+     "published": "2026-11-03T10:14:53+07:00",
      "keywords": [
-      "batu bara"
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -21,10 +21,21 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Para pekerja di India dapat uang tambahan untuk melatih kecerdasan buatan, tapi apakah AI akan menggantikan mereka?",
-     "link": "https://www.bbc.com/indonesia/articles/cxly4g45lg47o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-11-01T01:43:12+00:00",
+     "title": "Penguin Solutions Perkenalkan SMART Modular MRDIMM dengan Bandwidth Tinggi untuk Pusat Data AI Generasi Terbaru",
+     "link": "https://www.antaranews.com/berita/5828015/penguin-solutions-perkenalkan-smart-modular-mrdimm-dengan-bandwidth-tinggi-untuk-pusat-data-ai-generasi-terbaru",
+     "source": "ANTARA News",
+     "published": "2026-11-03T09:26:22+07:00",
+     "keywords": [
+      "AI",
+      "pusat data"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Indonesia-Swiss perkuat kerja sama bidang “sovereign AI”",
+     "link": "https://www.antaranews.com/berita/5827975/indonesia-swiss-perkuat-kerja-sama-bidang-sovereign-ai",
+     "source": "ANTARA News",
+     "published": "2026-11-03T09:03:07+07:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -32,30 +43,10 @@
      "also_reported_by": []
     },
     {
-     "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-     "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+     "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+     "link": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
      "source": "The Guardian — World",
-     "published": "2026-11-01T18:37:42+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
-     "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
-     "source": "The Guardian — World",
-     "published": "2026-11-01T14:00:13+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-     "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-     "source": "The Guardian — World",
-     "published": "2026-11-01T12:00:12+00:00",
+     "published": "2026-11-03T00:01:32+00:00",
      "keywords": [
       "AI"
      ],
@@ -67,10 +58,10 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Kemarin, sekat bakar lindungi orangutan hingga banjir di Aceh Besar",
-     "link": "https://www.antaranews.com/berita/5825463/kemarin-sekat-bakar-lindungi-orangutan-hingga-banjir-di-aceh-besar",
-     "source": "ANTARA News",
-     "published": "2026-11-02T05:45:34+07:00",
+     "title": "Belum Pulih dari Bencana, Warga Padang Kembali Diterjang Banjir",
+     "link": "https://mongabay.co.id/short-article/2026/11/belum-pulih-dari-bencana-warga-padang-kembali-diterjang-banjir/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-02T10:00:26+00:00",
      "keywords": [
       "banjir"
      ],
@@ -92,8 +83,8 @@
   },
   {
    "name": "CNN Indonesia — Nasional",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "error": null
   },
   {
    "name": "Tempo — Nasional",

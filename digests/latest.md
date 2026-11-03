@@ -1,29 +1,27 @@
-# 📰 Digest Media — 2026-11-02
+# 📰 Digest Media — 2026-11-03
 
-_6 berita cocok · 186 artikel dipindai dari 5 feed · dibuat 02 Nov 2026 08:18 WIB_
+_5 berita cocok · 196 artikel dipindai dari 6 feed · dibuat 03 Nov 2026 10:19 WIB_
 
 ## Pertambangan & Hilirisasi (1) ↑
 
-- **[Laba bersih Samindo Resources melonjak 53 persen per kuartal III 2026](https://www.antaranews.com/berita/5825499/laba-bersih-samindo-resources-melonjak-53-persen-per-kuartal-iii-2026)** — ANTARA News · 02 Nov 07:29 WIB · kata kunci: **batu bara**
-  > Emiten jasa pertambangan **batu bara**, PT Samindo Resources Tbk (MYOH), membukukan laba bersih 17,47 juta dolar AS pada ...
+- **[PTBA berkomitmen lindungi kawasan heritage reaktivasi tambang Ombilin](https://www.antaranews.com/berita/5828107/ptba-berkomitmen-lindungi-kawasan-heritage-reaktivasi-tambang-ombilin)** — ANTARA News · 03 Nov 10:14 WIB · kata kunci: **tambang**
+  > PT Bukit Asam Tbk (PTBA) berkomitmen untuk menjaga agar reaktivasi **tambang** Ombilin di Kota Sawahlunto, Sumatera Barat, ...
 
-## Teknologi & AI (4) ↑
+## Teknologi & AI (3) →
 
-- 🔥 **[Para pekerja di India dapat uang tambahan untuk melatih kecerdasan buatan, tapi apakah AI akan menggantikan mereka?](https://www.bbc.com/indonesia/articles/cxly4g45lg47o?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 01 Nov 08:43 WIB · kata kunci: **kecerdasan buatan**, **AI**
-  > Apakah para pekerja India akan melatih mesin yang nantinya menggantikan pekerjaan mereka?
-- **[National Grid to site biggest substation in UK near planned Teesside datacentre](https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre)** — The Guardian — World · 02 Nov 01:37 WIB · kata kunci: **AI**
-  > New electricity generating capacity would enable north-east to attract investment for large-scale **AI** infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, wh…
-- **[AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says](https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb)** — The Guardian — World · 01 Nov 21:00 WIB · kata kunci: **AI**
-  > Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email , free app or daily news podcast **AI** is taking Fir…
-- **[The US-China trade war seems to have subsided – but the sense of calm is misleading](https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi)** — The Guardian — World · 01 Nov 19:00 WIB · kata kunci: **AI**
-  > A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from t…
+- 🔥 **[Penguin Solutions Perkenalkan SMART Modular MRDIMM dengan Bandwidth Tinggi untuk Pusat Data AI Generasi Terbaru](https://www.antaranews.com/berita/5828015/penguin-solutions-perkenalkan-smart-modular-mrdimm-dengan-bandwidth-tinggi-untuk-pusat-data-ai-generasi-terbaru)** — ANTARA News · 03 Nov 09:26 WIB · kata kunci: **AI**, **pusat data**
+  > - Penguin Solutions, Inc. (Nasdaq: PENG), Perusahaan Platform **AI** Factory, pada hari ini mengumumkan produk terbarunya, ...
+- 🔥 **[Indonesia-Swiss perkuat kerja sama bidang “sovereign AI”](https://www.antaranews.com/berita/5827975/indonesia-swiss-perkuat-kerja-sama-bidang-sovereign-ai)** — ANTARA News · 03 Nov 09:03 WIB · kata kunci: **kecerdasan buatan**, **AI**
+  > Nongsa Digital Park di Batam menandatangani kerja sama dengan penyedia layanan sovereign cloud dan **kecerdasan buatan** ...
+- **[AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028](https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure)** — The Guardian — World · 03 Nov 07:01 WIB · kata kunci: **AI**
+  > National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals **AI**-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power s…
 
-## Lingkungan & Iklim (1) →
+## Lingkungan & Iklim (1) ↑
 
-- **[Kemarin, sekat bakar lindungi orangutan hingga banjir di Aceh Besar](https://www.antaranews.com/berita/5825463/kemarin-sekat-bakar-lindungi-orangutan-hingga-banjir-di-aceh-besar)** — ANTARA News · 02 Nov 05:45 WIB · kata kunci: **banjir**
-  > Sejumlah warta humaniora kemarin, Minggu (1/11) masih menarik untuk disimak hari ini, mulai dari Menteri Kehutanan ...
+- **[Belum Pulih dari Bencana, Warga Padang Kembali Diterjang Banjir](https://mongabay.co.id/short-article/2026/11/belum-pulih-dari-bencana-warga-padang-kembali-diterjang-banjir/)** — Mongabay Indonesia · 02 Nov 17:00 WIB · kata kunci: **banjir**
+  > Kasur pegas yang dibersihkan Yuli Wetri menyimpan ingatan tentang dua **banjir**. Benda itu selamat ketika sebagian besar rumah dan hartanya hanyut pada November 2025. Namun, belum setahun berlalu, kasur yang sama kembali te…
 
 ---
-⚠ 3 feed gagal diambil: CNN Indonesia — Nasional (HTTPError: HTTP Error 403: Forbidden); detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)
-💀 Feed diduga mati (gagal ≥3 run beruntun): CNN Indonesia — Nasional, The Conversation Indonesia, detikcom — periksa/ganti URL-nya.
+⚠ 2 feed gagal diambil: detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)
+💀 Feed diduga mati (gagal ≥3 run beruntun): The Conversation Indonesia, detikcom — periksa/ganti URL-nya.
 _Dibuat otomatis oleh [media-monitor](https://github.com/Foxvi124/media-monitor)._
