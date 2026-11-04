@@ -1,52 +1,35 @@
 {
- "date": "2026-11-03",
- "generated_at": "03 Nov 2026 10:19 WIB",
+ "date": "2026-11-04",
+ "generated_at": "04 Nov 2026 08:55 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "PTBA berkomitmen lindungi kawasan heritage reaktivasi tambang Ombilin",
-     "link": "https://www.antaranews.com/berita/5828107/ptba-berkomitmen-lindungi-kawasan-heritage-reaktivasi-tambang-ombilin",
-     "source": "ANTARA News",
-     "published": "2026-11-03T10:14:53+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Penguin Solutions Perkenalkan SMART Modular MRDIMM dengan Bandwidth Tinggi untuk Pusat Data AI Generasi Terbaru",
-     "link": "https://www.antaranews.com/berita/5828015/penguin-solutions-perkenalkan-smart-modular-mrdimm-dengan-bandwidth-tinggi-untuk-pusat-data-ai-generasi-terbaru",
-     "source": "ANTARA News",
-     "published": "2026-11-03T09:26:22+07:00",
+     "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+     "source": "The Guardian — World",
+     "published": "2026-11-04T00:14:49+00:00",
      "keywords": [
-      "AI",
-      "pusat data"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Indonesia-Swiss perkuat kerja sama bidang “sovereign AI”",
-     "link": "https://www.antaranews.com/berita/5827975/indonesia-swiss-perkuat-kerja-sama-bidang-sovereign-ai",
-     "source": "ANTARA News",
-     "published": "2026-11-03T09:03:07+07:00",
-     "keywords": [
-      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
-     "link": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+     "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+     "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
      "source": "The Guardian — World",
-     "published": "2026-11-03T00:01:32+00:00",
+     "published": "2026-11-03T21:35:42+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "3 Pengedar Sabu dengan Modus Aplikasi AI Dibekuk di Morowali Sulteng",
+     "link": "https://www.cnnindonesia.com/nasional/20261103150333-12-1422805/3-pengedar-sabu-dengan-modus-aplikasi-ai-dibekuk-di-morowali-sulteng",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-03T15:44:09+07:00",
      "keywords": [
       "AI"
      ],
@@ -58,10 +41,40 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Belum Pulih dari Bencana, Warga Padang Kembali Diterjang Banjir",
-     "link": "https://mongabay.co.id/short-article/2026/11/belum-pulih-dari-bencana-warga-padang-kembali-diterjang-banjir/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-02T10:00:26+00:00",
+     "title": "Satgas PRR inspeksi tanggul terdampak banjir di Pidie Jaya, Aceh",
+     "link": "https://www.antaranews.com/berita/5830327/satgas-prr-inspeksi-tanggul-terdampak-banjir-di-pidie-jaya-aceh",
+     "source": "ANTARA News",
+     "published": "2026-11-04T07:00:29+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Menteri PU instruksikan identifikasi dampak banjir lahar Gunung Semeru",
+     "link": "https://www.antaranews.com/berita/5830299/menteri-pu-instruksikan-identifikasi-dampak-banjir-lahar-gunung-semeru",
+     "source": "ANTARA News",
+     "published": "2026-11-04T06:14:06+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Tito Karnavian Tinjau Tanggul Terdampak Banjir Susulan di Pidie Jaya",
+     "link": "https://www.cnnindonesia.com/nasional/20261103212318-20-1422959/tito-karnavian-tinjau-tanggul-terdampak-banjir-susulan-di-pidie-jaya",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-03T21:24:53+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Enam Kabupaten di Jawa Timur Dikepung Banjir dan Longsor",
+     "link": "https://www.cnnindonesia.com/nasional/20261102214114-20-1422523/enam-kabupaten-di-jawa-timur-dikepung-banjir-dan-longsor",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-03T05:50:14+07:00",
      "keywords": [
       "banjir"
      ],
