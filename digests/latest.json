@@ -1,82 +1,48 @@
 {
- "date": "2026-11-04",
- "generated_at": "04 Nov 2026 08:55 WIB",
+ "date": "2026-11-05",
+ "generated_at": "05 Nov 2026 09:00 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-     "source": "The Guardian — World",
-     "published": "2026-11-04T00:14:49+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-     "source": "The Guardian — World",
-     "published": "2026-11-03T21:35:42+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "3 Pengedar Sabu dengan Modus Aplikasi AI Dibekuk di Morowali Sulteng",
-     "link": "https://www.cnnindonesia.com/nasional/20261103150333-12-1422805/3-pengedar-sabu-dengan-modus-aplikasi-ai-dibekuk-di-morowali-sulteng",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-03T15:44:09+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
-  {
-   "name": "Lingkungan & Iklim",
-   "items": [
-    {
-     "title": "Satgas PRR inspeksi tanggul terdampak banjir di Pidie Jaya, Aceh",
-     "link": "https://www.antaranews.com/berita/5830327/satgas-prr-inspeksi-tanggul-terdampak-banjir-di-pidie-jaya-aceh",
+     "title": "AS ajak ASEAN perdalam kerja sama frontier AI (Bagian 2)",
+     "link": "https://www.antaranews.com/video/5832571/as-ajak-asean-perdalam-kerja-sama-frontier-ai-bagian-2",
      "source": "ANTARA News",
-     "published": "2026-11-04T07:00:29+07:00",
+     "published": "2026-11-05T08:05:10+07:00",
      "keywords": [
-      "banjir"
+      "kecerdasan buatan",
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Menteri PU instruksikan identifikasi dampak banjir lahar Gunung Semeru",
-     "link": "https://www.antaranews.com/berita/5830299/menteri-pu-instruksikan-identifikasi-dampak-banjir-lahar-gunung-semeru",
-     "source": "ANTARA News",
-     "published": "2026-11-04T06:14:06+07:00",
+     "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "source": "The Guardian — World",
+     "published": "2026-11-05T01:43:37+00:00",
      "keywords": [
-      "banjir"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Tito Karnavian Tinjau Tanggul Terdampak Banjir Susulan di Pidie Jaya",
-     "link": "https://www.cnnindonesia.com/nasional/20261103212318-20-1422959/tito-karnavian-tinjau-tanggul-terdampak-banjir-susulan-di-pidie-jaya",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-03T21:24:53+07:00",
+     "title": "Datacenters were on the ballot. US voters rejected them",
+     "link": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+     "source": "The Guardian — World",
+     "published": "2026-11-05T01:30:14+00:00",
      "keywords": [
-      "banjir"
+      "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Enam Kabupaten di Jawa Timur Dikepung Banjir dan Longsor",
-     "link": "https://www.cnnindonesia.com/nasional/20261102214114-20-1422523/enam-kabupaten-di-jawa-timur-dikepung-banjir-dan-longsor",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-03T05:50:14+07:00",
+     "title": "Albanese government warned it is ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
+     "source": "The Guardian — World",
+     "published": "2026-11-04T14:00:37+00:00",
      "keywords": [
-      "banjir"
+      "AI"
      ],
      "also_reported_by": []
     }
@@ -107,7 +73,7 @@
   {
    "name": "detikcom",
    "ok": false,
-   "error": "RemoteDisconnected: Remote end closed connection without response"
+   "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
    "name": "Mongabay Indonesia",
