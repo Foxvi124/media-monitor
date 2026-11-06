@@ -1,46 +1,60 @@
 {
- "date": "2026-11-05",
- "generated_at": "05 Nov 2026 09:00 WIB",
+ "date": "2026-11-06",
+ "generated_at": "06 Nov 2026 08:59 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Pengusaha Tambang Samin Tan Juga Didakwa Pencucian Uang Rp18 Triliun",
+     "link": "https://www.cnnindonesia.com/nasional/20261105162144-12-1423749/pengusaha-tambang-samin-tan-juga-didakwa-pencucian-uang-rp18-triliun",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-05T17:10:55+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Samin Tan Didakwa Rugikan Negara Rp17,7 Triliun",
+     "link": "https://www.cnnindonesia.com/nasional/20261105151810-12-1423717/samin-tan-didakwa-rugikan-negara-rp177-triliun",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-05T15:45:34+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Nestapa Perempuan Terdampak Industri Nikel di Sulawesi",
+     "link": "https://mongabay.co.id/2026/11/05/nestapa-perempuan-terdampak-industri-nikel-di-sulawesi/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-05T04:20:10+00:00",
+     "keywords": [
+      "nikel"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "AS ajak ASEAN perdalam kerja sama frontier AI (Bagian 2)",
-     "link": "https://www.antaranews.com/video/5832571/as-ajak-asean-perdalam-kerja-sama-frontier-ai-bagian-2",
-     "source": "ANTARA News",
-     "published": "2026-11-05T08:05:10+07:00",
-     "keywords": [
-      "kecerdasan buatan",
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+     "title": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
      "source": "The Guardian — World",
-     "published": "2026-11-05T01:43:37+00:00",
+     "published": "2026-11-05T14:00:26+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Datacenters were on the ballot. US voters rejected them",
-     "link": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+     "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+     "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
      "source": "The Guardian — World",
-     "published": "2026-11-05T01:30:14+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Albanese government warned it is ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
-     "source": "The Guardian — World",
-     "published": "2026-11-04T14:00:37+00:00",
+     "published": "2026-11-05T05:00:55+00:00",
      "keywords": [
       "AI"
      ],
@@ -73,7 +87,7 @@
   {
    "name": "detikcom",
    "ok": false,
-   "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "name": "Mongabay Indonesia",

@@ -1248,6 +1248,19 @@
     "kecerdasan buatan": 1,
     "AI": 4
    }
+  },
+  {
+   "date": "2026-11-06",
+   "topics": {
+    "Pertambangan & Hilirisasi": 3,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 0
+   },
+   "keywords": {
+    "tambang": 2,
+    "nikel": 1,
+    "AI": 2
+   }
   }
  ]
 }
