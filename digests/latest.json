@@ -1,37 +1,47 @@
 {
- "date": "2026-11-06",
- "generated_at": "06 Nov 2026 08:59 WIB",
+ "date": "2026-11-07",
+ "generated_at": "07 Nov 2026 08:39 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Pengusaha Tambang Samin Tan Juga Didakwa Pencucian Uang Rp18 Triliun",
-     "link": "https://www.cnnindonesia.com/nasional/20261105162144-12-1423749/pengusaha-tambang-samin-tan-juga-didakwa-pencucian-uang-rp18-triliun",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-05T17:10:55+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Samin Tan Didakwa Rugikan Negara Rp17,7 Triliun",
-     "link": "https://www.cnnindonesia.com/nasional/20261105151810-12-1423717/samin-tan-didakwa-rugikan-negara-rp177-triliun",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-05T15:45:34+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Nestapa Perempuan Terdampak Industri Nikel di Sulawesi",
-     "link": "https://mongabay.co.id/2026/11/05/nestapa-perempuan-terdampak-industri-nikel-di-sulawesi/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-05T04:20:10+00:00",
+     "title": "Hukum kemarin, KPK sita Rp2 miliar hingga kasus korupsi nikel",
+     "link": "https://www.antaranews.com/berita/5837787/hukum-kemarin-kpk-sita-rp2-miliar-hingga-kasus-korupsi-nikel",
+     "source": "ANTARA News",
+     "published": "2026-11-07T06:58:35+07:00",
      "keywords": [
       "nikel"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Wamenko Pangan: 400 pengusaha tambang digandeng atasi karhutla Kalteng",
+     "link": "https://www.antaranews.com/berita/5837711/wamenko-pangan-400-pengusaha-tambang-digandeng-atasi-karhutla-kalteng",
+     "source": "ANTARA News",
+     "published": "2026-11-07T01:43:18+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Tambang Emas Ilegal di TNKS Dibongkar, 119 Hektare Kawasan Terdampak",
+     "link": "https://www.cnnindonesia.com/nasional/20261106204857-12-1424294/tambang-emas-ilegal-di-tnks-dibongkar-119-hektare-kawasan-terdampak",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-07T01:30:43+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Tambang Logam Tanah Jarang Resahkan Warga Mamuju",
+     "link": "https://mongabay.co.id/2026/11/06/tambang-logam-tanah-jarang-resahkan-warga-mamuju/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-06T02:41:11+00:00",
+     "keywords": [
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -41,22 +51,47 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
+     "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+     "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
      "source": "The Guardian — World",
-     "published": "2026-11-05T14:00:26+00:00",
+     "published": "2026-11-06T21:23:54+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-     "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+     "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
      "source": "The Guardian — World",
-     "published": "2026-11-05T05:00:55+00:00",
+     "published": "2026-11-06T21:20:49+00:00",
      "keywords": [
       "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+     "link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+     "source": "The Guardian — World",
+     "published": "2026-11-06T18:51:37+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Lingkungan & Iklim",
+   "items": [
+    {
+     "title": "Kemarin, pengurangan relawan MBG-penanganan banjir di Sanggau",
+     "link": "https://www.antaranews.com/berita/5837871/kemarin-pengurangan-relawan-mbg-penanganan-banjir-di-sanggau",
+     "source": "ANTARA News",
+     "published": "2026-11-07T08:06:28+07:00",
+     "keywords": [
+      "banjir"
      ],
      "also_reported_by": []
     }
@@ -81,8 +116,8 @@
   },
   {
    "name": "Tempo — Nasional",
-   "ok": true,
-   "error": null
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "detikcom",

@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5792697/kpk-bupati-klaten-terima-rp245-juta-dari-pengusaha-tambang-galian-c": "2026-10-17T00:10:10.336015+00:00",
-  "https://www.bbc.com/indonesia/articles/cq4g18kg433zo?at_medium=RSS&at_campaign=rss": "2026-10-17T00:10:10.336015+00:00",
-  "https://mongabay.co.id/2026/10/16/empat-penambang-emas-tewas-tertimbun-longsor-di-sumbar/": "2026-10-17T00:10:10.336015+00:00",
   "https://www.antaranews.com/berita/5794077/sidang-unesco-indonesia-dorong-perlindungan-anak-di-era-ai": "2026-10-17T23:47:12.650469+00:00",
   "https://mongabay.co.id/short-article/2026/10/izin-tambang-aceh-meluas-hingga-155-ribu-hektar-manfaat-bagi-warga-dipertanyakan/": "2026-10-17T23:47:12.650469+00:00",
   "https://www.antaranews.com/berita/5795389/jual-kamera-milik-perusahaan-pria-di-kalideres-ditangkap-polisi": "2026-10-18T23:56:17.534848+00:00",
@@ -77,16 +74,24 @@
   "https://www.cnnindonesia.com/nasional/20261105151810-12-1423717/samin-tan-didakwa-rugikan-negara-rp177-triliun": "2026-11-06T01:59:55.081243+00:00",
   "https://mongabay.co.id/2026/11/05/nestapa-perempuan-terdampak-industri-nikel-di-sulawesi/": "2026-11-06T01:59:55.081243+00:00",
   "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy": "2026-11-06T01:59:55.081243+00:00",
-  "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia": "2026-11-06T01:59:55.081243+00:00"
+  "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia": "2026-11-06T01:59:55.081243+00:00",
+  "https://www.antaranews.com/berita/5837871/kemarin-pengurangan-relawan-mbg-penanganan-banjir-di-sanggau": "2026-11-07T01:39:39.431393+00:00",
+  "https://www.antaranews.com/berita/5837787/hukum-kemarin-kpk-sita-rp2-miliar-hingga-kasus-korupsi-nikel": "2026-11-07T01:39:39.431393+00:00",
+  "https://www.antaranews.com/berita/5837711/wamenko-pangan-400-pengusaha-tambang-digandeng-atasi-karhutla-kalteng": "2026-11-07T01:39:39.431393+00:00",
+  "https://www.cnnindonesia.com/nasional/20261106204857-12-1424294/tambang-emas-ilegal-di-tnks-dibongkar-119-hektare-kawasan-terdampak": "2026-11-07T01:39:39.431393+00:00",
+  "https://mongabay.co.id/2026/11/06/tambang-logam-tanah-jarang-resahkan-warga-mamuju/": "2026-11-07T01:39:39.431393+00:00",
+  "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph": "2026-11-07T01:39:39.431393+00:00",
+  "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam": "2026-11-07T01:39:39.431393+00:00",
+  "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft": "2026-11-07T01:39:39.431393+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
-  "Tempo — Nasional": 0,
-  "detikcom": 97,
+  "Tempo — Nasional": 1,
+  "detikcom": 98,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 97,
+  "The Conversation Indonesia": 98,
   "The Guardian — World": 0
  }
 }
