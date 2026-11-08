@@ -1275,6 +1275,17 @@
     "AI": 3,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-11-08",
+   "topics": {
+    "Pertambangan & Hilirisasi": 0,
+    "Teknologi & AI": 0,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "emisi": 1
+   }
   }
  ]
 }
