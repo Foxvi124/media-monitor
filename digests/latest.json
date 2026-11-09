@@ -1,17 +1,43 @@
 {
- "date": "2026-11-08",
- "generated_at": "08 Nov 2026 08:07 WIB",
+ "date": "2026-11-09",
+ "generated_at": "09 Nov 2026 08:27 WIB",
  "topics": [
+  {
+   "name": "Teknologi & AI",
+   "items": [
+    {
+     "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+     "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+     "source": "The Guardian — World",
+     "published": "2026-11-08T14:00:43+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Kemenhub percepat dekarbonisasi transportasi demi tekan emisi",
-     "link": "https://www.antaranews.com/berita/5839047/kemenhub-percepat-dekarbonisasi-transportasi-demi-tekan-emisi",
-     "source": "ANTARA News",
-     "published": "2026-11-07T23:31:13+07:00",
+     "title": "Jelang COP31: Dorong Aksi Iklim Tanpa Pasar Karbon, Desak Pengakuan Hak Masyarakat Adat",
+     "link": "https://mongabay.co.id/2026/11/08/jelang-cop31-dorong-aksi-iklim-tanpa-pasar-karbon-desak-pengakuan-hak-masyarakat-adat/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-08T23:11:47+00:00",
      "keywords": [
+      "iklim",
       "emisi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Banjir Bandang Bawa Material Kayu Terjang Gayo Lues Aceh",
+     "link": "https://www.cnnindonesia.com/nasional/20261108143256-20-1424656/banjir-bandang-bawa-material-kayu-terjang-gayo-lues-aceh",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-08T15:08:02+07:00",
+     "keywords": [
+      "banjir"
      ],
      "also_reported_by": []
     }
@@ -36,13 +62,13 @@
   },
   {
    "name": "Tempo — Nasional",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "error": null
   },
   {
    "name": "detikcom",
    "ok": false,
-   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "error": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "name": "Mongabay Indonesia",

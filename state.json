@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5795389/jual-kamera-milik-perusahaan-pria-di-kalideres-ditangkap-polisi": "2026-10-18T23:56:17.534848+00:00",
-  "https://mongabay.co.id/2026/10/18/keadilan-terabaikan-gugat-arah-hukum-di-ktt-hukum-rakyat/": "2026-10-18T23:56:17.534848+00:00",
   "https://www.antaranews.com/berita/5798077/prabowo-pacu-investasi-berkualitas-lewat-hilirisasi-dan-perizinan": "2026-10-20T00:55:16.847596+00:00",
   "https://www.antaranews.com/berita/5797973/bdo-keamanan-data-jadi-tantangan-adopsi-ai-bagi-perusahaan": "2026-10-20T00:55:16.847596+00:00",
   "https://mongabay.co.id/2026/10/19/waswas-megaproyek-data-center-ai-jatiluhur-ganggu-pasokan-air/": "2026-10-20T00:55:16.847596+00:00",
@@ -81,16 +79,19 @@
   "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph": "2026-11-07T01:39:39.431393+00:00",
   "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam": "2026-11-07T01:39:39.431393+00:00",
   "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft": "2026-11-07T01:39:39.431393+00:00",
-  "https://www.antaranews.com/berita/5839047/kemenhub-percepat-dekarbonisasi-transportasi-demi-tekan-emisi": "2026-11-08T01:07:33.354943+00:00"
+  "https://www.antaranews.com/berita/5839047/kemenhub-percepat-dekarbonisasi-transportasi-demi-tekan-emisi": "2026-11-08T01:07:33.354943+00:00",
+  "https://www.cnnindonesia.com/nasional/20261108143256-20-1424656/banjir-bandang-bawa-material-kayu-terjang-gayo-lues-aceh": "2026-11-09T01:27:53.820513+00:00",
+  "https://mongabay.co.id/2026/11/08/jelang-cop31-dorong-aksi-iklim-tanpa-pasar-karbon-desak-pengakuan-hak-masyarakat-adat/": "2026-11-09T01:27:53.820513+00:00",
+  "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia": "2026-11-09T01:27:53.820513+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
-  "Tempo — Nasional": 2,
-  "detikcom": 99,
+  "Tempo — Nasional": 0,
+  "detikcom": 100,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 99,
+  "The Conversation Indonesia": 100,
   "The Guardian — World": 0
  }
 }
