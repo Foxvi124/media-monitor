@@ -1300,6 +1300,24 @@
     "emisi": 1,
     "banjir": 1
    }
+  },
+  {
+   "date": "2026-11-10",
+   "topics": {
+    "Pertambangan & Hilirisasi": 3,
+    "Teknologi & AI": 4,
+    "Lingkungan & Iklim": 6
+   },
+   "keywords": {
+    "nikel": 2,
+    "tambang": 3,
+    "pusat data": 1,
+    "AI": 3,
+    "iklim": 2,
+    "sampah plastik": 1,
+    "deforestasi": 1,
+    "banjir": 2
+   }
   }
  ]
 }

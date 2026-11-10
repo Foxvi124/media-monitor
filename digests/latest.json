@@ -1,15 +1,82 @@
 {
- "date": "2026-11-09",
- "generated_at": "09 Nov 2026 08:27 WIB",
+ "date": "2026-11-10",
+ "generated_at": "10 Nov 2026 10:57 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Komisi III Desak Kejagung Ungkap Dugaan Beking Bos Nikel Sultra",
+     "link": "https://www.cnnindonesia.com/nasional/20261109221545-12-1425172/komisi-iii-desak-kejagung-ungkap-dugaan-beking-bos-nikel-sultra",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-10T01:25:46+07:00",
+     "keywords": [
+      "nikel",
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kejagung Dalami Hubungan Listyo Sigit dengan Bos Nikel Arif Kurniawan",
+     "link": "https://www.cnnindonesia.com/nasional/20261109163955-12-1425061/kejagung-dalami-hubungan-listyo-sigit-dengan-bos-nikel-arif-kurniawan",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-09T16:57:19+07:00",
+     "keywords": [
+      "nikel",
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "KAI siapkan reaktivasi jalur kereta tambang di Sumatera Barat",
+     "link": "https://www.antaranews.com/berita/5843087/kai-siapkan-reaktivasi-jalur-kereta-tambang-di-sumatera-barat",
+     "source": "ANTARA News",
+     "published": "2026-11-10T09:12:22+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
-     "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+     "title": "Panduit Memperkenalkan Kabinet Net-Verse™ untuk Lingkungan Pusat Data Modern",
+     "link": "https://www.antaranews.com/berita/5843211/panduit-memperkenalkan-kabinet-net-verse-untuk-lingkungan-pusat-data-modern",
+     "source": "ANTARA News",
+     "published": "2026-11-10T10:26:06+07:00",
+     "keywords": [
+      "pusat data"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "PERURI soroti pentingnya keamanan data di tengah adopsi AI",
+     "link": "https://www.antaranews.com/berita/5843207/peruri-soroti-pentingnya-keamanan-data-di-tengah-adopsi-ai",
+     "source": "ANTARA News",
+     "published": "2026-11-10T10:23:50+07:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Laporan Cision Ungkap Tren Konsumen yang Tersembunyi di Balik Data Penelusuran, Media Sosial, dan AI",
+     "link": "https://www.antaranews.com/berita/5843203/laporan-cision-ungkap-tren-konsumen-yang-tersembunyi-di-balik-data-penelusuran-media-sosial-dan-ai",
+     "source": "ANTARA News",
+     "published": "2026-11-10T10:22:07+07:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+     "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
      "source": "The Guardian — World",
-     "published": "2026-11-08T14:00:43+00:00",
+     "published": "2026-11-10T01:34:47+00:00",
      "keywords": [
       "AI"
      ],
@@ -21,21 +88,60 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Jelang COP31: Dorong Aksi Iklim Tanpa Pasar Karbon, Desak Pengakuan Hak Masyarakat Adat",
-     "link": "https://mongabay.co.id/2026/11/08/jelang-cop31-dorong-aksi-iklim-tanpa-pasar-karbon-desak-pengakuan-hak-masyarakat-adat/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-08T23:11:47+00:00",
+     "title": "Hashim perkenalkan Satgas Inovasi Pembiayaan Taman Nasional di COP31",
+     "link": "https://www.antaranews.com/berita/5843187/hashim-perkenalkan-satgas-inovasi-pembiayaan-taman-nasional-di-cop31",
+     "source": "ANTARA News",
+     "published": "2026-11-10T10:13:42+07:00",
      "keywords": [
-      "iklim",
-      "emisi"
+      "iklim"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Banjir Bandang Bawa Material Kayu Terjang Gayo Lues Aceh",
-     "link": "https://www.cnnindonesia.com/nasional/20261108143256-20-1424656/banjir-bandang-bawa-material-kayu-terjang-gayo-lues-aceh",
+     "title": "Naik kelas sampah plastik jadi bahan bakar alternatif",
+     "link": "https://www.antaranews.com/berita/5843183/naik-kelas-sampah-plastik-jadi-bahan-bakar-alternatif",
+     "source": "ANTARA News",
+     "published": "2026-11-10T10:12:45+07:00",
+     "keywords": [
+      "sampah plastik"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Pemerintah tekankan tiga prioritas untuk tekan deforestasi pada COP31",
+     "link": "https://www.antaranews.com/berita/5843099/pemerintah-tekankan-tiga-prioritas-untuk-tekan-deforestasi-pada-cop31",
+     "source": "ANTARA News",
+     "published": "2026-11-10T09:19:32+07:00",
+     "keywords": [
+      "deforestasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "21 Desa Terdampak Banjir Susulan di Pidie Jaya Aceh",
+     "link": "https://www.cnnindonesia.com/nasional/20261110073025-20-1425212/21-desa-terdampak-banjir-susulan-di-pidie-jaya-aceh",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-08T15:08:02+07:00",
+     "published": "2026-11-10T07:56:33+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Opini: Mangrove Bukan Sekadar Kredit Karbon",
+     "link": "https://mongabay.co.id/2026/11/09/opini-mangrove-bukan-sekadar-kredit-karbon/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-09T23:36:27+00:00",
+     "keywords": [
+      "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Lapor Pak Amran Banjir Ratusan Aduan, Mentan Pastikan Pelapor Aman",
+     "link": "https://www.cnnindonesia.com/nasional/20261109180852-25-1425086/lapor-pak-amran-banjir-ratusan-aduan-mentan-pastikan-pelapor-aman",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-09T18:19:52+07:00",
      "keywords": [
       "banjir"
      ],

@@ -1,10 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5798077/prabowo-pacu-investasi-berkualitas-lewat-hilirisasi-dan-perizinan": "2026-10-20T00:55:16.847596+00:00",
-  "https://www.antaranews.com/berita/5797973/bdo-keamanan-data-jadi-tantangan-adopsi-ai-bagi-perusahaan": "2026-10-20T00:55:16.847596+00:00",
-  "https://mongabay.co.id/2026/10/19/waswas-megaproyek-data-center-ai-jatiluhur-ganggu-pasokan-air/": "2026-10-20T00:55:16.847596+00:00",
-  "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports": "2026-10-20T00:55:16.847596+00:00",
-  "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie": "2026-10-20T00:55:16.847596+00:00",
   "https://www.antaranews.com/video/5800761/den-ekspor-hilirisasi-diproyeksikan-capai-50-miliar-dolar-as-di-2026": "2026-10-21T00:23:39.279543+00:00",
   "https://www.antaranews.com/berita/5800705/laporan-lebih-dari-13-juta-warga-australia-gunakan-ai-dalam-kehidupan-sehari-hari": "2026-10-21T00:23:39.279543+00:00",
   "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss": "2026-10-21T00:23:39.279543+00:00",
@@ -82,16 +77,29 @@
   "https://www.antaranews.com/berita/5839047/kemenhub-percepat-dekarbonisasi-transportasi-demi-tekan-emisi": "2026-11-08T01:07:33.354943+00:00",
   "https://www.cnnindonesia.com/nasional/20261108143256-20-1424656/banjir-bandang-bawa-material-kayu-terjang-gayo-lues-aceh": "2026-11-09T01:27:53.820513+00:00",
   "https://mongabay.co.id/2026/11/08/jelang-cop31-dorong-aksi-iklim-tanpa-pasar-karbon-desak-pengakuan-hak-masyarakat-adat/": "2026-11-09T01:27:53.820513+00:00",
-  "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia": "2026-11-09T01:27:53.820513+00:00"
+  "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia": "2026-11-09T01:27:53.820513+00:00",
+  "https://www.antaranews.com/berita/5843211/panduit-memperkenalkan-kabinet-net-verse-untuk-lingkungan-pusat-data-modern": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.antaranews.com/berita/5843207/peruri-soroti-pentingnya-keamanan-data-di-tengah-adopsi-ai": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.antaranews.com/berita/5843203/laporan-cision-ungkap-tren-konsumen-yang-tersembunyi-di-balik-data-penelusuran-media-sosial-dan-ai": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.antaranews.com/berita/5843187/hashim-perkenalkan-satgas-inovasi-pembiayaan-taman-nasional-di-cop31": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.antaranews.com/berita/5843183/naik-kelas-sampah-plastik-jadi-bahan-bakar-alternatif": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.antaranews.com/berita/5843099/pemerintah-tekankan-tiga-prioritas-untuk-tekan-deforestasi-pada-cop31": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.antaranews.com/berita/5843087/kai-siapkan-reaktivasi-jalur-kereta-tambang-di-sumatera-barat": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.cnnindonesia.com/nasional/20261110073025-20-1425212/21-desa-terdampak-banjir-susulan-di-pidie-jaya-aceh": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.cnnindonesia.com/nasional/20261109221545-12-1425172/komisi-iii-desak-kejagung-ungkap-dugaan-beking-bos-nikel-sultra": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.cnnindonesia.com/nasional/20261109180852-25-1425086/lapor-pak-amran-banjir-ratusan-aduan-mentan-pastikan-pelapor-aman": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.cnnindonesia.com/nasional/20261109163955-12-1425061/kejagung-dalami-hubungan-listyo-sigit-dengan-bos-nikel-arif-kurniawan": "2026-11-10T03:57:54.913811+00:00",
+  "https://mongabay.co.id/2026/11/09/opini-mangrove-bukan-sekadar-kredit-karbon/": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul": "2026-11-10T03:57:54.913811+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
   "Tempo — Nasional": 0,
-  "detikcom": 100,
+  "detikcom": 101,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 100,
+  "The Conversation Indonesia": 101,
   "The Guardian — World": 0
  }
 }
