@@ -1,8 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/video/5800761/den-ekspor-hilirisasi-diproyeksikan-capai-50-miliar-dolar-as-di-2026": "2026-10-21T00:23:39.279543+00:00",
-  "https://www.antaranews.com/berita/5800705/laporan-lebih-dari-13-juta-warga-australia-gunakan-ai-dalam-kehidupan-sehari-hari": "2026-10-21T00:23:39.279543+00:00",
-  "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo?at_medium=RSS&at_campaign=rss": "2026-10-21T00:23:39.279543+00:00",
   "https://mongabay.co.id/2026/10/21/dua-tahun-prabowo-gibran-bagaimana-nasib-rakyat-dan-lingkungan/": "2026-10-22T00:27:09.812943+00:00",
   "https://mongabay.co.id/2026/10/21/nasib-nelayan-kecil-penyedia-pangan-tetapi-minim-perlindungan/": "2026-10-22T00:27:09.812943+00:00",
   "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex": "2026-10-22T00:27:09.812943+00:00",
@@ -90,16 +87,23 @@
   "https://www.cnnindonesia.com/nasional/20261109180852-25-1425086/lapor-pak-amran-banjir-ratusan-aduan-mentan-pastikan-pelapor-aman": "2026-11-10T03:57:54.913811+00:00",
   "https://www.cnnindonesia.com/nasional/20261109163955-12-1425061/kejagung-dalami-hubungan-listyo-sigit-dengan-bos-nikel-arif-kurniawan": "2026-11-10T03:57:54.913811+00:00",
   "https://mongabay.co.id/2026/11/09/opini-mangrove-bukan-sekadar-kredit-karbon/": "2026-11-10T03:57:54.913811+00:00",
-  "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul": "2026-11-10T03:57:54.913811+00:00"
+  "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul": "2026-11-10T03:57:54.913811+00:00",
+  "https://www.antaranews.com/berita/5845603/bmkg-waspadai-cuaca-ekstrem-hujan-deras-hingga-banjir-rob-hari-ini": "2026-11-11T01:43:32.303926+00:00",
+  "https://www.antaranews.com/berita/5845599/kemarin-banjir-di-pidie-jaya-ri-resmikan-paviliun-indonesia-di-cop31": "2026-11-11T01:43:32.303926+00:00",
+  "https://www.cnnindonesia.com/nasional/20261111073205-20-1425684/curah-hujan-tinggi-banjir-rendam-lima-desa-di-aceh-barat": "2026-11-11T01:43:32.303926+00:00",
+  "https://www.cnnindonesia.com/nasional/20261110193000-25-1425595/pemerintah-gelar-forum-akselerasi-ekonomi-daerah-di-medan": "2026-11-11T01:43:32.303926+00:00",
+  "https://www.cnnindonesia.com/nasional/20261110160918-12-1425498/kejagung-geledah-6-perusahaan-afiliasi-bos-nikel-arif-kurniawan": "2026-11-11T01:43:32.303926+00:00",
+  "https://www.cnnindonesia.com/nasional/20261110143719-12-1425431/kejagung-tetapkan-pt-bsj-jadi-tersangka-korporasi-kasus-korupsi-nikel": "2026-11-11T01:43:32.303926+00:00",
+  "https://mongabay.co.id/2026/11/10/kebakaran-hutan-dan-lahan-bakal-ganggu-target-penurunan-emisi-indonesia/": "2026-11-11T01:43:32.303926+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
-  "Tempo — Nasional": 0,
-  "detikcom": 101,
+  "Tempo — Nasional": 1,
+  "detikcom": 102,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 101,
+  "The Conversation Indonesia": 102,
   "The Guardian — World": 0
  }
 }
