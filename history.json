@@ -1333,6 +1333,21 @@
     "emisi": 1,
     "banjir": 3
    }
+  },
+  {
+   "date": "2026-11-12",
+   "topics": {
+    "Pertambangan & Hilirisasi": 3,
+    "Teknologi & AI": 1,
+    "Lingkungan & Iklim": 4
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "tambang": 2,
+    "chip": 1,
+    "iklim": 3,
+    "banjir": 1
+   }
   }
  ]
 }

@@ -1,37 +1,52 @@
 {
- "date": "2026-11-11",
- "generated_at": "11 Nov 2026 08:43 WIB",
+ "date": "2026-11-12",
+ "generated_at": "12 Nov 2026 09:42 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Pemerintah Gelar Forum Akselerasi Ekonomi Daerah di Medan",
-     "link": "https://www.cnnindonesia.com/nasional/20261110193000-25-1425595/pemerintah-gelar-forum-akselerasi-ekonomi-daerah-di-medan",
+     "title": "Sejumlah Kepala Daerah Hadiri Forum Akselerasi Ekonomi Daerah di Medan",
+     "link": "https://www.cnnindonesia.com/nasional/20261112071742-20-1426138/sejumlah-kepala-daerah-hadiri-forum-akselerasi-ekonomi-daerah-di-medan",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-10T20:30:12+07:00",
+     "published": "2026-11-12T07:21:53+07:00",
      "keywords": [
       "hilirisasi"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Kejagung Geledah 6 Perusahaan Afiliasi Bos Nikel Arif Kurniawan",
-     "link": "https://www.cnnindonesia.com/nasional/20261110160918-12-1425498/kejagung-geledah-6-perusahaan-afiliasi-bos-nikel-arif-kurniawan",
+     "title": "Korban Dugaan Penipuan Emas Minta Kombes F Segera Disidang Etik",
+     "link": "https://www.cnnindonesia.com/nasional/20261111232745-12-1426111/korban-dugaan-penipuan-emas-minta-kombes-f-segera-disidang-etik",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-10T16:34:36+07:00",
+     "published": "2026-11-12T00:57:45+07:00",
      "keywords": [
-      "nikel"
+      "tambang"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Kejagung Tetapkan PT BSJ Jadi Tersangka Korporasi Kasus Korupsi Nikel",
-     "link": "https://www.cnnindonesia.com/nasional/20261110143719-12-1425431/kejagung-tetapkan-pt-bsj-jadi-tersangka-korporasi-kasus-korupsi-nikel",
+     "title": "Prabowo Ungkap Ada Tambang Ilegal Produksi 500 Kg Emas per Bulan",
+     "link": "https://www.cnnindonesia.com/nasional/20261111232010-32-1426110/prabowo-ungkap-ada-tambang-ilegal-produksi-500-kg-emas-per-bulan",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-10T14:56:52+07:00",
+     "published": "2026-11-11T23:45:47+07:00",
      "keywords": [
-      "nikel"
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
+  {
+   "name": "Teknologi & AI",
+   "items": [
+    {
+     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "source": "The Guardian — World",
+     "published": "2026-11-12T02:30:45+00:00",
+     "keywords": [
+      "chip"
      ],
      "also_reported_by": []
     }
@@ -41,41 +56,40 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Kebakaran Hutan dan Lahan Bakal Ganggu Target Penurunan Emisi Indonesia?",
-     "link": "https://mongabay.co.id/2026/11/10/kebakaran-hutan-dan-lahan-bakal-ganggu-target-penurunan-emisi-indonesia/",
+     "title": "Von der Leyen: Dunia berada di titik kritis krisis iklim dan energi",
+     "link": "https://www.antaranews.com/berita/5848179/von-der-leyen-dunia-berada-di-titik-kritis-krisis-iklim-dan-energi",
+     "source": "ANTARA News",
+     "published": "2026-11-12T08:23:15+07:00",
+     "keywords": [
+      "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "El Niño Memecahkan Rekor, Suhu Global 2027 Diperkirakan Naik ke 1,74 Derajat Celsius",
+     "link": "https://mongabay.co.id/2026/11/12/el-nino-memecahkan-rekor-suhu-global-2027-diperkirakan-naik-ke-174-derajat-celsius/",
      "source": "Mongabay Indonesia",
-     "published": "2026-11-10T23:58:29+00:00",
+     "published": "2026-11-12T01:22:09+00:00",
      "keywords": [
-      "iklim",
-      "emisi"
+      "iklim"
      ],
      "also_reported_by": []
     },
     {
-     "title": "BMKG: Waspadai cuaca ekstrem, hujan deras hingga banjir rob hari ini",
-     "link": "https://www.antaranews.com/berita/5845603/bmkg-waspadai-cuaca-ekstrem-hujan-deras-hingga-banjir-rob-hari-ini",
-     "source": "ANTARA News",
-     "published": "2026-11-11T08:06:34+07:00",
+     "title": "Koalisi Orang Muda Serukan Keadilan dalam Proyek Transisi Energi",
+     "link": "https://mongabay.co.id/2026/11/11/koalisi-orang-muda-serukan-keadilan-dalam-proyek-transisi-energi/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-11T23:45:14+00:00",
      "keywords": [
-      "banjir"
+      "iklim"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Kemarin, banjir di Pidie Jaya- RI resmikan Paviliun Indonesia di COP31",
-     "link": "https://www.antaranews.com/berita/5845599/kemarin-banjir-di-pidie-jaya-ri-resmikan-paviliun-indonesia-di-cop31",
-     "source": "ANTARA News",
-     "published": "2026-11-11T08:00:22+07:00",
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Curah Hujan Tinggi, Banjir Rendam Lima Desa di Aceh Barat",
-     "link": "https://www.cnnindonesia.com/nasional/20261111073205-20-1425684/curah-hujan-tinggi-banjir-rendam-lima-desa-di-aceh-barat",
+     "title": "FOTO: Penertiban Bangunan Liar yang Menjamur di KBB Ciliwung",
+     "link": "https://www.cnnindonesia.com/nasional/20261111131422-22-1425845/foto-penertiban-bangunan-liar-yang-menjamur-di-kbb-ciliwung",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-11T07:55:39+07:00",
+     "published": "2026-11-11T13:55:02+07:00",
      "keywords": [
       "banjir"
      ],
@@ -102,8 +116,8 @@
   },
   {
    "name": "Tempo — Nasional",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "error": null
   },
   {
    "name": "detikcom",
