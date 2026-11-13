@@ -1,52 +1,59 @@
 {
- "date": "2026-11-12",
- "generated_at": "12 Nov 2026 09:42 WIB",
+ "date": "2026-11-13",
+ "generated_at": "13 Nov 2026 09:26 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Sejumlah Kepala Daerah Hadiri Forum Akselerasi Ekonomi Daerah di Medan",
-     "link": "https://www.cnnindonesia.com/nasional/20261112071742-20-1426138/sejumlah-kepala-daerah-hadiri-forum-akselerasi-ekonomi-daerah-di-medan",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-12T07:21:53+07:00",
-     "keywords": [
-      "hilirisasi"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Korban Dugaan Penipuan Emas Minta Kombes F Segera Disidang Etik",
-     "link": "https://www.cnnindonesia.com/nasional/20261111232745-12-1426111/korban-dugaan-penipuan-emas-minta-kombes-f-segera-disidang-etik",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-12T00:57:45+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Prabowo Ungkap Ada Tambang Ilegal Produksi 500 Kg Emas per Bulan",
-     "link": "https://www.cnnindonesia.com/nasional/20261111232010-32-1426110/prabowo-ungkap-ada-tambang-ilegal-produksi-500-kg-emas-per-bulan",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-11T23:45:47+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-     "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+     "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
      "source": "The Guardian — World",
-     "published": "2026-11-12T02:30:45+00:00",
+     "published": "2026-11-13T02:14:37+00:00",
      "keywords": [
+      "AI",
       "chip"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Perusahaan China pamerkan robot, mobil terbang, dan model AI terbuka di Web Summit Lisbon",
+     "link": "https://www.antaranews.com/berita/5850703/perusahaan-china-pamerkan-robot-mobil-terbang-dan-model-ai-terbuka-di-web-summit-lisbon",
+     "source": "ANTARA News",
+     "published": "2026-11-13T07:20:45+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
+     "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+     "source": "The Guardian — World",
+     "published": "2026-11-13T00:03:57+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+     "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+     "source": "The Guardian — World",
+     "published": "2026-11-12T13:14:38+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+     "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+     "source": "The Guardian — World",
+     "published": "2026-11-12T06:43:31+00:00",
+     "keywords": [
+      "AI"
      ],
      "also_reported_by": []
     }
@@ -56,42 +63,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Von der Leyen: Dunia berada di titik kritis krisis iklim dan energi",
-     "link": "https://www.antaranews.com/berita/5848179/von-der-leyen-dunia-berada-di-titik-kritis-krisis-iklim-dan-energi",
-     "source": "ANTARA News",
-     "published": "2026-11-12T08:23:15+07:00",
+     "title": "2026 akan menjadi tahun terpanas dalam sejarah, menurut para ilmuwan",
+     "link": "https://www.bbc.com/indonesia/articles/cx24047ldj71o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-11-13T01:04:03+00:00",
      "keywords": [
       "iklim"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "El Niño Memecahkan Rekor, Suhu Global 2027 Diperkirakan Naik ke 1,74 Derajat Celsius",
-     "link": "https://mongabay.co.id/2026/11/12/el-nino-memecahkan-rekor-suhu-global-2027-diperkirakan-naik-ke-174-derajat-celsius/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-12T01:22:09+00:00",
-     "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Koalisi Orang Muda Serukan Keadilan dalam Proyek Transisi Energi",
-     "link": "https://mongabay.co.id/2026/11/11/koalisi-orang-muda-serukan-keadilan-dalam-proyek-transisi-energi/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-11T23:45:14+00:00",
-     "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "FOTO: Penertiban Bangunan Liar yang Menjamur di KBB Ciliwung",
-     "link": "https://www.cnnindonesia.com/nasional/20261111131422-22-1425845/foto-penertiban-bangunan-liar-yang-menjamur-di-kbb-ciliwung",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-11T13:55:02+07:00",
-     "keywords": [
-      "banjir"
      ],
      "also_reported_by": []
     }
@@ -122,7 +99,7 @@
   {
    "name": "detikcom",
    "ok": false,
-   "error": "RemoteDisconnected: Remote end closed connection without response"
+   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "name": "Mongabay Indonesia",
