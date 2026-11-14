@@ -1,24 +1,29 @@
-# 📰 Digest Media — 2026-11-13
+# 📰 Digest Media — 2026-11-14
 
-_6 berita cocok · 286 artikel dipindai dari 6 feed · dibuat 13 Nov 2026 09:26 WIB_
+_7 berita cocok · 286 artikel dipindai dari 6 feed · dibuat 14 Nov 2026 08:58 WIB_
 
-## Teknologi & AI (5) ↑
+## Pertambangan & Hilirisasi (1) ↓
 
-- 🔥 **[Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live](https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates)** — The Guardian — World · 13 Nov 09:14 WIB · kata kunci: **AI**, **chip**
-  > Huang’s resignation has sent shockwaves through the **AI** industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen…
-- 🔥 **[Perusahaan China pamerkan robot, mobil terbang, dan model AI terbuka di Web Summit Lisbon](https://www.antaranews.com/berita/5850703/perusahaan-china-pamerkan-robot-mobil-terbang-dan-model-ai-terbuka-di-web-summit-lisbon)** — ANTARA News · 13 Nov 07:20 WIB · kata kunci: **kecerdasan buatan**, **AI**
-  > Mulai dari robot yang diperkuat **kecerdasan buatan** (**AI**) dan dirancang untuk bekerja di toko hingga kendaraan yang ...
-- **[Who could replace the departed Jensen Huang as Nvidia CEO?](https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement)** — The Guardian — World · 13 Nov 07:03 WIB · kata kunci: **AI**
-  > Chief financial officer Colette Kress to take over on interim basis but other names are in mix to be permanent successor The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head an…
-- **[Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story](https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story)** — The Guardian — World · 12 Nov 20:14 WIB · kata kunci: **AI**
-  > After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using **AI** to…
-- **[Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair](https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair)** — The Guardian — World · 12 Nov 13:43 WIB · kata kunci: **AI**
-  > In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the **AI** industry and Trump’s close ties to Nvidia chief Jensen Huang G…
+- 🔥 **[Koalisi Indonesia Timur Desak Lindungi Wilayah Adat dan Setop Ekspansi Ekstraktif](https://mongabay.co.id/2026/11/13/koalisi-indonesia-timur-desak-lindungi-wilayah-adat-dan-setop-ekspansi-ekstraktif/)** — Mongabay Indonesia · 13 Nov 09:33 WIB · kata kunci: **nikel**, **tambang**
+  > Indonesia Timur merupakan benteng terakhir wilayah Indonesia yang kaya akan keanekaragaman hayati. Saat yang sama, kawasan ini kian hadapi berbagai tekanan dampak perubahan iklim dan industri ekstraktif seperti **tambang** n…
 
-## Lingkungan & Iklim (1) ↓
+## Teknologi & AI (4) ↑
 
-- **[2026 akan menjadi tahun terpanas dalam sejarah, menurut para ilmuwan](https://www.bbc.com/indonesia/articles/cx24047ldj71o?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 13 Nov 08:04 WIB · kata kunci: **iklim**
-  > Para ilmuwan memperkirakan tahun ini bisa menjadi tahun terpanas yang pernah tercatat saat KTT **iklim** COP31 dibuka.
+- **[SK Innovation E&S Kembali Menjaring Wirausahawan Muda di Bidang Transformasi Kecerdasan Buatan / AX dan Energi di Indonesia](https://www.antaranews.com/berita/5853343/sk-innovation-es-kembali-menjaring-wirausahawan-muda-di-bidang-transformasi-kecerdasan-buatan-ax-dan-energi-di-indonesia)** — ANTARA News · 14 Nov 08:40 WIB · kata kunci: **kecerdasan buatan**
+  > SK Innovation E&S kembali melanjutkan program pengembangan wirausahawan muda untuk menggali ide-ide bisnis di ...
+- **[SBC Medical Umumkan Aliansi Modal dan Bisnis dengan NeuroBrain Dynamics untuk Tingkatkan Profitabilitas Klinik Melalui AI Medis](https://www.antaranews.com/berita/5853319/sbc-medical-umumkan-aliansi-modal-dan-bisnis-dengan-neurobrain-dynamics-untuk-tingkatkan-profitabilitas-klinik-melalui-ai-medis)** — ANTARA News · 14 Nov 08:25 WIB · kata kunci: **AI**
+  > - SBC Medical Group Holdings Incorporated (Nasdaq: SBC) (“Perusahaan” atau “SBC Medical”), ...
+- **[Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports)** — The Guardian — World · 14 Nov 00:41 WIB · kata kunci: **AI**
+  > Tech firm says it is ‘deeply sorry’ for disruption that took services down and has now addressed the underlying issue What caused the outage and when will it be fixed? Microsoft outage hits UK hospitals, GPs, schools and…
+- **[‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)** — The Guardian — World · 13 Nov 23:38 WIB · kata kunci: **AI**
+  > Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers…
+
+## Lingkungan & Iklim (2) →
+
+- **[Banjir-Longsor di Dua Desa Gorontalo, Satu Warga Tersengat Listrik](https://www.cnnindonesia.com/nasional/20261113144925-20-1426865/banjir-longsor-di-dua-desa-gorontalo-satu-warga-tersengat-listrik)** — CNN Indonesia — Nasional · 13 Nov 15:10 WIB · kata kunci: **banjir**
+  > Bencana **banjir** dan longsor menerjang dua desa di Kabupaten Gorontalo, Provinsi Gorontalo hingga mengakibatkan 19 warga terkena dampak.
+- **[Koalisi Indonesia Timur Desak Lindungi Wilayah Adat dan Setop Ekspansi Ekstraktif](https://mongabay.co.id/2026/11/13/koalisi-indonesia-timur-desak-lindungi-wilayah-adat-dan-setop-ekspansi-ekstraktif/)** — Mongabay Indonesia · 13 Nov 09:33 WIB · kata kunci: **iklim**
+  > Indonesia Timur merupakan benteng terakhir wilayah Indonesia yang kaya akan keanekaragaman hayati. Saat yang sama, kawasan ini kian hadapi berbagai tekanan dampak perubahan **iklim** dan industri ekstraktif seperti tambang n…
 
 ---
 ⚠ 2 feed gagal diambil: detikcom (URLError: <urlopen error _ssl.c:994: The handshake operation timed out>); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)

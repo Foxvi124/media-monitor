@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5808659/menko-bahlil-bidik-pnbp-esdm-capai-rp165-t-lewat-optimalisasi-energi": "2026-10-24T00:18:13.866348+00:00",
-  "https://www.antaranews.com/berita/5808647/menko-bahlil-perintahkan-esdm-berpihak-pada-kepentingan-rakyat": "2026-10-24T00:18:13.866348+00:00",
-  "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election": "2026-10-24T00:18:13.866348+00:00",
-  "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom": "2026-10-24T00:18:13.866348+00:00",
   "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms": "2026-10-25T00:01:29.893141+00:00",
   "https://www.antaranews.com/berita/5811219/pemegang-hak-cipta-lagu-elvis-presley-gugat-perusahaan-ai-anthropic": "2026-10-25T23:51:52.475501+00:00",
   "https://mongabay.co.id/short-article/2026/10/di-balik-spanduk-bundaran-hi-ada-pesan-desakan-atasi-krisis-iklim-dan-mahalnya-biaya-hidup/": "2026-10-25T23:51:52.475501+00:00",
@@ -100,16 +96,22 @@
   "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story": "2026-11-13T02:26:01.295819+00:00",
   "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair": "2026-11-13T02:26:01.295819+00:00",
   "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates": "2026-11-13T02:26:01.295819+00:00",
-  "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement": "2026-11-13T02:26:01.295819+00:00"
+  "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement": "2026-11-13T02:26:01.295819+00:00",
+  "https://www.antaranews.com/berita/5853343/sk-innovation-es-kembali-menjaring-wirausahawan-muda-di-bidang-transformasi-kecerdasan-buatan-ax-dan-energi-di-indonesia": "2026-11-14T01:58:54.350617+00:00",
+  "https://www.antaranews.com/berita/5853319/sbc-medical-umumkan-aliansi-modal-dan-bisnis-dengan-neurobrain-dynamics-untuk-tingkatkan-profitabilitas-klinik-melalui-ai-medis": "2026-11-14T01:58:54.350617+00:00",
+  "https://www.cnnindonesia.com/nasional/20261113144925-20-1426865/banjir-longsor-di-dua-desa-gorontalo-satu-warga-tersengat-listrik": "2026-11-14T01:58:54.350617+00:00",
+  "https://mongabay.co.id/2026/11/13/koalisi-indonesia-timur-desak-lindungi-wilayah-adat-dan-setop-ekspansi-ekstraktif/": "2026-11-14T01:58:54.350617+00:00",
+  "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports": "2026-11-14T01:58:54.350617+00:00",
+  "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths": "2026-11-14T01:58:54.350617+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
   "Tempo — Nasional": 0,
-  "detikcom": 104,
+  "detikcom": 105,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 104,
+  "The Conversation Indonesia": 105,
   "The Guardian — World": 0
  }
 }
