@@ -1378,6 +1378,20 @@
     "banjir": 1,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-11-15",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 3
+   },
+   "keywords": {
+    "hilirisasi": 1,
+    "AI": 2,
+    "chip": 1,
+    "iklim": 3
+   }
   }
  ]
 }
