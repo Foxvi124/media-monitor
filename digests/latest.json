@@ -1,41 +1,25 @@
 {
- "date": "2026-11-15",
- "generated_at": "15 Nov 2026 08:31 WIB",
+ "date": "2026-11-16",
+ "generated_at": "16 Nov 2026 08:35 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "DPRD Kaltara: Percepat hilirisasi perikanan untuk dongkrak PAD",
-     "link": "https://www.antaranews.com/video/5854823/dprd-kaltara-percepat-hilirisasi-perikanan-untuk-dongkrak-pad",
-     "source": "ANTARA News",
-     "published": "2026-11-15T00:09:34+07:00",
-     "keywords": [
-      "hilirisasi"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Dugaan penyelundupan chip AI NVIDIA hingga moge premium di IMOS 2026",
-     "link": "https://www.antaranews.com/berita/5854939/dugaan-penyelundupan-chip-ai-nvidia-hingga-moge-premium-di-imos-2026",
-     "source": "ANTARA News",
-     "published": "2026-11-15T07:39:34+07:00",
+     "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+     "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+     "source": "The Guardian — World",
+     "published": "2026-11-16T01:01:08+00:00",
      "keywords": [
-      "AI",
       "chip"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+     "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
      "source": "The Guardian — World",
-     "published": "2026-11-14T19:00:52+00:00",
+     "published": "2026-11-15T08:56:11+00:00",
      "keywords": [
       "AI"
      ],
@@ -47,30 +31,30 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Masuk daftar tuan rumah COP33, RI paparkan tantangannya",
-     "link": "https://www.antaranews.com/berita/5854875/masuk-daftar-tuan-rumah-cop33-ri-paparkan-tantangannya",
-     "source": "ANTARA News",
-     "published": "2026-11-15T01:42:21+07:00",
+     "title": "BPBD Kaltim Ingatkan Warga Waspada Banjir Tiga Hari ke Depan",
+     "link": "https://www.cnnindonesia.com/nasional/20261115135040-20-1427356/bpbd-kaltim-ingatkan-warga-waspada-banjir-tiga-hari-ke-depan",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-15T21:10:57+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "KKP Dorong Ekosistem Laut Jadi Bagian Utama Solusi Perubahan Iklim Global di COP31",
+     "link": "https://nasional.tempo.co/read/2123685/kkp-dorong-ekosistem-laut-jadi-bagian-utama-solusi-perubahan-iklim-global-di-cop31",
+     "source": "Tempo — Nasional",
+     "published": "2026-11-15T18:10:17+07:00",
      "keywords": [
       "iklim"
      ],
      "also_reported_by": []
     },
     {
-     "title": "RI dukung BRIDGE, pendanaan aksi iklim sesuai prioritas negara",
-     "link": "https://www.antaranews.com/video/5854803/ri-dukung-bridge-pendanaan-aksi-iklim-sesuai-prioritas-negara",
-     "source": "ANTARA News",
-     "published": "2026-11-14T23:23:49+07:00",
-     "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "COP31: Delegasi Indonesia Getol Jual Karbon, Koalisi Pertanyakan Komitmen Lindungi Hutan",
-     "link": "https://mongabay.co.id/2026/11/14/cop31-delegasi-indonesia-getol-jual-karbon-koalisi-pertanyakan-komitmen-lindungi-hutan/",
+     "title": "Masyarakat Sipil Desak Pemerintah Serius Beraksi, Setop Pencitraan di COP31",
+     "link": "https://mongabay.co.id/2026/11/15/masyarakat-sipil-desak-pemerintah-serius-beraksi-setop-pencitraan-di-cop31/",
      "source": "Mongabay Indonesia",
-     "published": "2026-11-14T06:31:46+00:00",
+     "published": "2026-11-15T05:00:48+00:00",
      "keywords": [
       "iklim"
      ],
@@ -103,7 +87,7 @@
   {
    "name": "detikcom",
    "ok": false,
-   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "error": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "name": "Mongabay Indonesia",
