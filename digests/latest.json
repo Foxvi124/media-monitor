@@ -1,27 +1,63 @@
 {
- "date": "2026-11-16",
- "generated_at": "16 Nov 2026 08:35 WIB",
+ "date": "2026-11-17",
+ "generated_at": "17 Nov 2026 11:19 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Freeport Indonesia Raih Penghargaan Pemberdayaan Masyarakat Bidang Pendidikan dari Kementerian ESDM",
+     "link": "https://www.antaranews.com/berita/5858875/freeport-indonesia-raih-penghargaan-pemberdayaan-masyarakat-bidang-pendidikan-dari-kementerian-esdm",
+     "source": "ANTARA News",
+     "published": "2026-11-17T11:02:14+07:00",
+     "keywords": [
+      "freeport"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kadis LH Jatim Nurkholis Jadi Tersangka Kasus Pungli Izin Tambang",
+     "link": "https://www.cnnindonesia.com/nasional/20261117082501-12-1427957/kadis-lh-jatim-nurkholis-jadi-tersangka-kasus-pungli-izin-tambang",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-17T08:33:27+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-     "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-     "source": "The Guardian — World",
-     "published": "2026-11-16T01:01:08+00:00",
+     "title": "Megaspeed buka suara soal Alice Huang, sosok yang dituduh mata-mata China dalam skandal Nvidia",
+     "link": "https://www.bbc.com/indonesia/articles/ckz74q933vr4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-11-16T23:42:07+00:00",
      "keywords": [
+      "AI",
       "chip"
      ],
      "also_reported_by": []
     },
     {
-     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-     "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-     "source": "The Guardian — World",
-     "published": "2026-11-15T08:56:11+00:00",
+     "title": "Haier Energy Meluncurkan Seri Inverter Hibrida AI 12-20 kW",
+     "link": "https://www.antaranews.com/berita/5858903/haier-energy-meluncurkan-seri-inverter-hibrida-ai-12-20-kw",
+     "source": "ANTARA News",
+     "published": "2026-11-17T11:15:16+07:00",
      "keywords": [
       "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian — World",
+     "published": "2026-11-17T02:31:14+00:00",
+     "keywords": [
+      "chip"
      ],
      "also_reported_by": []
     }
@@ -31,30 +67,50 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "BPBD Kaltim Ingatkan Warga Waspada Banjir Tiga Hari ke Depan",
-     "link": "https://www.cnnindonesia.com/nasional/20261115135040-20-1427356/bpbd-kaltim-ingatkan-warga-waspada-banjir-tiga-hari-ke-depan",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-15T21:10:57+07:00",
+     "title": "Segara Anakan terancam lenyap – 'Bencana kemiskinan dimulai dari sedimentasi yang tak teratasi'",
+     "link": "https://www.bbc.com/indonesia/articles/cd042ezz3mpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-11-17T02:52:25+00:00",
      "keywords": [
       "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "KKP Dorong Ekosistem Laut Jadi Bagian Utama Solusi Perubahan Iklim Global di COP31",
-     "link": "https://nasional.tempo.co/read/2123685/kkp-dorong-ekosistem-laut-jadi-bagian-utama-solusi-perubahan-iklim-global-di-cop31",
-     "source": "Tempo — Nasional",
-     "published": "2026-11-15T18:10:17+07:00",
+     "title": "5 Kecamatan Berstatus Awas Hujan, Warga Diminta Waspada Banjir Longsor",
+     "link": "https://www.cnnindonesia.com/nasional/20261117092720-20-1427991/5-kecamatan-berstatus-awas-hujan-warga-diminta-waspada-banjir-longsor",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-17T09:47:53+07:00",
      "keywords": [
-      "iklim"
+      "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Masyarakat Sipil Desak Pemerintah Serius Beraksi, Setop Pencitraan di COP31",
-     "link": "https://mongabay.co.id/2026/11/15/masyarakat-sipil-desak-pemerintah-serius-beraksi-setop-pencitraan-di-cop31/",
+     "title": "BNPB Siapkan Modifikasi Cuaca di Sumut-Aceh Cegah Bencana Banjir",
+     "link": "https://www.cnnindonesia.com/nasional/20261117063455-20-1427912/bnpb-siapkan-modifikasi-cuaca-di-sumut-aceh-cegah-bencana-banjir",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-17T07:14:20+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Puluhan Rumah di Cipaganti Kota Bandung Diterjang Banjir Luapan Kali",
+     "link": "https://www.cnnindonesia.com/nasional/20261116205903-20-1427873/puluhan-rumah-di-cipaganti-kota-bandung-diterjang-banjir-luapan-kali",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-16T21:09:47+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kisah Peternak Kerbau Rawa di Paminggir, Terdampak Krisis Iklim dan Wabah Penyakit",
+     "link": "https://mongabay.co.id/2026/11/16/kisah-peternak-kerbau-rawa-di-paminggir-terdampak-krisis-iklim-dan-wabah-penyakit/",
      "source": "Mongabay Indonesia",
-     "published": "2026-11-15T05:00:48+00:00",
+     "published": "2026-11-16T08:00:24+00:00",
      "keywords": [
       "iklim"
      ],

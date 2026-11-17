@@ -1406,6 +1406,22 @@
     "banjir": 1,
     "iklim": 2
    }
+  },
+  {
+   "date": "2026-11-17",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 5
+   },
+   "keywords": {
+    "freeport": 1,
+    "tambang": 1,
+    "AI": 2,
+    "chip": 2,
+    "banjir": 4,
+    "iklim": 1
+   }
   }
  ]
 }
