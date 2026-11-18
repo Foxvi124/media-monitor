@@ -1422,6 +1422,19 @@
     "banjir": 4,
     "iklim": 1
    }
+  },
+  {
+   "date": "2026-11-18",
+   "topics": {
+    "Pertambangan & Hilirisasi": 1,
+    "Teknologi & AI": 6,
+    "Lingkungan & Iklim": 2
+   },
+   "keywords": {
+    "nikel": 1,
+    "AI": 6,
+    "banjir": 2
+   }
   }
  ]
 }
