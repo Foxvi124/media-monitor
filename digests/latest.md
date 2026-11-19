@@ -1,33 +1,25 @@
-# 📰 Digest Media — 2026-11-18
+# 📰 Digest Media — 2026-11-19
 
-_9 berita cocok · 286 artikel dipindai dari 6 feed · dibuat 18 Nov 2026 10:20 WIB_
+_5 berita cocok · 286 artikel dipindai dari 6 feed · dibuat 19 Nov 2026 09:56 WIB_
 
-## Pertambangan & Hilirisasi (1) →
+## Pertambangan & Hilirisasi (2) ↑
 
-- **[Beban Berat Hidup Perempuan yang Terdampak Industri Nikel di Sulawesi](https://mongabay.co.id/short-article/2026/11/beban-berat-hidup-perempuan-yang-terdampak-industri-nikel-di-sulawesi/)** — Mongabay Indonesia · 17 Nov 17:00 WIB · kata kunci: **nikel**
-  > Utete harus memasang lebih banyak jaring dan melaut semakin jauh untuk mendapatkan ikan. Perempuan Adat Bajo di Morombo Pantai, Sulawesi Tenggara, itu mengaitkan kesulitannya dengan perubahan laut setelah pertambangan ni…
+- **[Pemprov Jatim Nonaktifkan Kepala DLH Tersangka Pungli Tambang Rp1,23 M](https://www.cnnindonesia.com/nasional/20261118195356-20-1428715/pemprov-jatim-nonaktifkan-kepala-dlh-tersangka-pungli-tambang-rp123-m)** — CNN Indonesia — Nasional · 18 Nov 23:50 WIB · kata kunci: **tambang**
+  > Pemprov Jatim menonaktifkan Kepala DLH Nurkholis setelah ditahan Kejati Jatim terkait dugaan pungli perizinan **tambang** senilai Rp1,23 miliar.
+- **[74 Tambang Emas Ilegal dan Kolam Sianida Ditemukan di Gunung Salak](https://www.cnnindonesia.com/nasional/20261118135600-12-1428546/74-tambang-emas-ilegal-dan-kolam-sianida-ditemukan-di-gunung-salak)** — CNN Indonesia — Nasional · 18 Nov 14:30 WIB · kata kunci: **tambang**
+  > Tim gabungan menemukan puluhan titik galian emas ilegal dan kolam limbah kimia di Taman Nasional Gunung Halimun Salak, Sukabumi.
 
-## Teknologi & AI (6) ↑
+## Teknologi & AI (1) ↓
 
-- **[Psikolog kemukakan keterbatasan relasi dengan AI](https://www.antaranews.com/berita/5861451/psikolog-kemukakan-keterbatasan-relasi-dengan-ai)** — ANTARA News · 18 Nov 10:17 WIB · kata kunci: **AI**
-  > Psikolog klinis remaja dan dewasa muda Gisella Tani Pratiwi, M.Psi, Psikolog mengemukakan bahwa relasi dengan alat ...
-- **[SANY Siapkan Debut Agen AI dan Mesin Robotik di Pameran Terbesarnya dalam Ajang bauma CHINA](https://www.antaranews.com/berita/5861407/sany-siapkan-debut-agen-ai-dan-mesin-robotik-di-pameran-terbesarnya-dalam-ajang-bauma-china)** — ANTARA News · 18 Nov 09:48 WIB · kata kunci: **AI**
-  > SANY Group akan merayakan hari jadi ke-40 dengan menggelar pameran terbesar sepanjang sejarah keikutsertaannya di ...
-- **[Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI](https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures)** — The Guardian — World · 18 Nov 09:03 WIB · kata kunci: **AI**
-  > South Korea has been gripped by revelations of **AI**-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entranc…
-- **[Ofqual urges ‘life-altering’ penalties for students who use tech to cheat](https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to)** — The Guardian — World · 18 Nov 07:01 WIB · kata kunci: **AI**
-  > England’s exam regulator says those caught using **AI** or smart glasses face disqualification from GCSEs and A-levels Students in England could suffer “life-altering” penalties if they are caught relying on **AI** or smart glas…
-- **[Komisi I Usul RUU AI Masuk Prolegnas di DPR](https://www.cnnindonesia.com/nasional/20261117202253-32-1428279/komisi-i-usul-ruu-ai-masuk-prolegnas-di-dpr)** — CNN Indonesia — Nasional · 18 Nov 00:50 WIB · kata kunci: **AI**
-  > Komisi I DPR usulkan RUU Akal Imitasi (**AI**) masuk Prolegnas 2027. Mereka menekankan pentingnya regulasi **AI** untuk respons perkembangan digital.
-- **[Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines)** — The Guardian — World · 17 Nov 18:00 WIB · kata kunci: **AI**
-  > Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – as it happened Hundreds of people have been arrested in heated demonstrations a…
+- **[OPC Indonesia jembatani ekosistem bisnis AI China dan Indonesia](https://www.antaranews.com/berita/5864055/opc-indonesia-jembatani-ekosistem-bisnis-ai-china-dan-indonesia)** — ANTARA News · 19 Nov 08:01 WIB · kata kunci: **AI**
+  > OPC Indonesia berupaya menjembatani ekosistem kecerdasan artifisial (**AI**) di China dan Indonesia untuk mendorong ...
 
-## Lingkungan & Iklim (2) ↓
+## Lingkungan & Iklim (2) →
 
-- **[Banjir Bandang Terjang Melawi Kalbar, 178 KK Terdampak](https://www.cnnindonesia.com/nasional/20261117135508-20-1428098/banjir-bandang-terjang-melawi-kalbar-178-kk-terdampak)** — CNN Indonesia — Nasional · 17 Nov 14:09 WIB · kata kunci: **banjir**
-  > **Banjir** bandang melanda Kabupaten Melawi, Kalimantan Barat, akibat hujan deras, berdampak terhadap 178 rumah tangga atau kepala keluarga (KK).
-- **[Banjir Longsor di Banyumas: 1 Tewas, 13 Pelajar Sempat Terjebak](https://www.cnnindonesia.com/nasional/20261117134617-20-1428094/banjir-longsor-di-banyumas-1-tewas-13-pelajar-sempat-terjebak)** — CNN Indonesia — Nasional · 17 Nov 13:56 WIB · kata kunci: **banjir**
-  > Satu warga dilaporkan meninggal dunia akibat bencana tanah longsor yang terjadi di Desa Limpakuwus, Kabupaten Banyumas, Jawa Tengah.
+- **[Air tak mengenal batas kota](https://www.antaranews.com/berita/5864043/air-tak-mengenal-batas-kota)** — ANTARA News · 19 Nov 07:54 WIB · kata kunci: **banjir**
+  > **Banjir** menjadi salah satu persoalan perkotaan yang tidak pernah selesai hanya dengan mengandalkan pembangunan saluran ...
+- **[Sugiono Tekankan Mitigasi Jangka Panjang Cegah Banjir di Subulussalam](https://www.cnnindonesia.com/nasional/20261118104627-633-1428432/sugiono-tekankan-mitigasi-jangka-panjang-cegah-banjir-di-subulussalam)** — CNN Indonesia — Nasional · 18 Nov 10:54 WIB · kata kunci: **banjir**
+  > Menko PMK Sugiono meninjau dampak **banjir** di Subulussalam, Aceh. Ia dorong kesiapsiagaan warga dan mitigasi jangka panjang untuk kurangi risiko bencana.
 
 ---
 ⚠ 2 feed gagal diambil: detikcom (RemoteDisconnected: Remote end closed connection without response); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)

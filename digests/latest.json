@@ -1,17 +1,27 @@
 {
- "date": "2026-11-18",
- "generated_at": "18 Nov 2026 10:20 WIB",
+ "date": "2026-11-19",
+ "generated_at": "19 Nov 2026 09:56 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Beban Berat Hidup Perempuan yang Terdampak Industri Nikel di Sulawesi",
-     "link": "https://mongabay.co.id/short-article/2026/11/beban-berat-hidup-perempuan-yang-terdampak-industri-nikel-di-sulawesi/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-17T10:00:12+00:00",
+     "title": "Pemprov Jatim Nonaktifkan Kepala DLH Tersangka Pungli Tambang Rp1,23 M",
+     "link": "https://www.cnnindonesia.com/nasional/20261118195356-20-1428715/pemprov-jatim-nonaktifkan-kepala-dlh-tersangka-pungli-tambang-rp123-m",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-18T23:50:31+07:00",
      "keywords": [
-      "nikel"
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "74 Tambang Emas Ilegal dan Kolam Sianida Ditemukan di Gunung Salak",
+     "link": "https://www.cnnindonesia.com/nasional/20261118135600-12-1428546/74-tambang-emas-ilegal-dan-kolam-sianida-ditemukan-di-gunung-salak",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-18T14:30:25+07:00",
+     "keywords": [
+      "tambang"
      ],
      "also_reported_by": []
     }
@@ -21,60 +31,10 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Psikolog kemukakan keterbatasan relasi dengan AI",
-     "link": "https://www.antaranews.com/berita/5861451/psikolog-kemukakan-keterbatasan-relasi-dengan-ai",
+     "title": "OPC Indonesia jembatani ekosistem bisnis AI China dan Indonesia",
+     "link": "https://www.antaranews.com/berita/5864055/opc-indonesia-jembatani-ekosistem-bisnis-ai-china-dan-indonesia",
      "source": "ANTARA News",
-     "published": "2026-11-18T10:17:40+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "SANY Siapkan Debut Agen AI dan Mesin Robotik di Pameran Terbesarnya dalam Ajang bauma CHINA",
-     "link": "https://www.antaranews.com/berita/5861407/sany-siapkan-debut-agen-ai-dan-mesin-robotik-di-pameran-terbesarnya-dalam-ajang-bauma-china",
-     "source": "ANTARA News",
-     "published": "2026-11-18T09:48:06+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
-     "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-     "source": "The Guardian — World",
-     "published": "2026-11-18T02:03:27+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
-     "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-     "source": "The Guardian — World",
-     "published": "2026-11-18T00:01:25+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Komisi I Usul RUU AI Masuk Prolegnas di DPR",
-     "link": "https://www.cnnindonesia.com/nasional/20261117202253-32-1428279/komisi-i-usul-ruu-ai-masuk-prolegnas-di-dpr",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-18T00:50:21+07:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-     "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-     "source": "The Guardian — World",
-     "published": "2026-11-17T11:00:39+00:00",
+     "published": "2026-11-19T08:01:12+07:00",
      "keywords": [
       "AI"
      ],
@@ -86,20 +46,20 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Banjir Bandang Terjang Melawi Kalbar, 178 KK Terdampak",
-     "link": "https://www.cnnindonesia.com/nasional/20261117135508-20-1428098/banjir-bandang-terjang-melawi-kalbar-178-kk-terdampak",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-17T14:09:25+07:00",
+     "title": "Air tak mengenal batas kota",
+     "link": "https://www.antaranews.com/berita/5864043/air-tak-mengenal-batas-kota",
+     "source": "ANTARA News",
+     "published": "2026-11-19T07:54:07+07:00",
      "keywords": [
       "banjir"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Banjir Longsor di Banyumas: 1 Tewas, 13 Pelajar Sempat Terjebak",
-     "link": "https://www.cnnindonesia.com/nasional/20261117134617-20-1428094/banjir-longsor-di-banyumas-1-tewas-13-pelajar-sempat-terjebak",
+     "title": "Sugiono Tekankan Mitigasi Jangka Panjang Cegah Banjir di Subulussalam",
+     "link": "https://www.cnnindonesia.com/nasional/20261118104627-633-1428432/sugiono-tekankan-mitigasi-jangka-panjang-cegah-banjir-di-subulussalam",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-17T13:56:46+07:00",
+     "published": "2026-11-18T10:54:03+07:00",
      "keywords": [
       "banjir"
      ],
