@@ -1448,6 +1448,22 @@
     "AI": 1,
     "banjir": 2
    }
+  },
+  {
+   "date": "2026-11-20",
+   "topics": {
+    "Pertambangan & Hilirisasi": 5,
+    "Teknologi & AI": 2,
+    "Lingkungan & Iklim": 4
+   },
+   "keywords": {
+    "tambang": 4,
+    "hilirisasi": 1,
+    "kecerdasan buatan": 1,
+    "AI": 2,
+    "banjir": 1,
+    "iklim": 3
+   }
   }
  ]
 }
