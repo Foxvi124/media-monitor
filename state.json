@@ -1,7 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5823043/menkomdigi-nilai-anak-muda-berperan-tentukan-arah-pemanfaatan-ai": "2026-10-31T01:26:05.611416+00:00",
-  "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case": "2026-10-31T01:26:05.611416+00:00",
   "https://www.antaranews.com/video/5824199/peneliti-dari-enam-negara-bahas-pemanfaatan-ai-di-bogor": "2026-11-01T00:44:14.445255+00:00",
   "https://mongabay.co.id/2026/10/31/masyarakat-sipil-asia-pasifik-sebut-kebakaran-hutan-sebagai-ekosida/": "2026-11-01T00:44:14.445255+00:00",
   "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west": "2026-11-01T00:44:14.445255+00:00",
@@ -129,16 +127,22 @@
   "https://www.cnnindonesia.com/nasional/20261119141417-32-1429016/menteri-lh-minta-perairan-ujung-kulon-dikeluarkan-dari-wilayah-tambang": "2026-11-20T02:51:51.258415+00:00",
   "https://www.cnnindonesia.com/nasional/20261119131811-25-1428972/hilirisasi-hingga-pariwisata-motor-baru-ekonomi-indonesia-timur": "2026-11-20T02:51:51.258415+00:00",
   "https://mongabay.co.id/2026/11/19/rencana-pemindahan-badak-jawa-dari-ujung-kulon-ke-alas-purwo-apakah-ada-kajian-ilmiah/": "2026-11-20T02:51:51.258415+00:00",
-  "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns": "2026-11-20T02:51:51.258415+00:00"
+  "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns": "2026-11-20T02:51:51.258415+00:00",
+  "https://www.antaranews.com/berita/5869067/curhat-ke-ai-makin-populer-apa-dampaknya-bagi-kesehatan-mental": "2026-11-21T02:59:15.486949+00:00",
+  "https://www.antaranews.com/berita/5868967/tiga-penambang-tewas-akibat-ledakan-tambang-batu-bara-di-kolombia": "2026-11-21T02:59:15.486949+00:00",
+  "https://www.cnnindonesia.com/nasional/20261120124112-20-1429393/modifikasi-cuaca-di-aceh-dimulai-hujan-digeser-ke-laut": "2026-11-21T02:59:15.486949+00:00",
+  "https://www.cnnindonesia.com/nasional/20261120094927-25-1429301/kemensos-siapkan-hilirisasi-siswa-sekolah-rakyat-lewat-sektor-maritim": "2026-11-21T02:59:15.486949+00:00",
+  "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off": "2026-11-21T02:59:15.486949+00:00",
+  "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china": "2026-11-21T02:59:15.486949+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
   "Tempo — Nasional": 0,
-  "detikcom": 111,
+  "detikcom": 112,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 111,
+  "The Conversation Indonesia": 112,
   "The Guardian — World": 0
  }
 }

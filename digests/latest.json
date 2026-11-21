@@ -1,55 +1,26 @@
 {
- "date": "2026-11-20",
- "generated_at": "20 Nov 2026 09:51 WIB",
+ "date": "2026-11-21",
+ "generated_at": "21 Nov 2026 09:59 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "31 Tambang Emas Ilegal di Taman Nasional Halimun Salak Ditertibkan",
-     "link": "https://www.cnnindonesia.com/nasional/20261120092916-12-1429294/31-tambang-emas-ilegal-di-taman-nasional-halimun-salak-ditertibkan",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-20T09:49:05+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Menhut tegaskan tak akan terbitkan PPKH tambang di TN Ujung Kulon",
-     "link": "https://www.antaranews.com/berita/5866595/menhut-tegaskan-tak-akan-terbitkan-ppkh-tambang-di-tn-ujung-kulon",
+     "title": "Tiga penambang tewas akibat ledakan tambang batu bara di Kolombia",
+     "link": "https://www.antaranews.com/berita/5868967/tiga-penambang-tewas-akibat-ledakan-tambang-batu-bara-di-kolombia",
      "source": "ANTARA News",
-     "published": "2026-11-20T09:09:38+07:00",
+     "published": "2026-11-21T09:01:00+07:00",
      "keywords": [
-      "tambang"
+      "tambang",
+      "batu bara"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Tersangka Korupsi Kadis LH Jatim Masih Terima Gaji dan Bantuan Hukum",
-     "link": "https://www.cnnindonesia.com/nasional/20261119162507-20-1429092/tersangka-korupsi-kadis-lh-jatim-masih-terima-gaji-dan-bantuan-hukum",
+     "title": "Kemensos Siapkan Hilirisasi Siswa Sekolah Rakyat lewat Sektor Maritim",
+     "link": "https://www.cnnindonesia.com/nasional/20261120094927-25-1429301/kemensos-siapkan-hilirisasi-siswa-sekolah-rakyat-lewat-sektor-maritim",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-19T17:49:12+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Menteri LH Minta Perairan Ujung Kulon Dikeluarkan dari Wilayah Tambang",
-     "link": "https://www.cnnindonesia.com/nasional/20261119141417-32-1429016/menteri-lh-minta-perairan-ujung-kulon-dikeluarkan-dari-wilayah-tambang",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-19T14:43:02+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Hilirisasi hingga Pariwisata, Motor Baru Ekonomi Indonesia Timur",
-     "link": "https://www.cnnindonesia.com/nasional/20261119131811-25-1428972/hilirisasi-hingga-pariwisata-motor-baru-ekonomi-indonesia-timur",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-19T13:40:45+07:00",
+     "published": "2026-11-20T09:52:12+07:00",
      "keywords": [
       "hilirisasi"
      ],
@@ -61,10 +32,10 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Presiden Prabowo Tekankan Penguasaan AI di APEC, Bahlil Dorong Energi Andal dan Bersih",
-     "link": "https://www.antaranews.com/berita/5866627/presiden-prabowo-tekankan-penguasaan-ai-di-apec-bahlil-dorong-energi-andal-dan-bersih",
+     "title": "Curhat ke AI makin populer, apa dampaknya bagi kesehatan mental?",
+     "link": "https://www.antaranews.com/berita/5869067/curhat-ke-ai-makin-populer-apa-dampaknya-bagi-kesehatan-mental",
      "source": "ANTARA News",
-     "published": "2026-11-20T09:27:34+07:00",
+     "published": "2026-11-21T09:57:13+07:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -72,12 +43,23 @@
      "also_reported_by": []
     },
     {
-     "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-     "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
      "source": "The Guardian — World",
-     "published": "2026-11-19T05:00:18+00:00",
+     "published": "2026-11-20T21:38:17+00:00",
      "keywords": [
-      "AI"
+      "AI",
+      "startup"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "California investigates Nvidia over whether chip exports ended up in China",
+     "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+     "source": "The Guardian — World",
+     "published": "2026-11-20T09:18:30+00:00",
+     "keywords": [
+      "chip"
      ],
      "also_reported_by": []
     }
@@ -87,42 +69,12 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Banjir Bandang di Lebak Banten, 2 Warga Baduy Hanyut Terseret Arus",
-     "link": "https://www.cnnindonesia.com/nasional/20261120083246-20-1429268/banjir-bandang-di-lebak-banten-2-warga-baduy-hanyut-terseret-arus",
+     "title": "Modifikasi Cuaca di Aceh Dimulai, Hujan Digeser ke Laut",
+     "link": "https://www.cnnindonesia.com/nasional/20261120124112-20-1429393/modifikasi-cuaca-di-aceh-dimulai-hujan-digeser-ke-laut",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-20T09:40:42+07:00",
+     "published": "2026-11-20T14:14:29+07:00",
      "keywords": [
       "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Dari pesisir ke panggung iklim, diplomasi karbon biru Indonesia",
-     "link": "https://www.antaranews.com/berita/5866599/dari-pesisir-ke-panggung-iklim-diplomasi-karbon-biru-indonesia",
-     "source": "ANTARA News",
-     "published": "2026-11-20T09:10:56+07:00",
-     "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Bakti Barito kenalkan pembiayaan wakaf untuk edukasi iklim bagi guru",
-     "link": "https://www.antaranews.com/berita/5866523/bakti-barito-kenalkan-pembiayaan-wakaf-untuk-edukasi-iklim-bagi-guru",
-     "source": "ANTARA News",
-     "published": "2026-11-20T08:14:52+07:00",
-     "keywords": [
-      "iklim"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Rencana Pemindahan Badak Jawa dari Ujung Kulon ke Alas Purwo, Apakah Ada Kajian Ilmiah?",
-     "link": "https://mongabay.co.id/2026/11/19/rencana-pemindahan-badak-jawa-dari-ujung-kulon-ke-alas-purwo-apakah-ada-kajian-ilmiah/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-19T22:27:57+00:00",
-     "keywords": [
-      "iklim"
      ],
      "also_reported_by": []
     }

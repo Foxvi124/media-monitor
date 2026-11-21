@@ -1464,6 +1464,24 @@
     "banjir": 1,
     "iklim": 3
    }
+  },
+  {
+   "date": "2026-11-21",
+   "topics": {
+    "Pertambangan & Hilirisasi": 2,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 1
+   },
+   "keywords": {
+    "tambang": 1,
+    "batu bara": 1,
+    "hilirisasi": 1,
+    "kecerdasan buatan": 1,
+    "AI": 2,
+    "startup": 1,
+    "chip": 1,
+    "banjir": 1
+   }
   }
  ]
 }
