@@ -1,65 +1,27 @@
 {
- "date": "2026-11-21",
- "generated_at": "21 Nov 2026 09:59 WIB",
+ "date": "2026-11-22",
+ "generated_at": "22 Nov 2026 08:55 WIB",
  "topics": [
-  {
-   "name": "Pertambangan & Hilirisasi",
-   "items": [
-    {
-     "title": "Tiga penambang tewas akibat ledakan tambang batu bara di Kolombia",
-     "link": "https://www.antaranews.com/berita/5868967/tiga-penambang-tewas-akibat-ledakan-tambang-batu-bara-di-kolombia",
-     "source": "ANTARA News",
-     "published": "2026-11-21T09:01:00+07:00",
-     "keywords": [
-      "tambang",
-      "batu bara"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Kemensos Siapkan Hilirisasi Siswa Sekolah Rakyat lewat Sektor Maritim",
-     "link": "https://www.cnnindonesia.com/nasional/20261120094927-25-1429301/kemensos-siapkan-hilirisasi-siswa-sekolah-rakyat-lewat-sektor-maritim",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-20T09:52:12+07:00",
-     "keywords": [
-      "hilirisasi"
-     ],
-     "also_reported_by": []
-    }
-   ]
-  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Curhat ke AI makin populer, apa dampaknya bagi kesehatan mental?",
-     "link": "https://www.antaranews.com/berita/5869067/curhat-ke-ai-makin-populer-apa-dampaknya-bagi-kesehatan-mental",
-     "source": "ANTARA News",
-     "published": "2026-11-21T09:57:13+07:00",
+     "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+     "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "source": "The Guardian — World",
+     "published": "2026-11-21T20:15:57+00:00",
      "keywords": [
-      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "title": "International UN talks on controlling use of autonomous weapons collapse",
+     "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
      "source": "The Guardian — World",
-     "published": "2026-11-20T21:38:17+00:00",
+     "published": "2026-11-21T16:36:11+00:00",
      "keywords": [
-      "AI",
-      "startup"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "California investigates Nvidia over whether chip exports ended up in China",
-     "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-     "source": "The Guardian — World",
-     "published": "2026-11-20T09:18:30+00:00",
-     "keywords": [
-      "chip"
+      "AI"
      ],
      "also_reported_by": []
     }
@@ -69,10 +31,20 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Modifikasi Cuaca di Aceh Dimulai, Hujan Digeser ke Laut",
-     "link": "https://www.cnnindonesia.com/nasional/20261120124112-20-1429393/modifikasi-cuaca-di-aceh-dimulai-hujan-digeser-ke-laut",
+     "title": "Longsor Susulan di Pejaten Timur Jaksel, Akses Jalan Terputus",
+     "link": "https://www.cnnindonesia.com/nasional/20261121203400-20-1429934/longsor-susulan-di-pejaten-timur-jaksel-akses-jalan-terputus",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-20T14:14:29+07:00",
+     "published": "2026-11-21T20:45:07+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Dua Daerah di Riau Tetapkan Status Siaga Bencana Banjir-Longsor",
+     "link": "https://www.cnnindonesia.com/nasional/20261121122412-20-1429797/dua-daerah-di-riau-tetapkan-status-siaga-bencana-banjir-longsor",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-21T13:52:47+07:00",
      "keywords": [
       "banjir"
      ],
@@ -84,8 +56,8 @@
  "feeds": [
   {
    "name": "ANTARA News",
-   "ok": true,
-   "error": null
+   "ok": false,
+   "error": "IncompleteRead: IncompleteRead(64889 bytes read, 10437 more expected)"
   },
   {
    "name": "BBC News Indonesia",
