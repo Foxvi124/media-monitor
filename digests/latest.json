@@ -1,25 +1,78 @@
 {
- "date": "2026-11-22",
- "generated_at": "22 Nov 2026 08:55 WIB",
+ "date": "2026-11-23",
+ "generated_at": "23 Nov 2026 09:18 WIB",
  "topics": [
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-     "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "title": "Perangkat berbasis AI pertama Nothing bakal dirilis 8 Desember 2026",
+     "link": "https://www.antaranews.com/berita/5871555/perangkat-berbasis-ai-pertama-nothing-bakal-dirilis-8-desember-2026",
+     "source": "ANTARA News",
+     "published": "2026-11-23T08:44:29+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Sering pakai ChatGPT? Waspadai dampaknya pada kemampuan berpikir",
+     "link": "https://www.antaranews.com/berita/5871463/sering-pakai-chatgpt-waspadai-dampaknya-pada-kemampuan-berpikir",
+     "source": "ANTARA News",
+     "published": "2026-11-23T05:54:20+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Situs AI Polres Bogor prediksi arus Jalur Puncak hingga 12 jam",
+     "link": "https://www.antaranews.com/berita/5871403/situs-ai-polres-bogor-prediksi-arus-jalur-puncak-hingga-12-jam",
+     "source": "ANTARA News",
+     "published": "2026-11-23T00:09:38+07:00",
+     "keywords": [
+      "kecerdasan buatan",
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+     "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
      "source": "The Guardian — World",
-     "published": "2026-11-21T20:15:57+00:00",
+     "published": "2026-11-22T20:23:36+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "International UN talks on controlling use of autonomous weapons collapse",
-     "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+     "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+     "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
      "source": "The Guardian — World",
-     "published": "2026-11-21T16:36:11+00:00",
+     "published": "2026-11-22T12:12:07+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Perpustakaan raksasa India diselidiki usai beli buku-buku yang diduga dibuat AI",
+     "link": "https://www.bbc.com/indonesia/articles/cje39194n5gro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-11-22T08:15:48+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+     "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+     "source": "The Guardian — World",
+     "published": "2026-11-22T06:00:21+00:00",
      "keywords": [
       "AI"
      ],
@@ -31,20 +84,10 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Longsor Susulan di Pejaten Timur Jaksel, Akses Jalan Terputus",
-     "link": "https://www.cnnindonesia.com/nasional/20261121203400-20-1429934/longsor-susulan-di-pejaten-timur-jaksel-akses-jalan-terputus",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-21T20:45:07+07:00",
-     "keywords": [
-      "banjir"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Dua Daerah di Riau Tetapkan Status Siaga Bencana Banjir-Longsor",
-     "link": "https://www.cnnindonesia.com/nasional/20261121122412-20-1429797/dua-daerah-di-riau-tetapkan-status-siaga-bencana-banjir-longsor",
-     "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-21T13:52:47+07:00",
+     "title": "BPBD Pamekasan terjunkan tim ke lokasi bencana di Batumarmar",
+     "link": "https://www.antaranews.com/berita/5871395/bpbd-pamekasan-terjunkan-tim-ke-lokasi-bencana-di-batumarmar",
+     "source": "ANTARA News",
+     "published": "2026-11-22T23:54:05+07:00",
      "keywords": [
       "banjir"
      ],
@@ -56,8 +99,8 @@
  "feeds": [
   {
    "name": "ANTARA News",
-   "ok": false,
-   "error": "IncompleteRead: IncompleteRead(64889 bytes read, 10437 more expected)"
+   "ok": true,
+   "error": null
   },
   {
    "name": "BBC News Indonesia",
@@ -77,7 +120,7 @@
   {
    "name": "detikcom",
    "ok": false,
-   "error": "RemoteDisconnected: Remote end closed connection without response"
+   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "name": "Mongabay Indonesia",
