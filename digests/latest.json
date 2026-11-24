@@ -1,15 +1,60 @@
 {
- "date": "2026-11-23",
- "generated_at": "23 Nov 2026 09:18 WIB",
+ "date": "2026-11-24",
+ "generated_at": "24 Nov 2026 12:44 WIB",
  "topics": [
+  {
+   "name": "Pertambangan & Hilirisasi",
+   "items": [
+    {
+     "title": "Perkuat hilirisasi, 93 kampus setujui kontrak pendanaan riset SINERGI",
+     "link": "https://www.antaranews.com/berita/5874159/perkuat-hilirisasi-93-kampus-setujui-kontrak-pendanaan-riset-sinergi",
+     "source": "ANTARA News",
+     "published": "2026-11-24T11:10:05+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Hilirisasi topang 31,2 persen dari total capaian investasi",
+     "link": "https://www.antaranews.com/berita/5874151/hilirisasi-topang-312-persen-dari-total-capaian-investasi",
+     "source": "ANTARA News",
+     "published": "2026-11-24T11:07:49+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Pemerintah Dorong Petani Tak Lagi Bergantung pada Bahan Mentah",
+     "link": "https://www.cnnindonesia.com/nasional/20261123135834-25-1430390/pemerintah-dorong-petani-tak-lagi-bergantung-pada-bahan-mentah",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-23T14:16:50+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Hilirisasi Luar Jawa Jadi Kunci Pemerataan Ekonomi dan Target 8 Persen",
+     "link": "https://www.cnnindonesia.com/nasional/20261123135538-25-1430388/hilirisasi-luar-jawa-jadi-kunci-pemerataan-ekonomi-dan-target-8-persen",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-23T14:10:08+07:00",
+     "keywords": [
+      "hilirisasi"
+     ],
+     "also_reported_by": []
+    }
+   ]
+  },
   {
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Perangkat berbasis AI pertama Nothing bakal dirilis 8 Desember 2026",
-     "link": "https://www.antaranews.com/berita/5871555/perangkat-berbasis-ai-pertama-nothing-bakal-dirilis-8-desember-2026",
+     "title": "Kemenag integrasikan AI dan STEM dengan nilai-nilai agama di madrasah",
+     "link": "https://www.antaranews.com/berita/5874255/kemenag-integrasikan-ai-dan-stem-dengan-nilai-nilai-agama-di-madrasah",
      "source": "ANTARA News",
-     "published": "2026-11-23T08:44:29+07:00",
+     "published": "2026-11-24T12:10:50+07:00",
      "keywords": [
       "kecerdasan buatan",
       "AI"
@@ -17,62 +62,61 @@
      "also_reported_by": []
     },
     {
-     "title": "Sering pakai ChatGPT? Waspadai dampaknya pada kemampuan berpikir",
-     "link": "https://www.antaranews.com/berita/5871463/sering-pakai-chatgpt-waspadai-dampaknya-pada-kemampuan-berpikir",
+     "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+     "source": "The Guardian — World",
+     "published": "2026-11-24T03:04:41+00:00",
+     "keywords": [
+      "AI",
+      "chip"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
+     "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+     "source": "The Guardian — World",
+     "published": "2026-11-24T05:22:20+00:00",
+     "keywords": [
+      "AI"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Amazon dan eBay diminta hentikan jual mainan anak AI",
+     "link": "https://www.antaranews.com/berita/5874263/amazon-dan-ebay-diminta-hentikan-jual-mainan-anak-ai",
      "source": "ANTARA News",
-     "published": "2026-11-23T05:54:20+07:00",
+     "published": "2026-11-24T12:13:11+07:00",
      "keywords": [
-      "kecerdasan buatan",
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Situs AI Polres Bogor prediksi arus Jalur Puncak hingga 12 jam",
-     "link": "https://www.antaranews.com/berita/5871403/situs-ai-polres-bogor-prediksi-arus-jalur-puncak-hingga-12-jam",
+     "title": "AstraZeneca perluas deteksi kanker paru berbasis kecerdasan buatan",
+     "link": "https://www.antaranews.com/berita/5874251/astrazeneca-perluas-deteksi-kanker-paru-berbasis-kecerdasan-buatan",
      "source": "ANTARA News",
-     "published": "2026-11-23T00:09:38+07:00",
+     "published": "2026-11-24T12:07:21+07:00",
      "keywords": [
-      "kecerdasan buatan",
-      "AI"
+      "kecerdasan buatan"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-     "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+     "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+     "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
      "source": "The Guardian — World",
-     "published": "2026-11-22T20:23:36+00:00",
+     "published": "2026-11-24T01:47:15+00:00",
      "keywords": [
       "AI"
      ],
      "also_reported_by": []
     },
     {
-     "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-     "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+     "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+     "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
      "source": "The Guardian — World",
-     "published": "2026-11-22T12:12:07+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "Perpustakaan raksasa India diselidiki usai beli buku-buku yang diduga dibuat AI",
-     "link": "https://www.bbc.com/indonesia/articles/cje39194n5gro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News Indonesia",
-     "published": "2026-11-22T08:15:48+00:00",
-     "keywords": [
-      "AI"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-     "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-     "source": "The Guardian — World",
-     "published": "2026-11-22T06:00:21+00:00",
+     "published": "2026-11-23T22:23:40+00:00",
      "keywords": [
       "AI"
      ],
@@ -84,12 +128,73 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "BPBD Pamekasan terjunkan tim ke lokasi bencana di Batumarmar",
-     "link": "https://www.antaranews.com/berita/5871395/bpbd-pamekasan-terjunkan-tim-ke-lokasi-bencana-di-batumarmar",
+     "title": "Dari Knalpot ke APBN: Jalan Menuju Transportasi Rendah Emisi",
+     "link": "https://www.cnnindonesia.com/nasional/20261120150357-21-1429528/dari-knalpot-ke-apbn-jalan-menuju-transportasi-rendah-emisi",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-23T13:57:41+07:00",
+     "keywords": [
+      "banjir",
+      "emisi"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Cerita dari COP31, Suara Masyarakat Adat, Penjaga Iklim yang Masih Terpinggirkan",
+     "link": "https://mongabay.co.id/2026/11/24/cerita-dari-cop31-suara-masyarakat-adat-penjaga-iklim-yang-masih-terpinggirkan/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-24T05:36:44+00:00",
+     "keywords": [
+      "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Baznas salurkan 1.500 porsi makanan siap saji untuk korban banjir Gaza",
+     "link": "https://www.antaranews.com/berita/5874171/baznas-salurkan-1500-porsi-makanan-siap-saji-untuk-korban-banjir-gaza",
      "source": "ANTARA News",
-     "published": "2026-11-22T23:54:05+07:00",
+     "published": "2026-11-24T11:16:01+07:00",
      "keywords": [
       "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kendati kecewa, China tegaskan komitmen hadapi perubahan iklim",
+     "link": "https://www.antaranews.com/berita/5874155/kendati-kecewa-china-tegaskan-komitmen-hadapi-perubahan-iklim",
+     "source": "ANTARA News",
+     "published": "2026-11-24T11:08:27+07:00",
+     "keywords": [
+      "iklim"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Banjir di Bagansiapiapi Riau 2 Pekan Tak Surut, Sekolah Dialihkan PJJ",
+     "link": "https://www.cnnindonesia.com/nasional/20261124084642-20-1430664/banjir-di-bagansiapiapi-riau-2-pekan-tak-surut-sekolah-dialihkan-pjj",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-24T09:17:13+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Longsor dan Banjir Imbas Hujan Deras di Klungkung Bali",
+     "link": "https://www.cnnindonesia.com/nasional/20261123152200-20-1430442/longsor-dan-banjir-imbas-hujan-deras-di-klungkung-bali",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-23T16:07:36+07:00",
+     "keywords": [
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Perundingan iklim PBB terlama sepanjang sejarah gagal capai kesepakatan, apa yang terjadi?",
+     "link": "https://www.bbc.com/indonesia/articles/cqrkg2njpezro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News Indonesia",
+     "published": "2026-11-23T08:27:09+00:00",
+     "keywords": [
+      "iklim"
      ],
      "also_reported_by": []
     }
@@ -120,7 +225,7 @@
   {
    "name": "detikcom",
    "ok": false,
-   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "error": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "name": "Mongabay Indonesia",
