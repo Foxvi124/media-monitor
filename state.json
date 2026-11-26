@@ -1,9 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/video/5832571/as-ajak-asean-perdalam-kerja-sama-frontier-ai-bagian-2": "2026-11-05T02:00:12.028176+00:00",
-  "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai": "2026-11-05T02:00:12.028176+00:00",
-  "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates": "2026-11-05T02:00:12.028176+00:00",
-  "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections": "2026-11-05T02:00:12.028176+00:00",
   "https://www.cnnindonesia.com/nasional/20261105162144-12-1423749/pengusaha-tambang-samin-tan-juga-didakwa-pencucian-uang-rp18-triliun": "2026-11-06T01:59:55.081243+00:00",
   "https://www.cnnindonesia.com/nasional/20261105151810-12-1423717/samin-tan-didakwa-rugikan-negara-rp177-triliun": "2026-11-06T01:59:55.081243+00:00",
   "https://mongabay.co.id/2026/11/05/nestapa-perempuan-terdampak-industri-nikel-di-sulawesi/": "2026-11-06T01:59:55.081243+00:00",
@@ -148,16 +144,38 @@
   "https://www.cnnindonesia.com/nasional/20261125085941-20-1431157/26-orang-terjebak-di-lubang-tambang-emas-ilegal-bogor-sejak-senin": "2026-11-25T04:47:25.100955+00:00",
   "https://mongabay.co.id/2026/11/24/ada-tambang-di-balik-wacana-badak-jawa-ujung-kulon-ke-alas-purwo/": "2026-11-25T04:47:25.100955+00:00",
   "https://mongabay.co.id/2026/11/24/lubang-bekas-tambang-batubara-di-kaltim-terus-memakan-korban/": "2026-11-25T04:47:25.100955+00:00",
-  "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb": "2026-11-25T04:47:25.100955+00:00"
+  "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb": "2026-11-25T04:47:25.100955+00:00",
+  "https://www.antaranews.com/berita/5879315/spacex-kantongi-izin-untuk-kirim-1-juta-satelit-pusat-data-ke-orbit": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.antaranews.com/berita/5879291/polisi-identifikasi-enam-dari-13-jenazah-korban-tambang-pongkor": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.antaranews.com/berita/5879287/tim-sar-lanjutkan-pencarian-13-penambang-ilegal-di-pongkor": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.antaranews.com/berita/5879255/wamen-stella-keberhasilan-pendidikan-ai-tergantung-pada-guru-di-kelas": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.antaranews.com/berita/5879251/polisi-usut-pemodal-tambang-ilegal-pongkor-usai-13-penambang-tewas": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.antaranews.com/berita/5879231/kapolda-jabar-13-penambang-pongkor-ditemukan-meninggal": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261126100513-20-1431682/korban-tewas-di-tambang-emas-ilegal-bogor-bertambah-jadi-13-orang": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261126075839-20-1431614/daftar-nama-6-korban-galian-tambang-ilegal-bogor-yang-teridentifikasi": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261126060558-20-1431583/fakta-fakta-tragedi-tambang-emas-ilegal-di-bogor": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125223239-12-1431570/kombes-f-disorot-dapat-jabatan-baru-di-tengah-kasus-penipuan-emas": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125203019-20-1431554/korban-tewas-di-tambang-emas-ilegal-bogor-bertambah-jadi-9-orang": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125191752-12-1431521/kasus-nikel-arif-kurniawan-kejagung-sita-emas-37-kg-dan-uang-rp558-m": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125184409-12-1431503/update-tragedi-tambang-emas-ilegal-bogor-7-orang-tewas-19-hilang": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125184232-12-1431501/kejagung-tetapkan-bos-nikel-arif-kurniawan-jadi-tersangka-tppu-tambang": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125134051-20-1431335/evakuasi-pekerja-tambang-ilegal-bogor-sulit-pompa-air-diterjunkan": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125144912-20-1431404/kedalaman-lubang-tambang-emas-bogor-capai-200-meter-dan-bercabang": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125152133-12-1431402/3-penambang-emas-di-bogor-ditemukan-tewas-23-orang-masih-dicari": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125142951-12-1431364/puluhan-orang-terjebak-polisi-usut-kasus-tambang-emas-ilegal-bogor": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125141312-20-1431351/2-penambang-emas-ilegal-bogor-ditemukan-tewas-di-kedalaman-40-meter": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.cnnindonesia.com/nasional/20261125112733-12-1431250/26-orang-terjebak-di-lubang-tambang-bogor-polisi-dirikan-posko-dvi": "2026-11-26T03:57:58.621230+00:00",
+  "https://mongabay.co.id/2026/11/26/ekonomi-sirkular-masih-munculkan-ketidakadilan/": "2026-11-26T03:57:58.621230+00:00",
+  "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference": "2026-11-26T03:57:58.621230+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
   "Tempo — Nasional": 0,
-  "detikcom": 116,
+  "detikcom": 117,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 116,
+  "The Conversation Indonesia": 117,
   "The Guardian — World": 0
  }
 }

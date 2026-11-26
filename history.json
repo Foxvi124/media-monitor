@@ -1537,6 +1537,24 @@
     "AI": 1,
     "iklim": 2
    }
+  },
+  {
+   "date": "2026-11-26",
+   "topics": {
+    "Pertambangan & Hilirisasi": 17,
+    "Teknologi & AI": 3,
+    "Lingkungan & Iklim": 3
+   },
+   "keywords": {
+    "tambang": 16,
+    "nikel": 2,
+    "chip": 1,
+    "startup": 1,
+    "pusat data": 1,
+    "AI": 1,
+    "iklim": 1,
+    "banjir": 2
+   }
   }
  ]
 }

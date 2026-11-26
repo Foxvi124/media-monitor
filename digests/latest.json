@@ -1,45 +1,181 @@
 {
- "date": "2026-11-25",
- "generated_at": "25 Nov 2026 11:47 WIB",
+ "date": "2026-11-26",
+ "generated_at": "26 Nov 2026 10:57 WIB",
  "topics": [
   {
    "name": "Pertambangan & Hilirisasi",
    "items": [
     {
-     "title": "Polisi dirikan posko identifikasi korban insiden tambang Pongkor",
-     "link": "https://www.antaranews.com/berita/5876667/polisi-dirikan-posko-identifikasi-korban-insiden-tambang-pongkor",
-     "source": "ANTARA News",
-     "published": "2026-11-25T10:46:14+07:00",
-     "keywords": [
-      "tambang"
-     ],
-     "also_reported_by": []
-    },
-    {
-     "title": "26 Orang Terjebak di Lubang Tambang Emas Ilegal Bogor Sejak Senin",
-     "link": "https://www.cnnindonesia.com/nasional/20261125085941-20-1431157/26-orang-terjebak-di-lubang-tambang-emas-ilegal-bogor-sejak-senin",
+     "title": "Korban Tewas di Tambang Emas Ilegal Bogor Bertambah Jadi 13 Orang",
+     "link": "https://www.cnnindonesia.com/nasional/20261126100513-20-1431682/korban-tewas-di-tambang-emas-ilegal-bogor-bertambah-jadi-13-orang",
      "source": "CNN Indonesia — Nasional",
-     "published": "2026-11-25T09:17:14+07:00",
+     "published": "2026-11-26T10:41:17+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": [
+      {
+       "source": "CNN Indonesia — Nasional",
+       "link": "https://www.cnnindonesia.com/nasional/20261125203019-20-1431554/korban-tewas-di-tambang-emas-ilegal-bogor-bertambah-jadi-9-orang"
+      }
+     ]
+    },
+    {
+     "title": "Kejagung Tetapkan Bos Nikel Arif Kurniawan Jadi Tersangka TPPU Tambang",
+     "link": "https://www.cnnindonesia.com/nasional/20261125184232-12-1431501/kejagung-tetapkan-bos-nikel-arif-kurniawan-jadi-tersangka-tppu-tambang",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T18:46:37+07:00",
+     "keywords": [
+      "nikel",
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Polisi identifikasi enam dari 13 jenazah korban tambang Pongkor",
+     "link": "https://www.antaranews.com/berita/5879291/polisi-identifikasi-enam-dari-13-jenazah-korban-tambang-pongkor",
+     "source": "ANTARA News",
+     "published": "2026-11-26T09:47:31+07:00",
      "keywords": [
       "tambang"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Ada Tambang di Balik Wacana Badak Jawa Ujung Kulon ke Alas Purwo?",
-     "link": "https://mongabay.co.id/2026/11/24/ada-tambang-di-balik-wacana-badak-jawa-ujung-kulon-ke-alas-purwo/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-24T23:43:46+00:00",
+     "title": "Tim SAR lanjutkan pencarian 13 penambang ilegal di Pongkor",
+     "link": "https://www.antaranews.com/berita/5879287/tim-sar-lanjutkan-pencarian-13-penambang-ilegal-di-pongkor",
+     "source": "ANTARA News",
+     "published": "2026-11-26T09:45:30+07:00",
      "keywords": [
       "tambang"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Lubang Bekas Tambang Batubara Kaltim Terus Memakan Korban",
-     "link": "https://mongabay.co.id/2026/11/24/lubang-bekas-tambang-batubara-di-kaltim-terus-memakan-korban/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-24T13:39:20+00:00",
+     "title": "Polisi usut pemodal tambang ilegal Pongkor usai 13 penambang tewas",
+     "link": "https://www.antaranews.com/berita/5879251/polisi-usut-pemodal-tambang-ilegal-pongkor-usai-13-penambang-tewas",
+     "source": "ANTARA News",
+     "published": "2026-11-26T09:27:12+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kapolda Jabar: 13 penambang Pongkor ditemukan meninggal",
+     "link": "https://www.antaranews.com/berita/5879231/kapolda-jabar-13-penambang-pongkor-ditemukan-meninggal",
+     "source": "ANTARA News",
+     "published": "2026-11-26T09:20:42+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Daftar Nama 6 Korban Galian Tambang Ilegal Bogor yang Teridentifikasi",
+     "link": "https://www.cnnindonesia.com/nasional/20261126075839-20-1431614/daftar-nama-6-korban-galian-tambang-ilegal-bogor-yang-teridentifikasi",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-26T08:13:57+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Fakta-fakta Tragedi Tambang Emas Ilegal di Bogor",
+     "link": "https://www.cnnindonesia.com/nasional/20261126060558-20-1431583/fakta-fakta-tragedi-tambang-emas-ilegal-di-bogor",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-26T07:27:01+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kombes F Disorot Dapat Jabatan Baru di Tengah Kasus Penipuan Emas",
+     "link": "https://www.cnnindonesia.com/nasional/20261125223239-12-1431570/kombes-f-disorot-dapat-jabatan-baru-di-tengah-kasus-penipuan-emas",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-26T01:30:52+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kasus Nikel Arif Kurniawan, Kejagung Sita Emas 37 Kg dan Uang Rp55,8 M",
+     "link": "https://www.cnnindonesia.com/nasional/20261125191752-12-1431521/kasus-nikel-arif-kurniawan-kejagung-sita-emas-37-kg-dan-uang-rp558-m",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T19:48:05+07:00",
+     "keywords": [
+      "nikel"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Update Tragedi Tambang Emas Ilegal Bogor: 7 Orang Tewas, 19 Hilang",
+     "link": "https://www.cnnindonesia.com/nasional/20261125184409-12-1431503/update-tragedi-tambang-emas-ilegal-bogor-7-orang-tewas-19-hilang",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T19:09:06+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Evakuasi Pekerja Tambang Ilegal Bogor Sulit, Pompa Air Diterjunkan",
+     "link": "https://www.cnnindonesia.com/nasional/20261125134051-20-1431335/evakuasi-pekerja-tambang-ilegal-bogor-sulit-pompa-air-diterjunkan",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T18:09:39+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Kedalaman Lubang Tambang Emas Bogor Capai 200 Meter dan Bercabang",
+     "link": "https://www.cnnindonesia.com/nasional/20261125144912-20-1431404/kedalaman-lubang-tambang-emas-bogor-capai-200-meter-dan-bercabang",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T15:50:05+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "3 Penambang Emas di Bogor Ditemukan Tewas, 23 Orang Masih Dicari",
+     "link": "https://www.cnnindonesia.com/nasional/20261125152133-12-1431402/3-penambang-emas-di-bogor-ditemukan-tewas-23-orang-masih-dicari",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T15:44:25+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Puluhan Orang Terjebak, Polisi Usut Kasus Tambang Emas Ilegal Bogor",
+     "link": "https://www.cnnindonesia.com/nasional/20261125142951-12-1431364/puluhan-orang-terjebak-polisi-usut-kasus-tambang-emas-ilegal-bogor",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T15:01:03+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "2 Penambang Emas Ilegal Bogor Ditemukan Tewas di Kedalaman 40 Meter",
+     "link": "https://www.cnnindonesia.com/nasional/20261125141312-20-1431351/2-penambang-emas-ilegal-bogor-ditemukan-tewas-di-kedalaman-40-meter",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T14:40:35+07:00",
+     "keywords": [
+      "tambang"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "26 Orang Terjebak di Lubang Tambang Bogor, Polisi Dirikan Posko DVI",
+     "link": "https://www.cnnindonesia.com/nasional/20261125112733-12-1431250/26-orang-terjebak-di-lubang-tambang-bogor-polisi-dirikan-posko-dvi",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T11:48:15+07:00",
      "keywords": [
       "tambang"
      ],
@@ -51,10 +187,31 @@
    "name": "Teknologi & AI",
    "items": [
     {
-     "title": "Australian politics live: Two Nationals kicked out of question time as Taylor slams ‘dirty deal’ with Greens; NSW responds to fire ant threat in Sydney",
-     "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+     "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+     "link": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
      "source": "The Guardian — World",
-     "published": "2026-11-25T04:41:09+00:00",
+     "published": "2026-11-25T19:57:49+00:00",
+     "keywords": [
+      "chip",
+      "startup"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "SpaceX kantongi izin untuk kirim 1 juta satelit pusat data ke orbit",
+     "link": "https://www.antaranews.com/berita/5879315/spacex-kantongi-izin-untuk-kirim-1-juta-satelit-pusat-data-ke-orbit",
+     "source": "ANTARA News",
+     "published": "2026-11-26T10:02:19+07:00",
+     "keywords": [
+      "pusat data"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Wamen Stella: Keberhasilan pendidikan AI tergantung pada guru di kelas",
+     "link": "https://www.antaranews.com/berita/5879255/wamen-stella-keberhasilan-pendidikan-ai-tergantung-pada-guru-di-kelas",
+     "source": "ANTARA News",
+     "published": "2026-11-26T09:31:38+07:00",
      "keywords": [
       "AI"
      ],
@@ -66,22 +223,32 @@
    "name": "Lingkungan & Iklim",
    "items": [
     {
-     "title": "Melampaui teknologi: membangun budaya K3 tangguh",
-     "link": "https://www.antaranews.com/berita/5876735/melampaui-teknologi-membangun-budaya-k3-tangguh",
-     "source": "ANTARA News",
-     "published": "2026-11-25T11:12:30+07:00",
+     "title": "Ekonomi Sirkular Masih Munculkan Ketidakadilan?",
+     "link": "https://mongabay.co.id/2026/11/26/ekonomi-sirkular-masih-munculkan-ketidakadilan/",
+     "source": "Mongabay Indonesia",
+     "published": "2026-11-26T01:50:09+00:00",
      "keywords": [
       "iklim"
      ],
      "also_reported_by": []
     },
     {
-     "title": "Ada Tambang di Balik Wacana Badak Jawa Ujung Kulon ke Alas Purwo?",
-     "link": "https://mongabay.co.id/2026/11/24/ada-tambang-di-balik-wacana-badak-jawa-ujung-kulon-ke-alas-purwo/",
-     "source": "Mongabay Indonesia",
-     "published": "2026-11-24T23:43:46+00:00",
+     "title": "Korban Tewas di Tambang Emas Ilegal Bogor Bertambah Jadi 9 Orang",
+     "link": "https://www.cnnindonesia.com/nasional/20261125203019-20-1431554/korban-tewas-di-tambang-emas-ilegal-bogor-bertambah-jadi-9-orang",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T20:56:44+07:00",
      "keywords": [
-      "iklim"
+      "banjir"
+     ],
+     "also_reported_by": []
+    },
+    {
+     "title": "Update Tragedi Tambang Emas Ilegal Bogor: 7 Orang Tewas, 19 Hilang",
+     "link": "https://www.cnnindonesia.com/nasional/20261125184409-12-1431503/update-tragedi-tambang-emas-ilegal-bogor-7-orang-tewas-19-hilang",
+     "source": "CNN Indonesia — Nasional",
+     "published": "2026-11-25T19:09:06+07:00",
+     "keywords": [
+      "banjir"
      ],
      "also_reported_by": []
     }
@@ -112,7 +279,7 @@
   {
    "name": "detikcom",
    "ok": false,
-   "error": "RemoteDisconnected: Remote end closed connection without response"
+   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "name": "Mongabay Indonesia",
