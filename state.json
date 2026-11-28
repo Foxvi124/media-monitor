@@ -1,13 +1,5 @@
 {
  "seen": {
-  "https://www.antaranews.com/berita/5837871/kemarin-pengurangan-relawan-mbg-penanganan-banjir-di-sanggau": "2026-11-07T01:39:39.431393+00:00",
-  "https://www.antaranews.com/berita/5837787/hukum-kemarin-kpk-sita-rp2-miliar-hingga-kasus-korupsi-nikel": "2026-11-07T01:39:39.431393+00:00",
-  "https://www.antaranews.com/berita/5837711/wamenko-pangan-400-pengusaha-tambang-digandeng-atasi-karhutla-kalteng": "2026-11-07T01:39:39.431393+00:00",
-  "https://www.cnnindonesia.com/nasional/20261106204857-12-1424294/tambang-emas-ilegal-di-tnks-dibongkar-119-hektare-kawasan-terdampak": "2026-11-07T01:39:39.431393+00:00",
-  "https://mongabay.co.id/2026/11/06/tambang-logam-tanah-jarang-resahkan-warga-mamuju/": "2026-11-07T01:39:39.431393+00:00",
-  "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph": "2026-11-07T01:39:39.431393+00:00",
-  "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam": "2026-11-07T01:39:39.431393+00:00",
-  "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft": "2026-11-07T01:39:39.431393+00:00",
   "https://www.antaranews.com/berita/5839047/kemenhub-percepat-dekarbonisasi-transportasi-demi-tekan-emisi": "2026-11-08T01:07:33.354943+00:00",
   "https://www.cnnindonesia.com/nasional/20261108143256-20-1424656/banjir-bandang-bawa-material-kayu-terjang-gayo-lues-aceh": "2026-11-09T01:27:53.820513+00:00",
   "https://mongabay.co.id/2026/11/08/jelang-cop31-dorong-aksi-iklim-tanpa-pasar-karbon-desak-pengakuan-hak-masyarakat-adat/": "2026-11-09T01:27:53.820513+00:00",
@@ -178,16 +170,31 @@
   "https://www.cnnindonesia.com/nasional/20261126120303-20-1431752/sungai-citarum-meluap-lalu-lintas-di-dayeuhkolot-bandung-dilaihkan": "2026-11-27T03:56:43.770289+00:00",
   "https://nasional.tempo.co/read/2124483/grup-barito-pacific-perkuat-diversifikasi-dan-integrasi-aset-dorong-hilirisasi-nasional": "2026-11-27T03:56:43.770289+00:00",
   "https://nasional.tempo.co/read/2124505/tim-environmental-freeport-temukan-spesies-kepiting-baru-di-papua": "2026-11-27T03:56:43.770289+00:00",
-  "https://mongabay.co.id/short-article/2026/11/akademisi-menilai-penanganan-karhutla-2026-masih-buruk/": "2026-11-27T03:56:43.770289+00:00"
+  "https://mongabay.co.id/short-article/2026/11/akademisi-menilai-penanganan-karhutla-2026-masih-buruk/": "2026-11-27T03:56:43.770289+00:00",
+  "https://www.antaranews.com/berita/5884443/pu-kerahkan-peralatan-dan-personel-tangani-banjir-di-kabupaten-bandung": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.antaranews.com/berita/5884371/pakar-70-persen-tambang-untuk-negara-harus-pertimbangkan-komoditas": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.bbc.com/indonesia/articles/cmkgdekg0e7lo?at_medium=RSS&at_campaign=rss": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127223821-12-1432560/operasi-sar-tambang-emas-ilegal-di-bogor-ditutup-14-masih-hilang": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127194427-12-1432519/polisi-ungkap-modus-tambang-emas-ilegal-timbun-puluhan-gurandil-bogor": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127175353-20-1432487/polisi-tetapkan-2-tersangka-tragedi-tambang-emas-ilegal-bogor": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127174919-24-1432482/update-sar-korban-tambang-emas-ilegal-bogor-jadi-27-orang": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127155136-12-1432422/kejagung-respons-syahganda-soal-arif-kurniawan-kabur-ke-china": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127151930-20-1432405/update-sar-korban-tambang-emas-ilegal-bogor-jadi-27-orang": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127144759-32-1432382/bahas-oligarki-terbesar-ri-syahganda-sebut-bos-tambang-arif-kurniawan": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127132928-12-1432306/arif-kurniawan-terduga-aktor-intelektual-makar-melarikan-diri-ke-china": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127114534-22-1432235/foto-banjir-luapan-sungai-citarum-kembali-rendam-dayeuhkolot-bandung": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127125658-12-1432278/jejak-arif-kurniawan-terjerat-kasus-nikel-kini-diduga-aktor-makar": "2026-11-28T03:43:50.861212+00:00",
+  "https://www.cnnindonesia.com/nasional/20261127115203-12-1432244/istana-bos-tambang-arif-kurniawan-terindikasi-aktor-intelektual-makar": "2026-11-28T03:43:50.861212+00:00",
+  "https://mongabay.co.id/2026/11/27/karhutla-reda-banjir-bandang-dan-tanah-longsor-datang/": "2026-11-28T03:43:50.861212+00:00"
  },
  "feed_health": {
   "ANTARA News": 0,
   "BBC News Indonesia": 0,
   "CNN Indonesia — Nasional": 0,
   "Tempo — Nasional": 0,
-  "detikcom": 118,
+  "detikcom": 119,
   "Mongabay Indonesia": 0,
-  "The Conversation Indonesia": 118,
+  "The Conversation Indonesia": 119,
   "The Guardian — World": 0
  }
 }

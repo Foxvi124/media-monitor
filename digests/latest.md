@@ -1,51 +1,40 @@
-# 📰 Digest Media — 2026-11-27
+# 📰 Digest Media — 2026-11-28
 
-_18 berita cocok · 286 artikel dipindai dari 6 feed · dibuat 27 Nov 2026 10:56 WIB_
+_14 berita cocok · 286 artikel dipindai dari 6 feed · dibuat 28 Nov 2026 10:43 WIB_
 
-## Pertambangan & Hilirisasi (6) ↑
+## Pertambangan & Hilirisasi (11) ↑
 
-- **[Membidik investasi Korsel dari hilirisasi baja hingga pusat data](https://www.antaranews.com/berita/5881835/membidik-investasi-korsel-dari-hilirisasi-baja-hingga-pusat-data)** — ANTARA News · 27 Nov 10:02 WIB · kata kunci: **hilirisasi**
-  > Indonesia membidik peluang investasi baru dari Korea Selatan (Korsel) dengan menyasar pengembangan ekosistem industri ...
-- **[Grup Barito Pacific Perkuat Diversifikasi dan Integrasi Aset, Dorong Hilirisasi Nasional](https://nasional.tempo.co/read/2124483/grup-barito-pacific-perkuat-diversifikasi-dan-integrasi-aset-dorong-hilirisasi-nasional)** — Tempo — Nasional · 27 Nov 07:00 WIB · kata kunci: **hilirisasi**
-  > Grup Barito Pacific memperkuat diversifikasi bisnis dan integrasi aset strategis untuk meningkatkan kinerja keuangan, mendukung **hilirisasi** industri nasional, serta menciptakan ribuan lapangan kerja.
-- **[Tim Environmental Freeport Temukan Spesies Kepiting Baru di Papua](https://nasional.tempo.co/read/2124505/tim-environmental-freeport-temukan-spesies-kepiting-baru-di-papua)** — Tempo — Nasional · 26 Nov 20:30 WIB · kata kunci: **freeport**
-  > Pemantauan lingkungan **Freeport** bersama peneliti selama hampir 30 tahun berhasil mengidentifikasi spesies kepiting baru di Mimika.
-- **[FOTO: Evakuasi Penambang Terjebak di Tambang Emas Ilegal Bogor](https://www.cnnindonesia.com/nasional/20261126175603-22-1431999/foto-evakuasi-penambang-terjebak-di-tambang-emas-ilegal-bogor)** — CNN Indonesia — Nasional · 26 Nov 18:12 WIB · kata kunci: **tambang**
-  > Operasi SAR puluhan penambang emas ilegal atau gurandil yang terjebak di lubang **tambang** ilegal Pongkor, Gunung Butak, terkendala genangan air dan kondisi cuaca.
-- **[Update Evakuasi Longsor Tambang Emas Ilegal Bogor, 13 Orang Tewas](https://www.cnnindonesia.com/nasional/20261126143548-24-1431875/update-evakuasi-longsor-tambang-emas-ilegal-bogor-13-orang-tewas)** — CNN Indonesia — Nasional · 26 Nov 15:08 WIB · kata kunci: **tambang**
-  > Tim SAR kembali menemukan korban penambangan ilegal yang terjebak di galian **tambang** emas kawasan Pongkor, Nanggung, Kab. Bogor, Kamis (26/11).
-- **[13 Orang Tewas, Polisi Usut Pidana di Tambang Emas Ilegal Bogor](https://www.cnnindonesia.com/nasional/20261126124923-12-1431787/13-orang-tewas-polisi-usut-pidana-di-tambang-emas-ilegal-bogor)** — CNN Indonesia — Nasional · 26 Nov 12:58 WIB · kata kunci: **tambang**
-  > Polisi menyelidiki penambangan emas ilegal di IUP PT Antam Tbk Pongkor setelah insiden 26 penambang terjebak. 13 korban dievakuasi dalam kondisi meninggal.
+- 🔥 **[Update SAR: Korban Tambang Emas Ilegal Bogor Jadi 27 Orang](https://www.cnnindonesia.com/nasional/20261127174919-24-1432482/update-sar-korban-tambang-emas-ilegal-bogor-jadi-27-orang)** — CNN Indonesia — Nasional · 27 Nov 18:10 WIB · kata kunci: **tambang**
+  > Tim SAR mengonfirmasi jumlah total penambang emas ilegal yang terjebak di kawasan Pongkor, Bogor bertambah menjadi 27 orang pada Jumat (27/11).
+- 🔥 **[Arif Kurniawan Terduga Aktor Intelektual Makar Melarikan Diri ke China](https://www.cnnindonesia.com/nasional/20261127132928-12-1432306/arif-kurniawan-terduga-aktor-intelektual-makar-melarikan-diri-ke-china)** — CNN Indonesia — Nasional · 27 Nov 13:47 WIB · kata kunci: **nikel**, **tambang**
+  > Kepala Bakom RI mengungkap Arif Kurniawan, pengusaha **tambang** **nikel** yang terindikasi terkait kasusu makar, diduga melarikan diri ke China.
+- 🔥 **[Jejak Arif Kurniawan: Terjerat Kasus Nikel, Kini Diduga Aktor Makar](https://www.cnnindonesia.com/nasional/20261127125658-12-1432278/jejak-arif-kurniawan-terjerat-kasus-nikel-kini-diduga-aktor-makar)** — CNN Indonesia — Nasional · 27 Nov 13:20 WIB · kata kunci: **nikel**, **tambang**
+  > Pengusaha **tambang** **nikel** Arif Kurniawan jadi sorotan setelah diduga terlibat makar dan tersangka korupsi. Kejagung sita aset Rp55,8 miliar dan 37 kg emas.
+- **[Pakar: 70 persen tambang untuk negara harus pertimbangkan komoditas](https://www.antaranews.com/berita/5884371/pakar-70-persen-tambang-untuk-negara-harus-pertimbangkan-komoditas)** — ANTARA News · 28 Nov 09:17 WIB · kata kunci: **tambang**
+  > Direktur Eksekutif Pusat Studi Hukum Energi dan Pertambangan (PUSHEP) Bisman Bakhtiar menyampaikan penerapan minimal 70 ...
+- **[Operasi SAR Tambang Emas Ilegal di Bogor Ditutup, 14 Masih Hilang](https://www.cnnindonesia.com/nasional/20261127223821-12-1432560/operasi-sar-tambang-emas-ilegal-di-bogor-ditutup-14-masih-hilang)** — CNN Indonesia — Nasional · 28 Nov 06:30 WIB · kata kunci: **tambang**
+  > Operasi SAR untuk 14 penambang terjebak di **tambang** emas ilegal di Bogor resmi ditutup setelah evaluasi risiko tinggi. 13 korban meninggal.
+- **[Polisi Ungkap Modus Tambang Emas Ilegal Timbun Puluhan Gurandil Bogor](https://www.cnnindonesia.com/nasional/20261127194427-12-1432519/polisi-ungkap-modus-tambang-emas-ilegal-timbun-puluhan-gurandil-bogor)** — CNN Indonesia — Nasional · 28 Nov 00:30 WIB · kata kunci: **tambang**
+  > Polisi ungkap penambangan emas ilegal di Gunung Butak, Bogor berujung tragedi terkuburnya puluhan gurandil. Proses evakuasi masih berlangsung.
+- **[Operasi pencarian penambang emas Pongkor memasuki 'fase kritis' – Bagaimana awal mula munculnya gurandil, siapa dua tersangka yang terlibat?](https://www.bbc.com/indonesia/articles/cmkgdekg0e7lo?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 27 Nov 21:14 WIB · kata kunci: **tambang**
+  > Polisi menetapkan dua tersangka dalam insiden **tambang** di Gunung Butak. Pemodal besar ditelusuri dengan UU Tindak Pidana Pencucian Uang.
+- **[Polisi Tetapkan 2 Tersangka Tragedi Tambang Emas Ilegal Bogor](https://www.cnnindonesia.com/nasional/20261127175353-20-1432487/polisi-tetapkan-2-tersangka-tragedi-tambang-emas-ilegal-bogor)** — CNN Indonesia — Nasional · 27 Nov 18:19 WIB · kata kunci: **tambang**
+  > Tim SAR melaporkan 27 penambang terjebak di **tambang** emas ilegal Pongkor, Bogor. Dua tersangka ditangkap, 13 jenazah telah dievakuasi, 14 masih hilang.
+- **[Kejagung Respons Syahganda soal Arif Kurniawan Kabur ke China](https://www.cnnindonesia.com/nasional/20261127155136-12-1432422/kejagung-respons-syahganda-soal-arif-kurniawan-kabur-ke-china)** — CNN Indonesia — Nasional · 27 Nov 16:01 WIB · kata kunci: **nikel**
+  > Kejaksaan Agung merespons informasi mengenai pelarian bos **nikel** Arif Kurniawan ke China.
+- **[Bahas Oligarki Terbesar RI, Syahganda Sebut Bos Tambang Arif Kurniawan](https://www.cnnindonesia.com/nasional/20261127144759-32-1432382/bahas-oligarki-terbesar-ri-syahganda-sebut-bos-tambang-arif-kurniawan)** — CNN Indonesia — Nasional · 27 Nov 15:39 WIB · kata kunci: **tambang**
+  > Kepala Bakom RI Syahganda Nainggolan mengklaim Arif Kurniawan sebagai oligarki terbesar dan terindikasi aktor intelektual dalam kasus makar.
+- **[Raja Nikel Arif Kurniawan Diduga Dalang Makar Kabur ke China](https://www.cnnindonesia.com/nasional/20261127115203-12-1432244/istana-bos-tambang-arif-kurniawan-terindikasi-aktor-intelektual-makar)** — CNN Indonesia — Nasional · 27 Nov 12:07 WIB · kata kunci: **nikel**
+  > Kepala Bakom RI menyebut Arif Kurniawan sebagai aktor intelektual dugaan makar terhadap pemerintahan Prabowo. Penyidik lacak keberadaannya di luar negeri.
 
-## Teknologi & AI (3) →
+## Lingkungan & Iklim (3) →
 
-- 🔥 **[Kemenekraf ajak pelaku ekraf manfaatkan AI untuk dukung bisnis digital](https://www.antaranews.com/berita/5881779/kemenekraf-ajak-pelaku-ekraf-manfaatkan-ai-untuk-dukung-bisnis-digital)** — ANTARA News · 27 Nov 08:49 WIB · kata kunci: **kecerdasan buatan**, **AI**
-  > Kementerian Ekonomi Kreatif (Kemenekraf) mendorong pelaku usaha ekonomi kreatif memanfaatkan **kecerdasan buatan** (**AI**) ...
-- **[Membidik investasi Korsel dari hilirisasi baja hingga pusat data](https://www.antaranews.com/berita/5881835/membidik-investasi-korsel-dari-hilirisasi-baja-hingga-pusat-data)** — ANTARA News · 27 Nov 10:02 WIB · kata kunci: **pusat data**
-  > Indonesia membidik peluang investasi baru dari Korea Selatan (Korsel) dengan menyasar pengembangan ekosistem industri ...
-- **[New York larang mainan chatbot AI yang targetkan anak-anak](https://www.antaranews.com/berita/5881727/new-york-larang-mainan-chatbot-ai-yang-targetkan-anak-anak)** — ANTARA News · 27 Nov 08:07 WIB · kata kunci: **AI**
-  > Negara bagian AS, New York, dilaporkan secara resmi melarang penjualan mainan chatbot **AI** selama lima tahun yang resmi ...
-
-## Lingkungan & Iklim (9) ↑
-
-- **[Hujan deras, ribuan warga Dayeuhkolot terdampak banjir luapan Sungai Citarum](https://www.antaranews.com/foto/5881887/hujan-deras-ribuan-warga-dayeuhkolot-terdampak-banjir-luapan-sungai-citarum)** — ANTARA News · 27 Nov 10:31 WIB · kata kunci: **banjir**
-  > Anak-anak bermain di genangan air saat **banjir** yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa ...
-- **[Banjir di Aceh Meluas: Puluhan Desa Masih Terendam, Ribuan Terdampak](https://www.cnnindonesia.com/nasional/20261127075007-20-1432116/banjir-di-aceh-meluas-puluhan-desa-masih-terendam-ribuan-terdampak)** — CNN Indonesia — Nasional · 27 Nov 08:27 WIB · kata kunci: **banjir**
-  > **Banjir** masih menggenangi Subulussalam dan Aceh Singkil, dampak hujan deras. 10.999 jiwa terdampak di Subulussalam, 14.004 jiwa di Aceh Singkil.
-- **[Penampakan Banjir Dayeuhkolot Bandung Imbas Luapan Sungai Citarum](https://www.cnnindonesia.com/nasional/20261127071948-24-1432107/penampakan-banjir-dayeuhkolot-bandung-imbas-luapan-sungai-citarum)** — CNN Indonesia — Nasional · 27 Nov 07:47 WIB · kata kunci: **banjir**
-  > Luapan Sungai Citarum menyebabkan sejumlah wilayah di Kabupaten Bandung, Jawa Barat, terendam **banjir** pada Kamis (26/11).
-- **['Kami petani sudah kehabisan modal' – Gagal panen dan mundurnya masa tanam akibat El Niño ancam pasokan dan harga beras tahun depan](https://www.bbc.com/indonesia/articles/cmvg2wq7k6vpo?at_medium=RSS&at_campaign=rss)** — BBC News Indonesia · 27 Nov 07:24 WIB · kata kunci: **banjir**
-  > Serikat Petani Indonesia (SPI) menyebut dampak cuaca ekstrem tahun ini tidak hanya berupa gagal panen, tetapi juga gagal tanam dan penurunan produktivitas di berbagai sentra pertanian akibat kekeringan, **banjir**, dan kebak…
-- **[Banjir Pesisir Selatan Sumbar Rendam 1.190 Rumah, Akses Terputus](https://www.cnnindonesia.com/nasional/20261126190101-20-1432025/banjir-pesisir-selatan-sumbar-rendam-1190-rumah-akses-terputus)** — CNN Indonesia — Nasional · 27 Nov 00:00 WIB · kata kunci: **banjir**
-  > BNPB melaporkan 1.190 rumah terdampak **banjir** di Pesisir Selatan, Sumbar.
-- **[Banjir Kota Palembang Lumpuhkan Aktivitas Warga, Sekolah Diliburkan](https://www.cnnindonesia.com/nasional/20261126133608-20-1431831/banjir-kota-palembang-lumpuhkan-aktivitas-warga-sekolah-diliburkan)** — CNN Indonesia — Nasional · 26 Nov 14:02 WIB · kata kunci: **banjir**
-  > **Banjir** melanda Kota Palembang setelah hujan deras, merendam permukiman dan jalan utama. Warga berharap pemerintah segera perbaiki sistem drainase.
-- **[Wisata Air Panas Guci Kembali Diterjang Banjir Bandang](https://www.cnnindonesia.com/nasional/20261126121155-20-1431759/wisata-air-panas-guci-kembali-diterjang-banjir-bandang)** — CNN Indonesia — Nasional · 26 Nov 12:24 WIB · kata kunci: **banjir**
-  > **Banjir** bandang kembali menerjang kawasan wisata Guci, Tegal, akibat hujan deras. Kawasan tersebut tengah diperbaiki imbas **banjir** awal tahun 2026.
-- **[Sungai Citarum Meluap, Lalu Lintas di Dayeuhkolot Bandung Dilaihkan](https://www.cnnindonesia.com/nasional/20261126120303-20-1431752/sungai-citarum-meluap-lalu-lintas-di-dayeuhkolot-bandung-dilaihkan)** — CNN Indonesia — Nasional · 26 Nov 12:13 WIB · kata kunci: **banjir**
-  > Polisi menerapkan rekayasa lalu lintas di Dayeuhkolot, Bandung, akibat **banjir**. Genangan air dinilai berisiko bagi pengendara.
-- **[Akademisi Menilai Penanganan Karhutla 2026 Masih Buruk](https://mongabay.co.id/short-article/2026/11/akademisi-menilai-penanganan-karhutla-2026-masih-buruk/)** — Mongabay Indonesia · 26 Nov 11:06 WIB · kata kunci: **iklim**
-  > Kebakaran hutan dan lahan (karhutla) tahun ini kembali meluas. Data MapBiomas menunjukkan, luas indikasi lahan terbakar sejak Januari hingga September mencapai 1.103.132 hektar. Kondisi ini memperlihatkan upaya pemerinta…
+- **[PU kerahkan peralatan dan personel tangani banjir di Kabupaten Bandung](https://www.antaranews.com/berita/5884443/pu-kerahkan-peralatan-dan-personel-tangani-banjir-di-kabupaten-bandung)** — ANTARA News · 28 Nov 10:18 WIB · kata kunci: **banjir**
+  > Kementerian Pekerjaan Umum (PU) mengerahkan peralatan dan personel untuk menangani **banjir** yang melanda Kabupaten ...
+- **[Karhutla Reda, Banjir Bandang dan Tanah Longsor Datang](https://mongabay.co.id/2026/11/27/karhutla-reda-banjir-bandang-dan-tanah-longsor-datang/)** — Mongabay Indonesia · 27 Nov 18:58 WIB · kata kunci: **banjir**
+  > Bencana bertubi-tubi menerpa di berbagai wilayah Indonesia. Ibarat habis gelap, terbitlah kelam. Setelah kebakaran hutan dan lahan (karhutla) di Indonesia mulai mereda, hujan turun, berganti **banjir** dan longsor melanda. “…
+- **[FOTO: Banjir Luapan Sungai Citarum Kembali Rendam Dayeuhkolot Bandung](https://www.cnnindonesia.com/nasional/20261127114534-22-1432235/foto-banjir-luapan-sungai-citarum-kembali-rendam-dayeuhkolot-bandung)** — CNN Indonesia — Nasional · 27 Nov 13:26 WIB · kata kunci: **banjir**
+  > Sbanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak **banjir** sejak Kamis (26/11) akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya
 
 ---
 ⚠ 2 feed gagal diambil: detikcom (URLError: <urlopen error [Errno -2] Name or service not known>); The Conversation Indonesia (HTTPError: HTTP Error 406: Not Acceptable)
